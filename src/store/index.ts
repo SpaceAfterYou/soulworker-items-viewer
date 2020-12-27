@@ -1,6 +1,6 @@
 import { createStore } from 'vuex';
 
-type SWItem = {
+export type SWItem = {
   id: number,
   type: number,
   name: string,
@@ -15,19 +15,21 @@ export default createStore({
   },
 
   getters: {
-    getItemsBy: (state) => (predicate: (value: SWItem) => boolean, offset: number, limit: number, perPage = 200) => {
+    itemsCount: (state) => state.items.length,
+
+    itemsGetPage: (state) => (offset: number, limit = 200) => {
+      const _offset = offset * limit;
+      return state.items.slice(_offset, _offset + limit);
+    },
+
+    itemsGetBy: (state) => (predicate: (value: SWItem) => boolean, offset: number, limit: number, perPage = 200) => {
       const _offset = offset * perPage;
       return state.items.filter(predicate).slice(_offset, _offset + limit);
     },
-
-    getItemsPage: (state) => (offset: number, limit: number, perPage = 200) => {
-      const _offset = offset * perPage;
-      return state.items.slice(_offset, _offset + limit);
-    }
   },
 
   mutations: {
-    setItems: (state) => ({ items }: { items: SWItem[]; }) => {
+    itemsSet: (state, { items }: { items: SWItem[]; }) => {
       state.items = items;
     }
   },
