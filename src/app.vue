@@ -1,4 +1,15 @@
-<template v-if="countItems > 0">
+<template v-if="itemsCount() > 0">
+  <div class="pages">
+    <span
+      v-for="(index, key) in Math.ceil(itemsCount() / limit)"
+      :class="['page', { 'selected-page': key == offset }]"
+      :key="key"
+      @click="pageChange(key)"
+    >
+      {{ index }}
+    </span>
+  </div>
+
   <div class="table-items">
     <div
       class="table-item"
@@ -9,7 +20,11 @@
     />
   </div>
 
-  <div class="selected-wrapper" v-if="selected !== null" @click.self.prevent="selected = null">
+  <div
+    class="selected-wrapper"
+    v-if="selected !== null"
+    @click.self.prevent="selected = null"
+  >
     <div class="selected">
       <div class="selected-icon" :style="iconStyle(selected)" />
       <span class="selected-id" v-text="selected.id" />
@@ -39,6 +54,10 @@ export default defineComponent({
   methods: {
     ...mapMutations(["itemsSet"]),
     ...mapGetters(["itemsCount", "itemsGetPage"]),
+
+    pageChange(offset: number) {
+      this.offset = offset;
+    },
 
     iconStyle(item: SWItem) {
       return {
@@ -89,6 +108,36 @@ export default defineComponent({
   background-color: var(--bg-color);
 
   padding: 4px;
+}
+</style>
+
+<style lang="scss" scoped>
+.pages {
+  padding: 4px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.page {
+  text-align: center;
+  flex-basis: 40px;
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0.068);
+
+  transition: var(--animation-long-time) var(--animation-function);
+  cursor: pointer;
+
+  &:hover {
+    background-color: var(--pink-color);
+    transition: var(--animation-very-short-time) var(--animation-function);
+  }
+}
+
+.selected-page {
+  cursor: default;
+  transition: unset;
+  background-color: var(--pink-color);
+  pointer-events: none;
 }
 </style>
 
@@ -147,7 +196,6 @@ $cellSize: $cellBaseSize + ($borderSize * 2);
   display: grid;
   grid-template-columns: auto 1fr;
   align-items: center;
-  // gap: 4px;
 }
 
 .selected-icon {
