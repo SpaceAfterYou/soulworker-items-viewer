@@ -32,6 +32,13 @@
       <span class="selected-description" v-html="selected.description" />
     </div>
   </div>
+
+  <footer class="footer">
+    <a class="link" href="https://github.com/sawich/soulworker-items-viewer"
+      >GitHub</a
+    >
+    <a class="link" href="http://discord.gg/SequFJP">Discord</a>
+  </footer>
 </template>
 
 <script lang="ts">
@@ -218,5 +225,23 @@ $cellSize: $cellBaseSize + ($borderSize * 2);
 
 .selected-description {
   grid-column: 1 / 3;
+}
+</style>
+
+<style lang="scss" scoped>
+.footer {
+  text-align: center;
+  padding: 100px 0;
+}
+
+.link {
+  padding: 10px;
+  transition: var(--animation-long-time) var(--animation-function);
+  cursor: pointer;
+
+  &:hover {
+    color: var(--pink-color);
+    transition: var(--animation-very-short-time) var(--animation-function);
+  }
 }
 </style>
