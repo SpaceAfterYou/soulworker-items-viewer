@@ -1,6 +1,6 @@
 <template>
   <div class="filter-block">
-    <h2>Slot Type</h2>
+    <h2>{{ name }}</h2>
     <div class="filter-body">
       <span
         v-for="value of values"
@@ -23,7 +23,7 @@ export default defineComponent({
 
   methods: {
     id(value: number | string) {
-      return `${name}-${value}`;
+      return `${this.name}-${value}`;
     },
 
     filter(value: number) {

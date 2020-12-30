@@ -5,19 +5,19 @@
     <FilterComponent
       :values="slotTypesGet()"
       :filters="filters"
-      :name="'slot-type'"
+      :name="'Slot Type'"
     />
 
     <FilterComponent
       :values="inventoryTypesGet()"
       :filters="filters"
-      :name="'inventory-type'"
+      :name="'Inventory Type'"
     />
 
     <FilterComponent
       :values="gainTypesGet()"
       :filters="filters"
-      :name="'gain-type'"
+      :name="'Gain Type'"
     />
   </aside>
 
