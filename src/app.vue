@@ -3,17 +3,33 @@
     <h1>Sort</h1>
     <div class="sidebar-block">
       <h2>Slot Type</h2>
-      <div class="slot-types">
+      <div class="filter-block">
         <span
           v-for="slotType of slotTypesGet()"
           :class="[
-            'slot-type',
-            { 'selected-slot-type': filters.has(`slot-type-${slotType}`) },
+            'filter',
+            { 'selected-filter': filters.has(`slot-type-${slotType}`) },
           ]"
           :key="slotType"
           @click="filterBySlotType(slotType)"
         >
           {{ slotType }}
+        </span>
+      </div>
+    </div>
+    <div class="sidebar-block">
+      <h2>Inventory Type</h2>
+      <div class="filter-block">
+        <span
+          v-for="inventoryType of inventoryTypesGet()"
+          :class="[
+            'filter',
+            { 'selected-filter': filters.has(`inventory-type-${inventoryType}`) },
+          ]"
+          :key="inventoryType"
+          @click="filterByInventoryType(inventoryType)"
+        >
+          {{ inventoryType }}
         </span>
       </div>
     </div>
@@ -104,6 +120,19 @@ export default defineComponent({
       }
     },
 
+    filterByInventoryType(value: number) {
+      const id = `inventory-type-${value}`;
+      const functor = (item: SWItem) => item.inventoryType == value;
+
+      if (this.filters.has(id)) {
+        this.filters.delete(id);
+        console.log(`disable filterByInventoryType: ${value}`);
+      } else {
+        this.filters.set(id, functor);
+        console.log(`enable filterByInventoryType: ${value}`);
+      }
+    },
+
     pageChange(offset: number) {
       this.offset = offset;
     },
@@ -180,22 +209,13 @@ h2 {
 </style>
 
 <style lang="scss" scoped>
-// .slot-type {
-//   padding: 10px;
-//   background-color: rgba(255, 255, 255, 0.089);
-//   cursor: pointer;
-// }
-</style>
-
-<style lang="scss" scoped>
-.slot-types,
 .pages {
   padding: 4px;
   display: flex;
   flex-wrap: wrap;
 }
 
-.slot-type,
+.filter,
 .page {
   text-align: center;
   flex-basis: 40px;
@@ -209,6 +229,17 @@ h2 {
     background-color: var(--pink-color);
     transition: var(--animation-very-short-time) var(--animation-function);
   }
+}
+
+.filter-block {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 4px;
+  padding: 4px;
+}
+
+.filter {
+  padding: 10px 0;
 }
 
 .selected-page {
