@@ -4,6 +4,7 @@ export type SWItem = {
   id: number,
   slotType: number;
   inventoryType: number;
+  gainType: number,
   name: string,
   description: string,
   icon: string,
@@ -14,7 +15,8 @@ export default createStore({
   state: {
     items: [] as SWItem[],
     inventoryTypes: [] as number[],
-    slotTypes: [] as number[]
+    slotTypes: [] as number[],
+    gainTypes: [] as number[],
   },
 
   getters: {
@@ -35,6 +37,8 @@ export default createStore({
     slotTypesGet: (state) => state.slotTypes,
 
     inventoryTypesGet: (state) => state.inventoryTypes,
+
+    gainTypesGet: (state) => state.gainTypes,
   },
 
   mutations: {
@@ -48,6 +52,10 @@ export default createStore({
 
     inventoryTypesSet: (state, { inventoryTypes }: { inventoryTypes: number[]; }) => {
       state.inventoryTypes = inventoryTypes;
+    },
+
+    gainTypesSet: (state, { gainTypes }: { gainTypes: number[]; }) => {
+      state.gainTypes = gainTypes;
     }
   },
 

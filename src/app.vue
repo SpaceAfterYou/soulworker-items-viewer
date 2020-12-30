@@ -1,38 +1,24 @@
 <template v-if="itemsCount() > 0">
   <aside class="sidebar">
     <h1>Sort</h1>
-    <div class="sidebar-block">
-      <h2>Slot Type</h2>
-      <div class="filter-block">
-        <span
-          v-for="slotType of slotTypesGet()"
-          :class="[
-            'filter',
-            { 'selected-filter': filters.has(`slot-type-${slotType}`) },
-          ]"
-          :key="slotType"
-          @click="filterBySlotType(slotType)"
-        >
-          {{ slotType }}
-        </span>
-      </div>
-    </div>
-    <div class="sidebar-block">
-      <h2>Inventory Type</h2>
-      <div class="filter-block">
-        <span
-          v-for="inventoryType of inventoryTypesGet()"
-          :class="[
-            'filter',
-            { 'selected-filter': filters.has(`inventory-type-${inventoryType}`) },
-          ]"
-          :key="inventoryType"
-          @click="filterByInventoryType(inventoryType)"
-        >
-          {{ inventoryType }}
-        </span>
-      </div>
-    </div>
+
+    <FilterComponent
+      :values="slotTypesGet()"
+      :filters="filters"
+      :name="'slot-type'"
+    />
+
+    <FilterComponent
+      :values="inventoryTypesGet()"
+      :filters="filters"
+      :name="'inventory-type'"
+    />
+
+    <FilterComponent
+      :values="gainTypesGet()"
+      :filters="filters"
+      :name="'gain-type'"
+    />
   </aside>
 
   <div class="content">
@@ -80,7 +66,7 @@
 </template>
 
 <script lang="ts">
-import { defineComponent } from "vue";
+import { defineAsyncComponent, defineComponent } from "vue";
 import { mapGetters, mapMutations } from "vuex";
 import { SWItem } from "./store";
 
@@ -99,12 +85,18 @@ export default defineComponent({
   },
 
   methods: {
-    ...mapMutations(["itemsSet", "slotTypesSet", "inventoryTypesSet"]),
+    ...mapMutations([
+      "itemsSet",
+      "slotTypesSet",
+      "inventoryTypesSet",
+      "gainTypesSet",
+    ]),
     ...mapGetters([
       "itemsCount",
       "itemsGet",
       "slotTypesGet",
       "inventoryTypesGet",
+      "gainTypesGet",
     ]),
 
     filterBySlotType(value: number) {
@@ -133,6 +125,19 @@ export default defineComponent({
       }
     },
 
+    filterByGainType(value: number) {
+      const id = `gain-type-${value}`;
+      const functor = (item: SWItem) => item.gainType == value;
+
+      if (this.filters.has(id)) {
+        this.filters.delete(id);
+        console.log(`disable filterByGainType: ${value}`);
+      } else {
+        this.filters.set(id, functor);
+        console.log(`enable filterByGainType: ${value}`);
+      }
+    },
+
     pageChange(offset: number) {
       this.offset = offset;
     },
@@ -148,18 +153,24 @@ export default defineComponent({
     },
   },
 
-  components: {},
+  components: {
+    FilterComponent: defineAsyncComponent(
+      () => import("@/components/filter-component.vue")
+    ),
+  },
 
   async created() {
-    const [items, inventoryTypes, slotTypes] = await Promise.all([
+    const [items, inventoryTypes, slotTypes, gainTypes] = await Promise.all([
       fetch("./data.json").then((r) => r.json()),
       fetch("./inventoryTypes.json").then((r) => r.json()),
       fetch("./slotTypes.json").then((r) => r.json()),
+      fetch("./gainTypes.json").then((r) => r.json()),
     ]);
 
     this.itemsSet({ items });
     this.inventoryTypesSet({ inventoryTypes });
     this.slotTypesSet({ slotTypes });
+    this.gainTypesSet({ gainTypes });
   },
 });
 </script>
@@ -215,7 +226,6 @@ h2 {
   flex-wrap: wrap;
 }
 
-.filter,
 .page {
   text-align: center;
   flex-basis: 40px;
@@ -231,30 +241,11 @@ h2 {
   }
 }
 
-.filter-block {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 4px;
-  padding: 4px;
-}
-
-.filter {
-  padding: 10px 0;
-}
-
 .selected-page {
   cursor: default;
   transition: unset;
   background-color: var(--pink-color);
   pointer-events: none;
-}
-
-.selected-filter {
-  background-color: var(--pink-color);
-
-  &:hover {
-  background-color: rgba(255, 255, 255, 0.493);
-  }
 }
 </style>
 
