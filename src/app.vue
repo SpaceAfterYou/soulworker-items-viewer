@@ -249,7 +249,7 @@ h2 {
   pointer-events: none;
 }
 
-.selected-slot-type {
+.selected-filter {
   background-color: var(--pink-color);
 
   &:hover {
