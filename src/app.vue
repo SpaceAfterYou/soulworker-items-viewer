@@ -1,35 +1,57 @@
 <template v-if="itemsCount() > 0">
-  <div class="pages">
-    <span
-      v-for="(index, key) in Math.ceil(itemsCount() / limit)"
-      :class="['page', { 'selected-page': key == offset }]"
-      :key="key"
-      @click="pageChange(key)"
-    >
-      {{ index }}
-    </span>
-  </div>
+  <aside class="sidebar">
+    <h1>Sort</h1>
+    <div class="sidebar-block">
+      <h2>Slot Type</h2>
+      <div class="slot-types">
+        <span
+          v-for="slotType of slotTypesGet()"
+          :class="[
+            'slot-type',
+            { 'selected-slot-type': filters.has(`slot-type-${slotType}`) },
+          ]"
+          :key="slotType"
+          @click="filterBySlotType(slotType)"
+        >
+          {{ slotType }}
+        </span>
+      </div>
+    </div>
+  </aside>
 
-  <div class="table-items">
+  <div class="content">
+    <div class="pages">
+      <span
+        v-for="(index, key) in Math.ceil(itemsCount() / limit)"
+        :class="['page', { 'selected-page': key == offset }]"
+        :key="key"
+        @click="pageChange(key)"
+      >
+        {{ index }}
+      </span>
+    </div>
+
+    <div class="table-items">
+      <div
+        class="table-item"
+        v-for="item of itemsGet()({ offset, limit, filters: filters.values() })"
+        :key="item.id"
+        @click.prevent="select(item)"
+        :style="iconStyle(item)"
+      />
+    </div>
+
     <div
-      class="table-item"
-      v-for="item of itemsGetPage()(offset, limit)"
-      :key="item.id"
-      @click.prevent="select(item)"
-      :style="iconStyle(item)"
-    />
-  </div>
-
-  <div
-    class="selected-wrapper"
-    v-if="selected !== null"
-    @click.self.prevent="selected = null"
-  >
-    <div class="selected">
-      <div class="selected-icon" :style="iconStyle(selected)" />
-      <span class="selected-id" v-text="selected.id" />
-      <span class="selected-name" v-html="selected.name" />
-      <span class="selected-description" v-html="selected.description" />
+      class="selected-wrapper"
+      v-if="selected !== null"
+      @click.self.prevent="selected = null"
+    >
+      <div class="selected">
+        <div class="selected-icon" :style="iconStyle(selected)" />
+        <span class="selected-id" v-text="selected.id" />
+        <span class="selected-name" v-html="selected.name" />
+        <span class="selected-description" v-html="selected.description" />
+      </div>
     </div>
   </div>
 
@@ -51,6 +73,8 @@ export default defineComponent({
 
   data() {
     return {
+      filters: new Map<string, (item: SWItem) => boolean>(),
+
       offset: 0,
       limit: 1000,
 
@@ -59,8 +83,26 @@ export default defineComponent({
   },
 
   methods: {
-    ...mapMutations(["itemsSet"]),
-    ...mapGetters(["itemsCount", "itemsGetPage"]),
+    ...mapMutations(["itemsSet", "slotTypesSet", "inventoryTypesSet"]),
+    ...mapGetters([
+      "itemsCount",
+      "itemsGet",
+      "slotTypesGet",
+      "inventoryTypesGet",
+    ]),
+
+    filterBySlotType(value: number) {
+      const id = `slot-type-${value}`;
+      const functor = (item: SWItem) => item.slotType == value;
+
+      if (this.filters.has(id)) {
+        this.filters.delete(id);
+        console.log(`disable filterBySlotType: ${value}`);
+      } else {
+        this.filters.set(id, functor);
+        console.log(`enable filterBySlotType: ${value}`);
+      }
+    },
 
     pageChange(offset: number) {
       this.offset = offset;
@@ -80,10 +122,15 @@ export default defineComponent({
   components: {},
 
   async created() {
-    const response = await fetch("./data.json");
-    const items = await response.json();
+    const [items, inventoryTypes, slotTypes] = await Promise.all([
+      fetch("./data.json").then((r) => r.json()),
+      fetch("./inventoryTypes.json").then((r) => r.json()),
+      fetch("./slotTypes.json").then((r) => r.json()),
+    ]);
 
     this.itemsSet({ items });
+    this.inventoryTypesSet({ inventoryTypes });
+    this.slotTypesSet({ slotTypes });
   },
 });
 </script>
@@ -110,21 +157,45 @@ export default defineComponent({
   --animation-function: cubic-bezier(0.165, 0.84, 0.44, 1);
 }
 
+h1 {
+  font-size: 22rem;
+  text-align: center;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 18rem;
+  font-weight: bold;
+  padding: 10px 20px;
+}
+
 #app {
   color: var(--font-color);
   background-color: var(--bg-color);
 
   padding: 4px;
+  display: grid;
+  grid-template-columns: 200px 1fr;
 }
 </style>
 
 <style lang="scss" scoped>
+// .slot-type {
+//   padding: 10px;
+//   background-color: rgba(255, 255, 255, 0.089);
+//   cursor: pointer;
+// }
+</style>
+
+<style lang="scss" scoped>
+.slot-types,
 .pages {
   padding: 4px;
   display: flex;
   flex-wrap: wrap;
 }
 
+.slot-type,
 .page {
   text-align: center;
   flex-basis: 40px;
@@ -145,6 +216,14 @@ export default defineComponent({
   transition: unset;
   background-color: var(--pink-color);
   pointer-events: none;
+}
+
+.selected-slot-type {
+  background-color: var(--pink-color);
+
+  &:hover {
+  background-color: rgba(255, 255, 255, 0.493);
+  }
 }
 </style>
 
@@ -232,6 +311,8 @@ $cellSize: $cellBaseSize + ($borderSize * 2);
 .footer {
   text-align: center;
   padding: 100px 0;
+
+  grid-column: 1 / 3;
 }
 
 .link {
