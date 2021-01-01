@@ -2,23 +2,11 @@
   <aside class="sidebar">
     <h1>Sort</h1>
 
-    <FilterComponent
-      :values="slotTypesGet()"
-      :filters="filters"
-      :name="'Slot Type'"
-    />
+    <FilterComponent :values="slotTypesGet()" :filters="filters" :name="'Slot Type'" />
 
-    <FilterComponent
-      :values="inventoryTypesGet()"
-      :filters="filters"
-      :name="'Inventory Type'"
-    />
+    <FilterComponent :values="inventoryTypesGet()" :filters="filters" :name="'Inventory Type'" />
 
-    <FilterComponent
-      :values="gainTypesGet()"
-      :filters="filters"
-      :name="'Gain Type'"
-    />
+    <FilterComponent :values="gainTypesGet()" :filters="filters" :name="'Gain Type'" />
   </aside>
 
   <div class="content">
@@ -43,11 +31,7 @@
       />
     </div>
 
-    <div
-      class="selected-wrapper"
-      v-if="selected !== null"
-      @click.self.prevent="selected = null"
-    >
+    <div class="selected-wrapper" v-if="selected !== null" @click.self.prevent="selected = null">
       <div class="selected">
         <div class="selected-icon" :style="iconStyle(selected)" />
         <span class="selected-id" v-text="selected.id" />
@@ -58,9 +42,7 @@
   </div>
 
   <footer class="footer">
-    <a class="link" href="https://github.com/sawich/soulworker-items-viewer"
-      >GitHub</a
-    >
+    <a class="link" href="https://github.com/sawich/soulworker-items-viewer">GitHub</a>
     <a class="link" href="http://discord.gg/SequFJP">Discord</a>
   </footer>
 </template>
@@ -85,19 +67,8 @@ export default defineComponent({
   },
 
   methods: {
-    ...mapMutations([
-      "itemsSet",
-      "slotTypesSet",
-      "inventoryTypesSet",
-      "gainTypesSet",
-    ]),
-    ...mapGetters([
-      "itemsCount",
-      "itemsGet",
-      "slotTypesGet",
-      "inventoryTypesGet",
-      "gainTypesGet",
-    ]),
+    ...mapMutations(["itemsSet", "slotTypesSet", "inventoryTypesSet", "gainTypesSet"]),
+    ...mapGetters(["itemsCount", "itemsGet", "slotTypesGet", "inventoryTypesGet", "gainTypesGet"]),
 
     filterBySlotType(value: number) {
       const id = `slot-type-${value}`;
@@ -154,9 +125,7 @@ export default defineComponent({
   },
 
   components: {
-    FilterComponent: defineAsyncComponent(
-      () => import("@/components/filter-component.vue")
-    ),
+    FilterComponent: defineAsyncComponent(() => import("@/components/filter-component.vue")),
   },
 
   async created() {
