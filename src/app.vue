@@ -1,37 +1,26 @@
-<template v-if="itemsCount() > 0">
-  <aside class="sidebar">
-    <h1>Sort</h1>
-
-    <FilterComponent :values="slotTypesGet()" :filters="filters" :name="'Slot Type'" />
-
-    <FilterComponent :values="inventoryTypesGet()" :filters="filters" :name="'Inventory Type'" />
-
-    <FilterComponent :values="gainTypesGet()" :filters="filters" :name="'Gain Type'" />
-  </aside>
+<template v-if="store.items.length > 0">
+  <AppSidebar :filters="filters" />
 
   <div class="content">
-    <div class="pages">
-      <span
-        v-for="(index, key) in Math.ceil(itemsCount() / limit)"
-        :class="['page', { 'selected-page': key == offset }]"
-        :key="key"
-        @click="pageChange(key)"
-      >
-        {{ index }}
-      </span>
-    </div>
-
     <div class="table-items">
       <div
         class="table-item"
-        v-for="item of itemsGet()({ offset, limit, filters: filters.values() })"
+        v-for="item of store.itemsGet({
+          offset,
+          limit,
+          filters: filters.values(),
+        })"
         :key="item.id"
         @click.prevent="select(item)"
         :style="iconStyle(item)"
       />
     </div>
 
-    <div class="selected-wrapper" v-if="selected !== null" @click.self.prevent="selected = null">
+    <div
+      class="selected-wrapper"
+      v-if="selected !== null"
+      @click.self.prevent="selected = null"
+    >
       <div class="selected">
         <div class="selected-icon" :style="iconStyle(selected)" />
         <span class="selected-id" v-text="selected.id" />
@@ -39,109 +28,69 @@
         <span class="selected-description" v-html="selected.description" />
       </div>
     </div>
+
+    <div class="pages">
+      <span
+        v-for="(index, key) in Math.ceil(store.items.length / limit)"
+        :class="['page', { 'selected-page': key === offset }]"
+        :key="key"
+        @click="pageChange(key)"
+      >
+        {{ index }}
+      </span>
+    </div>
   </div>
 
   <footer class="footer">
-    <a class="link" href="https://github.com/sawich/soulworker-items-viewer">GitHub</a>
+    <a class="link" href="https://github.com/sawich/soulworker-items-viewer">
+      GitHub
+    </a>
     <a class="link" href="http://discord.gg/SequFJP">Discord</a>
   </footer>
 </template>
 
-<script lang="ts">
-import { defineAsyncComponent, defineComponent } from "vue";
-import { mapGetters, mapMutations } from "vuex";
-import { SWItem } from "./store";
+<script lang="ts" setup>
+import { ref, onBeforeMount } from "vue";
+import { useItemStore } from "@/stores/item-store";
+import type { SWItem } from "./stores/item-store/types/item";
+import AppSidebar from "@/components/app-sidebar.vue";
 
-export default defineComponent({
-  name: "App",
+const filters = ref(new Map<string, (item: SWItem) => boolean>());
 
-  data() {
-    return {
-      filters: new Map<string, (item: SWItem) => boolean>(),
+const offset = ref(0);
+const limit = ref(1000);
 
-      offset: 0,
-      limit: 1000,
+const selected = ref(null as SWItem | null);
 
-      selected: null as SWItem | null,
-    };
-  },
+const store = useItemStore();
 
-  methods: {
-    ...mapMutations(["itemsSet", "slotTypesSet", "inventoryTypesSet", "gainTypesSet"]),
-    ...mapGetters(["itemsCount", "itemsGet", "slotTypesGet", "inventoryTypesGet", "gainTypesGet"]),
+onBeforeMount(async () => {
+  const [items, inventoryTypes, slotTypes, gainTypes] = await Promise.all([
+    fetch("./data.json").then((r) => r.json()),
+    fetch("./inventoryTypes.json").then((r) => r.json()),
+    fetch("./slotTypes.json").then((r) => r.json()),
+    fetch("./gainTypes.json").then((r) => r.json()),
+  ]);
 
-    filterBySlotType(value: number) {
-      const id = `slot-type-${value}`;
-      const functor = (item: SWItem) => item.slotType == value;
-
-      if (this.filters.has(id)) {
-        this.filters.delete(id);
-        console.log(`disable filterBySlotType: ${value}`);
-      } else {
-        this.filters.set(id, functor);
-        console.log(`enable filterBySlotType: ${value}`);
-      }
-    },
-
-    filterByInventoryType(value: number) {
-      const id = `inventory-type-${value}`;
-      const functor = (item: SWItem) => item.inventoryType == value;
-
-      if (this.filters.has(id)) {
-        this.filters.delete(id);
-        console.log(`disable filterByInventoryType: ${value}`);
-      } else {
-        this.filters.set(id, functor);
-        console.log(`enable filterByInventoryType: ${value}`);
-      }
-    },
-
-    filterByGainType(value: number) {
-      const id = `gain-type-${value}`;
-      const functor = (item: SWItem) => item.gainType == value;
-
-      if (this.filters.has(id)) {
-        this.filters.delete(id);
-        console.log(`disable filterByGainType: ${value}`);
-      } else {
-        this.filters.set(id, functor);
-        console.log(`enable filterByGainType: ${value}`);
-      }
-    },
-
-    pageChange(offset: number) {
-      this.offset = offset;
-    },
-
-    iconStyle(item: SWItem) {
-      return {
-        backgroundImage: `url(./${item.icon}), url(./GUI/Icon/Item/Dummy.png)`,
-      };
-    },
-
-    select(item: SWItem) {
-      this.selected = item;
-    },
-  },
-
-  components: {
-    FilterComponent: defineAsyncComponent(() => import("@/components/filter-component.vue")),
-  },
-
-  async created() {
-    const [items, inventoryTypes, slotTypes, gainTypes] = await Promise.all([
-      fetch("./data.json").then((r) => r.json()),
-      fetch("./inventoryTypes.json").then((r) => r.json()),
-      fetch("./slotTypes.json").then((r) => r.json()),
-      fetch("./gainTypes.json").then((r) => r.json()),
-    ]);
-
-    this.itemsSet({ items });
-    this.inventoryTypesSet({ inventoryTypes });
-    this.slotTypesSet({ slotTypes });
-    this.gainTypesSet({ gainTypes });
-  },
+  store.items = items;
+  store.inventoryTypes = inventoryTypes;
+  store.slotTypes = slotTypes;
+  store.gainTypes = gainTypes;
 });
+
+function pageChange(value: number) {
+  offset.value = value;
+}
+
+function iconStyle(item: SWItem) {
+  return {
+    backgroundImage: `url(./${item.icon}), url(./GUI/Icon/Item/Dummy.png)`,
+  };
+}
+
+function select(item: SWItem) {
+  selected.value = item;
+}
 </script>
 
 <style lang="scss">
@@ -185,6 +134,7 @@ h2 {
   padding: 4px;
   display: grid;
   grid-template-columns: 200px 1fr;
+  gap: 10rem;
 }
 </style>
 
@@ -215,6 +165,11 @@ h2 {
   transition: unset;
   background-color: var(--pink-color);
   pointer-events: none;
+}
+
+.content {
+  display: grid;
+  gap: 10rem;
 }
 </style>
 

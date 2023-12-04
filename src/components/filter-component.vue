@@ -16,7 +16,7 @@
 
 <script lang="ts">
 import { defineComponent } from "vue";
-import { SWItem } from "@/store";
+import type { SWItem } from "@/stores/item-store/types/item";
 
 export default defineComponent({
   props: ["filters", "values", "name"],
@@ -28,13 +28,13 @@ export default defineComponent({
 
     filter(value: number) {
       const id = this.id(value);
-      const functor = (item: SWItem) => item.slotType == value;
+      const delegate = (item: SWItem) => item.slotType === value;
 
       if (this.filters.has(id)) {
         this.filters.delete(id);
         console.log(`disable filter: ${id} ${value}`);
       } else {
-        this.filters.set(id, functor);
+        this.filters.set(id, delegate);
         console.log(`enable filter: ${id} ${value}`);
       }
     },

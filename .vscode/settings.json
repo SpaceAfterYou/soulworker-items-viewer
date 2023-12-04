@@ -1,0 +1,31 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "editor.formatOnSave": "explicit"
+  },
+
+  "eslint.validate": ["typescript"],
+  "typescript.tsdk": "node_modules/typescript/lib",
+
+  "files.insertFinalNewline": true,
+  "files.eol": "\n",
+
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
