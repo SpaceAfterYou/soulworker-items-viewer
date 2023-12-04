@@ -2,6 +2,8 @@
   <AppSidebar :filters="filters" />
 
   <div class="content">
+    <input type="number" class="search-input" @input="search" />
+
     <div class="table-items">
       <div
         class="table-item"
@@ -54,6 +56,7 @@ import { ref, onBeforeMount } from "vue";
 import { useItemStore } from "@/stores/item-store";
 import type { SWItem } from "./stores/item-store/types/item";
 import AppSidebar from "@/components/app-sidebar.vue";
+import { useDebounceFn } from "@vueuse/core";
 
 const filters = ref(new Map<string, (item: SWItem) => boolean>());
 
@@ -78,6 +81,16 @@ onBeforeMount(async () => {
   store.gainTypes = gainTypes;
 });
 
+const debouncedSearch = useDebounceFn((value: string) => {
+  console.log(value);
+}, 150);
+
+function search({ target }: Event) {
+  if (target instanceof HTMLInputElement) {
+    debouncedSearch(target.value);
+  }
+}
+
 function pageChange(value: number) {
   offset.value = value;
 }
@@ -92,6 +105,22 @@ function select(item: SWItem) {
   selected.value = item;
 }
 </script>
+
+<style lang="scss">
+.search-input {
+  padding: 10rem;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.068);
+  border: none;
+  outline: none;
+  color: var(--font-color);
+}
+
+.content {
+  display: grid;
+  gap: 10rem;
+}
+</style>
 
 <style lang="scss">
 @use "@/styles/reset.scss";
@@ -165,11 +194,6 @@ h2 {
   transition: unset;
   background-color: var(--pink-color);
   pointer-events: none;
-}
-
-.content {
-  display: grid;
-  gap: 10rem;
 }
 </style>
 
