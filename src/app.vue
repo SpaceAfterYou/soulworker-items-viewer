@@ -123,6 +123,7 @@ function select(item: SWItem) {
 .content {
   display: grid;
   gap: 10rem;
+  align-content: start;
 }
 </style>
 
