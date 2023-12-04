@@ -81,13 +81,17 @@ onBeforeMount(async () => {
   store.gainTypes = gainTypes;
 });
 
-const debouncedSearch = useDebounceFn((value: string) => {
+const debouncedSearch = useDebounceFn((value: number) => {
+  const item = store.items.find((e) => e.id === value);
+  if (item) {
+    select(item);
+  }
   console.log(value);
 }, 150);
 
 function search({ target }: Event) {
   if (target instanceof HTMLInputElement) {
-    debouncedSearch(target.value);
+    debouncedSearch(Number(target.value));
   }
 }
 
