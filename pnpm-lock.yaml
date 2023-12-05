@@ -25,12 +25,6 @@ dependencies:
     version: 4.2.5(vue@3.3.10)
 
 devDependencies:
-  '@rushstack/eslint-patch':
-    specifier: ^1.6.0
-    version: 1.6.0
-  '@tsconfig/node18':
-    specifier: ^18.2.2
-    version: 18.2.2
   '@tsconfig/node21':
     specifier: ^21.0.0
     version: 21.0.0
@@ -537,14 +531,6 @@ packages:
     requiresBuild: true
     dev: true
     optional: true
-
-  /@rushstack/eslint-patch@1.6.0:
-    resolution: {integrity: sha512-2/U3GXA6YiPYQDLGwtGlnNgKYBSwCFIHf8Y9LUY5VATHdtbLlU0Y1R3QoBnT0aB4qv/BEiVVsj7LJXoQCgJ2vA==}
-    dev: true
-
-  /@tsconfig/node18@18.2.2:
-    resolution: {integrity: sha512-d6McJeGsuoRlwWZmVIeE8CUA27lu6jLjvv1JzqmpsytOYYbVi1tHZEnwCNVOXnj4pyLvneZlFlpXUK+X9wBWyw==}
-    dev: true
 
   /@tsconfig/node21@21.0.0:
     resolution: {integrity: sha512-fMySImjI1muKEV1JAFZfBlgSjLE8EeqNRmdcdyUWDenXyCvWjSE1oGM/nK6ob1fV+lAYlJhhC1b2nrjnDQCOhQ==}
