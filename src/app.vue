@@ -26,8 +26,11 @@
       <div class="selected">
         <div class="selected-icon" :style="iconStyle(selected)" />
         <span class="selected-id" v-text="selected.id" />
-        <span class="selected-name" v-html="selected.name" />
-        <span class="selected-description" v-html="selected.description" />
+        <span class="selected-name" v-html="$t(`${selected.id}.name`)" />
+        <span
+          class="selected-description"
+          v-html="$t(`${selected.id}.description`)"
+        />
       </div>
     </div>
 
