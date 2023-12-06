@@ -115,7 +115,7 @@ function select(item: SWItem) {
 
 <style lang="scss">
 .search-input {
-  padding: 10rem;
+  padding: 1rem;
   text-align: center;
   background: rgba(255, 255, 255, 0.068);
   border: none;
@@ -125,7 +125,7 @@ function select(item: SWItem) {
 
 .content {
   display: grid;
-  gap: 10rem;
+  gap: 1rem;
   align-content: start;
 }
 </style>
@@ -153,13 +153,13 @@ function select(item: SWItem) {
 }
 
 h1 {
-  font-size: 22rem;
+  font-size: 2rem;
   text-align: center;
   font-weight: bold;
 }
 
 h2 {
-  font-size: 18rem;
+  font-size: 1.5rem;
   font-weight: bold;
   padding: 10px 20px;
 }
@@ -168,10 +168,10 @@ h2 {
   color: var(--font-color);
   background-color: var(--bg-color);
 
-  padding: 4px;
+  padding: 1rem;
   display: grid;
   grid-template-columns: 200px 1fr;
-  gap: 10rem;
+  gap: 1rem;
 }
 </style>
 
