@@ -1,46 +1,18 @@
-# soulworker-items-viewer
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.svg)](https://stand-with-ukraine.pp.ua)
 
-This template should help get you started developing with Vue 3 in Vite.
+# SoulWorker Items Viever
 
-## Recommended IDE Setup
+![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/SpaceAfterYou/soulworker-items-viewer?style=for-the-badge) ![Lines of code](https://img.shields.io/tokei/lines/github/SpaceAfterYou/soulworker-items-viewer?style=for-the-badge) ![MatWorker](https://img.shields.io/badge/Mat-Worker-lightgrey?style=for-the-badge&logo=data:image/webp;base64,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) ![Discord](https://img.shields.io/discord/606442027873206292?style=for-the-badge) ![Twitch Status](https://img.shields.io/twitch/status/sawich?style=for-the-badge)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Chat 🙋
 
-## Type Support for `.vue` Imports in TS
+Wanna chat with us, talk about changes, or just hang out? ~~We~~(I'm) have a Discord server just for that.
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
+[![!](https://invidget.switchblade.xyz/SequFJP)](http://discord.gg/SequFJP)
 
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
+## Contributors ❤️
 
-1. Disable the built-in TypeScript Extension
-    1) Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-    2) Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
+### My regards:
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-pnpm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-pnpm dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-pnpm build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-pnpm lint
-```
+- @abchsr
+- @prozaks
