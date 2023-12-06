@@ -4,8 +4,9 @@
       <h1>locale</h1>
 
       <div class="lang-selector">
-        <button @click="changeLocale('en')">ENG</button>
-        <button @click="changeLocale('kr')">KOR</button>
+        <button @click="changeLocale('en')">English</button>
+        <button @click="changeLocale('kr')">한국어</button>
+        <button @click="changeLocale('twn')">汉语</button>
       </div>
     </div>
 
@@ -48,10 +49,9 @@ function changeLocale(value: string) {
 }
 </script>
 
-<style scoped>
+<style scoped lang="scss">
 .lang-selector {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  font-size: 1rem;
+  grid-template-columns: repeat(3, 1fr);
 }
 </style>
