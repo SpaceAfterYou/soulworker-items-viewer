@@ -72,7 +72,7 @@ const store = useItemStore();
 
 onBeforeMount(async () => {
   const [items, inventoryTypes, slotTypes, gainTypes] = await Promise.all([
-    fetch("./data.json").then((r) => r.json()),
+    fetch("./items.json").then((r) => r.json()),
     fetch("./inventoryTypes.json").then((r) => r.json()),
     fetch("./slotTypes.json").then((r) => r.json()),
     fetch("./gainTypes.json").then((r) => r.json()),

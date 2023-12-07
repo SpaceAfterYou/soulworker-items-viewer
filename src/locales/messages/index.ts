@@ -1,6 +1,6 @@
-import kr from "./kr.json";
-import en from "./en.json";
-import twn from "./twn.json";
+import kr from "./kor/items.json";
+import en from "./eng/items.json";
+import twn from "./twn/items.json";
 
 export const messages = {
   kr,

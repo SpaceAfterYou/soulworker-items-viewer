@@ -36,15 +36,16 @@
 import FilterComponent from "@/components/filter-component.vue";
 import { useItemStore } from "@/stores/item-store";
 import type { SWItem } from "@/stores/item-store/types/item";
-
 import { useI18n } from "vue-i18n";
+
+import { messages } from "@/locales/messages";
 
 const store = useItemStore();
 defineProps<{ filters: Map<string, (item: SWItem) => boolean> }>();
 
 const { locale } = useI18n();
 
-function changeLocale(value: string) {
+function changeLocale(value: keyof typeof messages) {
   locale.value = value;
 }
 </script>
