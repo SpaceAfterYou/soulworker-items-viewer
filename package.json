@@ -1,6 +1,12 @@
 {
-  "name": "nuxt-app",
-  "private": true,
+  "name": "soulworker-items-viewer",
+  "author": {
+    "email": "sawich@angeldev.org",
+    "url": "https://angeldev.org",
+    "name": "sawich"
+  },
+  "version": "0.1.0",
+  "private": false,
   "type": "module",
   "scripts": {
     "build": "nuxt build",
@@ -27,9 +33,7 @@
     "prettier": "^3.1.0",
     "prettier-plugin-tailwindcss": "^0.5.9",
     "vue": "^3.3.11",
-    "vue-router": "^4.2.5"
-  },
-  "dependencies": {
+    "vue-router": "^4.2.5",
     "@pinia/nuxt": "^0.5.1",
     "pinia": "^2.1.7"
   }
