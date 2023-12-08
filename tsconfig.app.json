@@ -1,9 +1,0 @@
-{
-  "extends": "@vue/tsconfig/tsconfig.dom.json",
-  "compilerOptions": {
-    "moduleResolution": "Node",
-    "composite": true,
-    "paths": { "@/*": ["./src/*"] }
-  },
-  "include": ["./src/**/*.ts", "./src/**/*.vue"]
-}

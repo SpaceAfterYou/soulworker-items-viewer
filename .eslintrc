@@ -11,25 +11,24 @@
       },
 
       "extends": [
-        "plugin:vue/vue3-essential",
-        "eslint:recommended",
+        "@nuxt/eslint-config",
 
         "plugin:perfectionist/recommended-natural",
         "plugin:perfectionist/recommended-line-length",
 
         "plugin:sonarjs/recommended",
 
+        "@vue/eslint-config-prettier/skip-formatting",
         "@vue/eslint-config-typescript",
-        "@vue/eslint-config-prettier/skip-formatting"
+
+        "plugin:tailwindcss/recommended"
       ],
 
-      "plugins": ["perfectionist", "sonarjs", "@typescript-eslint"],
+      "plugins": ["perfectionist", "sonarjs"],
       "files": ["*.vue"],
-      "parser": "@typescript-eslint/parser",
 
       "rules": {
-        "no-unused-vars": "off",
-        "@typescript-eslint/no-unused-vars": "error"
+        "vue/attributes-order": "off"
       }
     },
     {
@@ -39,9 +38,11 @@
       },
 
       "extends": [
-        "eslint:recommended",
+        "@nuxt/eslint-config",
+
         "plugin:perfectionist/recommended-natural",
         "plugin:perfectionist/recommended-line-length",
+
         "plugin:sonarjs/recommended"
       ],
 
