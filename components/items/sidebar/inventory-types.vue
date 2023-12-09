@@ -9,7 +9,7 @@ const { selectedInventoryTypes, inventoryType } =
   <div>
     <ItemsSidebarTogglableBlock
       :selected="selectedInventoryTypes"
-      :locale-path="'inventoryType'"
+      locale-path="inventoryType"
       :values="inventoryType"
     />
   </div>

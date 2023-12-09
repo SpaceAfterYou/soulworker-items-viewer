@@ -6,10 +6,11 @@ export default defineI18nConfig(() => ({
     redirectOn: "root",
     useCookie: true,
   },
-  fallbackLocale: "en-US",
+
+  // kr is main kanguage
+  fallbackLocale: "ko-KR",
+
   globalInjection: true,
   legacy: false,
-  // locale: "en",
-  // @ts-ignore
   messages,
 }));
