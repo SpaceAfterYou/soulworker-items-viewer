@@ -1,9 +1,9 @@
+import { urlToUrl } from "~/helpers/url-to-url";
+
 type SlotTypes = ReadonlyArray<number>;
 
 export const useSlotTypes = defineStore("slot-types-store", () => {
-  const { data } = useFetch<SlotTypes>(
-    new URL("slotTypes.json", useRequestURL()).href
-  );
+  const { data } = useFetch<SlotTypes>(urlToUrl("slotTypes.json"));
 
   const selectedSlotTypes = ref(new Set<number>());
 

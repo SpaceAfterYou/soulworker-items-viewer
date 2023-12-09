@@ -2,6 +2,8 @@
   <NuxtLayout>
     <NuxtPage />
   </NuxtLayout>
+
+  <section id="items-modal" />
 </template>
 
 <style>

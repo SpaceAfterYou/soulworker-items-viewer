@@ -28,7 +28,8 @@
       "files": ["*.vue"],
 
       "rules": {
-        "vue/attributes-order": "off"
+        "vue/attributes-order": "off",
+        "vue/no-v-html": "off"
       }
     },
     {

@@ -1,9 +1,9 @@
+import { urlToUrl } from "~/helpers/url-to-url";
+
 type InventoryTypes = ReadonlyArray<number>;
 
 export const useInventoryTypes = defineStore("inventory-types-store", () => {
-  const { data } = useFetch<InventoryTypes>(
-    new URL("inventoryTypes.json", useRequestURL()).href
-  );
+  const { data } = useFetch<InventoryTypes>(urlToUrl("inventoryTypes.json"));
 
   const selectedInventoryTypes = ref(new Set<number>());
 

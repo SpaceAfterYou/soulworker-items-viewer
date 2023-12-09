@@ -20,6 +20,7 @@
     "@nuxt/eslint-config": "^0.2.0",
     "@nuxtjs/i18n": "8.0.0-rc.8",
     "@nuxtjs/tailwindcss": "^6.10.1",
+    "@pinia/nuxt": "^0.5.1",
     "@typescript-eslint/eslint-plugin": "^6.13.2",
     "@unocss/nuxt": "^0.58.0",
     "@vue/eslint-config-prettier": "^8.0.0",
@@ -30,11 +31,13 @@
     "eslint-plugin-tailwindcss": "^3.13.0",
     "normalize.css": "^8.0.1",
     "nuxt": "^3.8.2",
+    "pinia": "^2.1.7",
     "prettier": "^3.1.0",
     "prettier-plugin-tailwindcss": "^0.5.9",
     "vue": "^3.3.11",
-    "vue-router": "^4.2.5",
-    "@pinia/nuxt": "^0.5.1",
-    "pinia": "^2.1.7"
+    "vue-router": "^4.2.5"
+  },
+  "dependencies": {
+    "@vueuse/nuxt": "^10.7.0"
   }
 }
