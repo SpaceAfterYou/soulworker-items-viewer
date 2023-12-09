@@ -9,10 +9,10 @@ defineEmits<Emits>();
 <template>
   <Teleport to="#items-modal">
     <section
-      class="fixed left-0 top-0 flex h-full w-full place-content-center place-items-center bg-black/50"
+      class="fixed left-0 top-0 flex h-full w-full place-content-center place-items-center bg-black/50 backdrop-blur-md"
       @click.self="$emit('on-close')"
     >
-      <section class="max-w-xs bg-black/80 p-4">
+      <section class="max-w-sm bg-black/50 p-4">
         <slot />
       </section>
     </section>

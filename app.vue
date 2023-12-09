@@ -8,6 +8,6 @@
 
 <style>
 * {
-  @apply text-white/90 outline-none;
+  @apply text-white/80 outline-none;
 }
 </style>

@@ -1,9 +1,6 @@
 import { SlotType } from "~/enums/slot-type";
 
-export type LocaleSlotType = {
-  values: Record<SlotType, string>;
-  name: string;
-};
+import type { LocaleSlotType } from "../types/slot-type";
 
 export const slotType = {
   values: {

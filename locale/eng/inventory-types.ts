@@ -1,9 +1,6 @@
 import { InventoryType } from "~/enums/inventory-type";
 
-export type LocaleInventoryType = {
-  values: Record<InventoryType, string>;
-  name: string;
-};
+import type { LocaleInventoryType } from "../types/inventory-type";
 
 export const inventoryType = {
   values: {
