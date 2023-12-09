@@ -7,7 +7,7 @@ defineEmits<Emits>();
 </script>
 
 <template>
-  <Teleport to="#items-modal">
+  <teleport to="#items-modal">
     <section
       class="fixed left-0 top-0 flex h-full w-full place-content-center place-items-center bg-black/50 backdrop-blur-md"
       @click.self="$emit('on-close')"
@@ -16,5 +16,5 @@ defineEmits<Emits>();
         <slot />
       </section>
     </section>
-  </Teleport>
+  </teleport>
 </template>
