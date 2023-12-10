@@ -11,10 +11,14 @@ const iconOf = (icon: string) => ({
 </script>
 
 <template>
-  <div
-    class="h-12 w-12 bg-contain bg-center bg-no-repeat"
-    :style="iconOf(icon)"
+  <button
+    class="h-min w-min bg-contain bg-center bg-no-repeat outline transition-all hover:outline-pink-500"
   >
-    <slot />
-  </div>
+    <div
+      class="h-12 w-12 transition-opacity hover:opacity-50"
+      :style="iconOf(icon)"
+    >
+      <slot />
+    </div>
+  </button>
 </template>
