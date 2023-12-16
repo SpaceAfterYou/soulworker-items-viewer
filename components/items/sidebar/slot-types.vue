@@ -8,8 +8,8 @@ const { selectedSlotTypes, slotTypes } = storeToRefs(useSlotTypes());
   <div>
     <ItemsSidebarTogglableBlock
       :selected="selectedSlotTypes"
-      locale-path="slotType"
       :values="slotTypes"
+      token="slotType"
     />
   </div>
 </template>

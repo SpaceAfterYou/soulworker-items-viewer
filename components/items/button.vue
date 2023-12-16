@@ -21,6 +21,18 @@ const modal = ref(false);
           <div>{{ $t(`items.${item.id}.name`) }}</div>
         </div>
 
+        <div class="col-span-full -mx-4 bg-pink-500/50 p-4">
+          <ul class="flex justify-between gap-2 text-center">
+            <li
+              v-for="name of ['gainType', 'inventoryType', 'slotType']"
+              :key="name"
+            >
+              <h4 class="font-bold uppercase">{{ $t(`${name}.name`) }}</h4>
+              <p>{{ $t(`${name}.values.${item.gainType}`) }}</p>
+            </li>
+          </ul>
+        </div>
+
         <div
           v-html="$t(`items.${item.id}.description`)"
           class="col-span-full whitespace-pre-wrap"

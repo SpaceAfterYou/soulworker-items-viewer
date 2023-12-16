@@ -8,8 +8,8 @@ const { selectedGainTypes, gainTypes } = storeToRefs(useGainTypes());
   <div>
     <ItemsSidebarTogglableBlock
       :selected="selectedGainTypes"
-      locale-path="gainType"
       :values="gainTypes"
+      token="gainType"
     />
   </div>
 </template>

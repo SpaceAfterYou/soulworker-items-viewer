@@ -1,18 +1,35 @@
 <script lang="ts" setup>
-type Props = { selected: Set<number>; localePath: string; values: number[] };
+import type { Item } from "~/stores/items/types/item";
 
-const props = defineProps<Props>();
+import { useItemsSearch } from "~/stores/items-search";
 
-function toggle(value: number) {
-  if (!props.selected.delete(value)) {
-    props.selected.add(value);
+type Props = {
+  token: keyof Pick<Item, "inventoryType" | "slotType" | "gainType">;
+  values: ReadonlyArray<number>;
+  selected: Set<number>;
+};
+
+const { selected, token } = defineProps<Props>();
+const { removeSideFilter, applySideFilter } = useItemsSearch();
+
+function toggle(id: number) {
+  if (!selected.delete(id)) {
+    selected.add(id);
+
+    applySideFilter({
+      callable: (e: Item) => e[token] === id,
+      token,
+      id,
+    });
+  } else {
+    removeSideFilter({ token, id });
   }
 }
 </script>
 
 <template>
   <SidebarTitledBlock>
-    <template #head> {{ $t(`${localePath}.name`) }} </template>
+    <template #head> {{ $t(`${token}.name`) }} </template>
 
     <template #body>
       <section class="flex flex-wrap gap-2">
@@ -22,7 +39,7 @@ function toggle(value: number) {
           @click="toggle(value)"
           :key="value"
         >
-          {{ $t(`${localePath}.values.${value}`) }}
+          {{ $t(`${token}.values.${value}`) }}
         </SidebarToggleButton>
       </section>
     </template>
