@@ -13,7 +13,6 @@ export const useItemStore = defineStore("items-store", () => {
     useFetch<Items>(urlToUrl(base)).then(({ data }) => {
       if (data.value) {
         items.value.push(...data.value);
-        console.log("end fetch");
       }
     });
   }

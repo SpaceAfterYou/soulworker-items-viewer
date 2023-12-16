@@ -8,16 +8,15 @@ const { page } = storeToRefs(useSettingsStore());
 const { filtered } = storeToRefs(useItemsSearch());
 
 const currentPage = ref(0);
+const start = computed(() => currentPage.value * page.value.size);
+const end = computed(() => start.value + page.value.size);
 </script>
 
 <template>
   <section class="flex flex-wrap gap-2">
     <div class="flex flex-wrap gap-2" v-if="filtered.length > 0">
       <ItemsButton
-        v-for="item of filtered.slice(
-          currentPage * page.size,
-          currentPage * page.size + page.size
-        )"
+        v-for="item of filtered.slice(start, end)"
         :key="item.id"
         :item="item"
       />

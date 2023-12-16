@@ -5,7 +5,15 @@ type Props = {
   item: Item;
 };
 
+type Keys = keyof Pick<Item, "inventoryType" | "gainType" | "slotType">;
+
 defineProps<Props>();
+
+const tokens = [
+  "gainType",
+  "inventoryType",
+  "slotType",
+] satisfies ReadonlyArray<Keys>;
 
 const modal = ref(false);
 </script>
@@ -22,13 +30,10 @@ const modal = ref(false);
         </div>
 
         <div class="col-span-full -mx-4 bg-pink-500/50 p-4">
-          <ul class="flex justify-between gap-2 text-center">
-            <li
-              v-for="name of ['gainType', 'inventoryType', 'slotType']"
-              :key="name"
-            >
-              <h4 class="font-bold uppercase">{{ $t(`${name}.name`) }}</h4>
-              <p>{{ $t(`${name}.values.${item.gainType}`) }}</p>
+          <ul class="flex justify-around gap-2 text-center">
+            <li v-for="token of tokens" :key="token">
+              <h4 class="font-bold uppercase">{{ $t(`${token}.name`) }}</h4>
+              <p>{{ $t(`${token}.values.${item[token]}`) }}</p>
             </li>
           </ul>
         </div>
