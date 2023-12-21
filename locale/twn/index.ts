@@ -1,4 +1,4 @@
-import type { Locale } from "../types/locale";
+import type { Locale } from "../types/make";
 
 import { inventoryType } from "./inventory-types";
 import { gainType } from "./gain-type";
