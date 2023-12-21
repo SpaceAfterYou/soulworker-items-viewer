@@ -6,9 +6,6 @@ export default defineNuxtConfig({
     "@nuxtjs/i18n",
     "@vueuse/nuxt",
   ],
-  i18n: {
-    // debug: process.env["NODE_ENV"] === "development",
-  },
   vue: {
     propsDestructure: true,
     defineModel: true,
