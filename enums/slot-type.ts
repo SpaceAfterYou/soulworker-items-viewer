@@ -45,7 +45,6 @@ export const enum SlotType {
   FashionShoes = 20,
   FashionFace = 14,
   Unknown_11 = 11,
-  Unknown_12 = 12,
   Unknown_13 = 13,
   Unknown_24 = 24,
   Unknown_97 = 97,
@@ -54,4 +53,5 @@ export const enum SlotType {
   Unknown_0 = 0,
   Unknown_1 = 1,
   Unknown_2 = 2,
+  Head = 12,
 }

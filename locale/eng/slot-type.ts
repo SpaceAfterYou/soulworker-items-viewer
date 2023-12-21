@@ -50,7 +50,6 @@ export const slotType = {
     [SlotType.Unknown_254]: `Unknown`,
     [SlotType.Unknown_255]: `Unknown`,
     [SlotType.Unknown_11]: `Unknown`,
-    [SlotType.Unknown_12]: `Unknown`,
     [SlotType.Unknown_13]: `Unknown`,
     [SlotType.Unknown_24]: `Unknown`,
     [SlotType.Unknown_97]: `Unknown`,
@@ -59,6 +58,7 @@ export const slotType = {
     [SlotType.Unknown_0]: `Unknown`,
     [SlotType.Unknown_1]: `Unknown`,
     [SlotType.Unknown_2]: `Unknown`,
+    [SlotType.Head]: `Head`,
   },
   name: "Slot type",
 } satisfies LocaleSidebarType<SlotType>;

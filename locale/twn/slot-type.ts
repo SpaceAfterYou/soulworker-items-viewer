@@ -50,7 +50,7 @@ export const slotType = {
     [SlotType.Unknown_255]: `未知`,
     [SlotType.FashionFace]: `未知`,
     [SlotType.Unknown_11]: `未知`,
-    [SlotType.Unknown_12]: `未知`,
+    [SlotType.Head]: `未知`,
     [SlotType.Unknown_13]: `未知`,
     [SlotType.Unknown_24]: `未知`,
     [SlotType.Unknown_97]: `未知`,

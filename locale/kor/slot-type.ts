@@ -50,7 +50,7 @@ export const slotType = {
     [SlotType.Unknown_255]: `알 수 없음`,
     [SlotType.FashionFace]: `알 수 없음`,
     [SlotType.Unknown_11]: `알 수 없음`,
-    [SlotType.Unknown_12]: `알 수 없음`,
+    [SlotType.Head]: `알 수 없음`,
     [SlotType.Unknown_13]: `알 수 없음`,
     [SlotType.Unknown_24]: `알 수 없음`,
     [SlotType.Unknown_97]: `알 수 없음`,
