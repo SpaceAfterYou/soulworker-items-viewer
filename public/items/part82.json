@@ -1,1 +1,802 @@
-[{"id":261341301,"slotType":23,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveRepair1_Tail_13.png","class":6},{"id":261351001,"slotType":18,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveRepair2_Back_10.png","class":6},{"id":261360501,"slotType":15,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveDeath1_Glove_05.png","class":6},{"id":261370101,"slotType":12,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveDeath2_HairAcc01_01.png","class":6},{"id":261380101,"slotType":12,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveSJ_HairAcc01_01.png","class":6},{"id":261392001,"slotType":13,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveDoll_EyeMouth_18.png","class":6},{"id":261400501,"slotType":15,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveNC_Glove_05.png","class":6},{"id":261410101,"slotType":12,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveRF_HairAcc01_01.png","class":6},{"id":261420101,"slotType":12,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveIF_HairAcc01_01.png","class":6},{"id":261430301,"slotType":13,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveNS_EyeAcc01_03.png","class":6},{"id":261440501,"slotType":15,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveArmour1_Glove_05.png","class":6},{"id":261451001,"slotType":18,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveArmour2_Back_10.png","class":6},{"id":261460101,"slotType":12,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveCombo_HairAcc01_01.png","class":6},{"id":261470101,"slotType":12,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveSQ1_HairAcc01_01.png","class":6},{"id":261480101,"slotType":12,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveSQ2_HairAcc01_01.png","class":6},{"id":261490501,"slotType":15,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveMC1_Glove_05.png","class":6},{"id":261501001,"slotType":18,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveMC2_Back_10.png","class":6},{"id":261510101,"slotType":12,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Achieve3Min1_HairAcc01_01.png","class":6},{"id":261520101,"slotType":12,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Achieve3Min2_HairAcc01_01.png","class":6},{"id":261530101,"slotType":12,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveSSclear1_HairAcc01_01.png","class":6},{"id":261540101,"slotType":12,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveSSclear2_HairAcc01_01.png","class":6},{"id":261550101,"slotType":12,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveFClear1_HairAcc01_01.png","class":6},{"id":261560101,"slotType":12,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveFClear2_HairAcc01_01.png","class":6},{"id":261570501,"slotType":15,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveDropJ1_Glove_05.png","class":6},{"id":261580101,"slotType":12,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveDropJ2_HairAcc01_01.png","class":6},{"id":261590501,"slotType":15,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveEther1_Glove_05.png","class":6},{"id":261600301,"slotType":13,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveEther2_EyeAcc01_03.png","class":6},{"id":261611301,"slotType":23,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveTime1_Tail_13.png","class":6},{"id":261621001,"slotType":18,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveTime2_Back_10.png","class":6},{"id":261630101,"slotType":12,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveFatigue1_HairAcc01_01.png","class":6},{"id":261641001,"slotType":18,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveFatigue2_Back_10.png","class":6},{"id":261650301,"slotType":13,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveRF1_EyeAcc01_03.png","class":6},{"id":261661301,"slotType":23,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveRF2_Tail_13.png","class":6},{"id":261672001,"slotType":13,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveMake1_EyeMouth_18.png","class":6},{"id":261681001,"slotType":18,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveMake2_Back_10.png","class":6},{"id":262040101,"slotType":12,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NCImprove_HairAcc01_01.png","class":6},{"id":262040102,"slotType":12,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NCImprove_HairAcc02_16.png","class":6},{"id":262040701,"slotType":17,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NCImprove_Costume01_07.png","class":6},{"id":262040801,"slotType":22,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NCImprove_Costume02_08.png","class":6},{"id":262040301,"slotType":13,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NCImprove_EyeAcc01_03.png","class":6},{"id":262040501,"slotType":15,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NCImprove_Glove_05.png","class":6},{"id":262041001,"slotType":18,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NCImprove_Back_10.png","class":6},{"id":262041201,"slotType":20,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NCImprove_Shoes_12.png","class":6},{"id":261011401,"slotType":21,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_WPAV_002.png","class":6},{"id":261702001,"slotType":13,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_CasualRaid01.png","class":6},{"id":261712001,"slotType":13,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_CasualRaid02.png","class":6},{"id":261722001,"slotType":13,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_CasualRaid03.png","class":6},{"id":261732001,"slotType":13,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_CasualRaid04.png","class":6},{"id":261010602,"slotType":16,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Underwear01.png","class":6},{"id":261020602,"slotType":16,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Underwear02.png","class":6},{"id":261030602,"slotType":16,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Underwear03.png","class":6},{"id":261040602,"slotType":16,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Underwear04.png","class":6},{"id":261050602,"slotType":16,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Underwear_S01.png","class":6},{"id":261740101,"slotType":12,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Farm_Achive_01.png","class":6},{"id":261750101,"slotType":12,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Farm_Achive_02.png","class":6},{"id":261760101,"slotType":12,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Farm_Achive_03.png","class":6},{"id":261770101,"slotType":12,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Farm_Achive_04.png","class":6},{"id":261780101,"slotType":12,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Farm_Achive_05.png","class":6},{"id":261790101,"slotType":12,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Farm_Achive_06.png","class":6},{"id":261800501,"slotType":15,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Farm_Achive_07.png","class":6},{"id":261810501,"slotType":15,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Farm_Achive_08.png","class":6},{"id":261822001,"slotType":13,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_DistrictRaid01_EyeMouth_18.png","class":6},{"id":261830101,"slotType":12,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_ApcalypseRaid01.png","class":6},{"id":261330102,"slotType":12,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveShop2_HairAcc01_01.png","class":6},{"id":261861001,"slotType":18,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Grouton2_Back_10.png","class":6},{"id":261850101,"slotType":12,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Newbie2_HairAcc01_01.png","class":6},{"id":261851001,"slotType":18,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Newbie2_Back_10.png","class":6},{"id":262280701,"slotType":17,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Rider_Costume01_07.png","class":6},{"id":262280801,"slotType":22,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Rider_Costume02_08.png","class":6},{"id":262281201,"slotType":20,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Rider_Shoes_12.png","class":6},{"id":262290701,"slotType":17,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Rider2_Costume01_07.png","class":6},{"id":262290801,"slotType":22,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Rider2_Costume02_08.png","class":6},{"id":262291201,"slotType":20,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Rider_Shoes_12.png","class":6},{"id":261871001,"slotType":18,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_EQMark_Back_10.png","class":6},{"id":263340701,"slotType":17,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Gatcha1_Costume01_07.png","class":6},{"id":263340801,"slotType":22,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Gatcha1_Costume02_08.png","class":6},{"id":263341101,"slotType":19,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Gatcha1_Socks_11.png","class":6},{"id":263341201,"slotType":20,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Gatcha1_Shoes_12.png","class":6},{"id":263350701,"slotType":17,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Gatcha2_Costume01_07.png","class":6},{"id":263350801,"slotType":22,"inventoryType":2,"gainType":0,"icon":"GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Gatcha2_Costume02_08.png","class":6},{"id":837001016,"slotType":0,"inventoryType":0,"gainType":0,"icon":"GUI/Icon/Item/Function/Package/ETC_0_CostumePackage_PC_F.png","class":6},{"id":837001017,"slotType":0,"inventoryType":0,"gainType":0,"icon":"GUI/Icon/Item/Function/Package/ETC_0_CostumePackage_PC_F.png","class":6},{"id":837001018,"slotType":0,"inventoryType":0,"gainType":0,"icon":"GUI/Icon/Item/Function/Package/ETC_0_CostumePackage_PC_F.png","class":6},{"id":826010001,"slotType":0,"inventoryType":0,"gainType":0,"icon":"GUI/Icon/Item/Function/Package/PackageBox_PC_F.png","class":6},{"id":861050001,"slotType":0,"inventoryType":0,"gainType":0,"icon":"GUI/Icon/Item/Function/Package/PackageBox_PC_F.png","class":6},{"id":861100001,"slotType":0,"inventoryType":0,"gainType":0,"icon":"GUI/Icon/Item/Function/Package/PackageBox_PC_F.png","class":6},{"id":861160001,"slotType":0,"inventoryType":0,"gainType":0,"icon":"GUI/Icon/Item/Function/Package/PackageBox_PC_F.png","class":6},{"id":861220001,"slotType":0,"inventoryType":0,"gainType":0,"icon":"GUI/Icon/Item/Function/Package/PackageBox_PC_F.png","class":6},{"id":861290001,"slotType":0,"inventoryType":0,"gainType":0,"icon":"GUI/Icon/Item/Function/Package/PackageBox_PC_F.png","class":6},{"id":861300001,"slotType":0,"inventoryType":0,"gainType":0,"icon":"GUI/Icon/Item/Function/Package/PackageBox_PC_F.png","class":6},{"id":861360001,"slotType":0,"inventoryType":0,"gainType":0,"icon":"GUI/Icon/Item/Function/Package/PackageBox_PC_F.png","class":6},{"id":861400001,"slotType":0,"inventoryType":0,"gainType":0,"icon":"GUI/Icon/Item/Function/Package/PackageBox_PC_F.png","class":6},{"id":861450001,"slotType":0,"inventoryType":0,"gainType":0,"icon":"GUI/Icon/Item/Function/Package/PackageBox_PC_F.png","class":6},{"id":861500001,"slotType":0,"inventoryType":0,"gainType":0,"icon":"GUI/Icon/Item/Function/Package/PackageBox_PC_F.png","class":6},{"id":861550001,"slotType":0,"inventoryType":0,"gainType":0,"icon":"GUI/Icon/Item/Function/Package/PackageBox_PC_F.png","class":6},{"id":861600001,"slotType":0,"inventoryType":0,"gainType":0,"icon":"GUI/Icon/Item/Function/Package/PackageBox_PC_F.png","class":6},{"id":820010008,"slotType":0,"inventoryType":0,"gainType":0,"icon":"GUI/Icon/Item/Function/Package/ETC_0_Giftbox.png","class":6},{"id":836000189,"slotType":0,"inventoryType":0,"gainType":0,"icon":"GUI/Icon/Item/Function/Package/RandomBox.png","class":6},{"id":836000190,"slotType":0,"inventoryType":0,"gainType":0,"icon":"GUI/Icon/Item/Function/Package/RandomBox.png","class":6},{"id":836000191,"slotType":0,"inventoryType":0,"gainType":0,"icon":"GUI/Icon/Item/Function/Package/RandomBox.png","class":6}]
+[
+  {
+    "id": 261341301,
+    "slotType": 23,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveRepair1_Tail_13.png",
+    "class": 6
+  },
+  {
+    "id": 261351001,
+    "slotType": 18,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveRepair2_Back_10.png",
+    "class": 6
+  },
+  {
+    "id": 261360501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveDeath1_Glove_05.png",
+    "class": 6
+  },
+  {
+    "id": 261370101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveDeath2_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261380101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveSJ_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261392001,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveDoll_EyeMouth_18.png",
+    "class": 6
+  },
+  {
+    "id": 261400501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveNC_Glove_05.png",
+    "class": 6
+  },
+  {
+    "id": 261410101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveRF_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261420101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveIF_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261430301,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveNS_EyeAcc01_03.png",
+    "class": 6
+  },
+  {
+    "id": 261440501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveArmour1_Glove_05.png",
+    "class": 6
+  },
+  {
+    "id": 261451001,
+    "slotType": 18,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveArmour2_Back_10.png",
+    "class": 6
+  },
+  {
+    "id": 261460101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveCombo_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261470101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveSQ1_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261480101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveSQ2_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261490501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveMC1_Glove_05.png",
+    "class": 6
+  },
+  {
+    "id": 261501001,
+    "slotType": 18,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveMC2_Back_10.png",
+    "class": 6
+  },
+  {
+    "id": 261510101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Achieve3Min1_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261520101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Achieve3Min2_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261530101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveSSclear1_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261540101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveSSclear2_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261550101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveFClear1_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261560101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveFClear2_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261570501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveDropJ1_Glove_05.png",
+    "class": 6
+  },
+  {
+    "id": 261580101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveDropJ2_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261590501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveEther1_Glove_05.png",
+    "class": 6
+  },
+  {
+    "id": 261600301,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveEther2_EyeAcc01_03.png",
+    "class": 6
+  },
+  {
+    "id": 261611301,
+    "slotType": 23,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveTime1_Tail_13.png",
+    "class": 6
+  },
+  {
+    "id": 261621001,
+    "slotType": 18,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveTime2_Back_10.png",
+    "class": 6
+  },
+  {
+    "id": 261630101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveFatigue1_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261641001,
+    "slotType": 18,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveFatigue2_Back_10.png",
+    "class": 6
+  },
+  {
+    "id": 261650301,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveRF1_EyeAcc01_03.png",
+    "class": 6
+  },
+  {
+    "id": 261661301,
+    "slotType": 23,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveRF2_Tail_13.png",
+    "class": 6
+  },
+  {
+    "id": 261672001,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveMake1_EyeMouth_18.png",
+    "class": 6
+  },
+  {
+    "id": 261681001,
+    "slotType": 18,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveMake2_Back_10.png",
+    "class": 6
+  },
+  {
+    "id": 262040101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NCImprove_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 262040102,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NCImprove_HairAcc02_16.png",
+    "class": 6
+  },
+  {
+    "id": 262040701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NCImprove_Costume01_07.png",
+    "class": 6
+  },
+  {
+    "id": 262040801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NCImprove_Costume02_08.png",
+    "class": 6
+  },
+  {
+    "id": 262040301,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NCImprove_EyeAcc01_03.png",
+    "class": 6
+  },
+  {
+    "id": 262040501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NCImprove_Glove_05.png",
+    "class": 6
+  },
+  {
+    "id": 262041001,
+    "slotType": 18,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NCImprove_Back_10.png",
+    "class": 6
+  },
+  {
+    "id": 262041201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NCImprove_Shoes_12.png",
+    "class": 6
+  },
+  {
+    "id": 261011401,
+    "slotType": 21,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_WPAV_002.png",
+    "class": 6
+  },
+  {
+    "id": 261702001,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_CasualRaid01.png",
+    "class": 6
+  },
+  {
+    "id": 261712001,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_CasualRaid02.png",
+    "class": 6
+  },
+  {
+    "id": 261722001,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_CasualRaid03.png",
+    "class": 6
+  },
+  {
+    "id": 261732001,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_CasualRaid04.png",
+    "class": 6
+  },
+  {
+    "id": 261010602,
+    "slotType": 16,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Underwear01.png",
+    "class": 6
+  },
+  {
+    "id": 261020602,
+    "slotType": 16,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Underwear02.png",
+    "class": 6
+  },
+  {
+    "id": 261030602,
+    "slotType": 16,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Underwear03.png",
+    "class": 6
+  },
+  {
+    "id": 261040602,
+    "slotType": 16,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Underwear04.png",
+    "class": 6
+  },
+  {
+    "id": 261050602,
+    "slotType": 16,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Underwear_S01.png",
+    "class": 6
+  },
+  {
+    "id": 261740101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Farm_Achive_01.png",
+    "class": 6
+  },
+  {
+    "id": 261750101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Farm_Achive_02.png",
+    "class": 6
+  },
+  {
+    "id": 261760101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Farm_Achive_03.png",
+    "class": 6
+  },
+  {
+    "id": 261770101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Farm_Achive_04.png",
+    "class": 6
+  },
+  {
+    "id": 261780101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Farm_Achive_05.png",
+    "class": 6
+  },
+  {
+    "id": 261790101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Farm_Achive_06.png",
+    "class": 6
+  },
+  {
+    "id": 261800501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Farm_Achive_07.png",
+    "class": 6
+  },
+  {
+    "id": 261810501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Farm_Achive_08.png",
+    "class": 6
+  },
+  {
+    "id": 261822001,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_DistrictRaid01_EyeMouth_18.png",
+    "class": 6
+  },
+  {
+    "id": 261830101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_ApcalypseRaid01.png",
+    "class": 6
+  },
+  {
+    "id": 261330102,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveShop2_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261861001,
+    "slotType": 18,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Grouton2_Back_10.png",
+    "class": 6
+  },
+  {
+    "id": 261850101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Newbie2_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261851001,
+    "slotType": 18,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Newbie2_Back_10.png",
+    "class": 6
+  },
+  {
+    "id": 262280701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Rider_Costume01_07.png",
+    "class": 6
+  },
+  {
+    "id": 262280801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Rider_Costume02_08.png",
+    "class": 6
+  },
+  {
+    "id": 262281201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Rider_Shoes_12.png",
+    "class": 6
+  },
+  {
+    "id": 262290701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Rider2_Costume01_07.png",
+    "class": 6
+  },
+  {
+    "id": 262290801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Rider2_Costume02_08.png",
+    "class": 6
+  },
+  {
+    "id": 262291201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Rider_Shoes_12.png",
+    "class": 6
+  },
+  {
+    "id": 261871001,
+    "slotType": 18,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_EQMark_Back_10.png",
+    "class": 6
+  },
+  {
+    "id": 263340701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Gatcha1_Costume01_07.png",
+    "class": 6
+  },
+  {
+    "id": 263340801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Gatcha1_Costume02_08.png",
+    "class": 6
+  },
+  {
+    "id": 263341101,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Gatcha1_Socks_11.png",
+    "class": 6
+  },
+  {
+    "id": 263341201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Gatcha1_Shoes_12.png",
+    "class": 6
+  },
+  {
+    "id": 263350701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Gatcha2_Costume01_07.png",
+    "class": 6
+  },
+  {
+    "id": 263350801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Gatcha2_Costume02_08.png",
+    "class": 6
+  },
+  {
+    "id": 837001016,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_CostumePackage_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 837001017,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_CostumePackage_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 837001018,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_CostumePackage_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 826010001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 861050001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 861100001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 861160001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 861220001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 861290001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 861300001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 861360001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 861400001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 861450001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 861500001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 861550001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 861600001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 820010008,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_Giftbox.png",
+    "class": 6
+  },
+  {
+    "id": 836000189,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/RandomBox.png",
+    "class": 6
+  },
+  {
+    "id": 836000190,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/RandomBox.png",
+    "class": 6
+  },
+  {
+    "id": 836000191,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/RandomBox.png",
+    "class": 6
+  }
+]

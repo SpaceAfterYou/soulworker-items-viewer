@@ -1,1 +1,802 @@
-[{"id":880306153,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30615_PI_PropTwo_C.png","class":0},{"id":880306161,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30616_PI_PropThree_A.png","class":0},{"id":880306162,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30616_PI_PropThree_B.png","class":0},{"id":880306163,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30616_PI_PropThree_C.png","class":0},{"id":880306171,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30617_PI_Shower_A.png","class":0},{"id":880306172,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30617_PI_Shower_B.png","class":0},{"id":880306173,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30617_PI_Shower_C.png","class":0},{"id":880306181,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30618_PI_Ceiling_A.png","class":0},{"id":880306182,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30618_PI_Ceiling_B.png","class":0},{"id":880306183,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30618_PI_Ceiling_C.png","class":0},{"id":880306061,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30606_PI_Door_A.png","class":0},{"id":880306062,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30606_PI_Door_B.png","class":0},{"id":880306063,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30606_PI_Door_C.png","class":0},{"id":880308011,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30801_BL_WallPaper_A.png","class":0},{"id":880308012,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30801_BL_WallPaper_B.png","class":0},{"id":880308013,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30801_BL_WallPaper_C.png","class":0},{"id":880308021,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30802_BL_Floor_A.png","class":0},{"id":880308022,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30802_BL_Floor_B.png","class":0},{"id":880308023,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30802_BL_Floor_C.png","class":0},{"id":880308031,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30803_BL_WallHanging_A.png","class":0},{"id":880308032,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30803_BL_WallHanging_B.png","class":0},{"id":880308033,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30803_BL_WallHanging_C.png","class":0},{"id":880308041,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30804_BL_TerraceDoor_A.png","class":0},{"id":880308042,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30804_BL_TerraceDoor_B.png","class":0},{"id":880308043,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30804_BL_TerraceDoor_C.png","class":0},{"id":880308051,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30805_BL_Window_A.png","class":0},{"id":880308052,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30805_BL_Window_B.png","class":0},{"id":880308053,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30805_BL_Window_C.png","class":0},{"id":880308071,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30807_BL_Mat_A.png","class":0},{"id":880308072,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30807_BL_Mat_B.png","class":0},{"id":880308073,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30807_BL_Mat_C.png","class":0},{"id":880308081,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30808_BL_Bed_A.png","class":0},{"id":880308082,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30808_BL_Bed_B.png","class":0},{"id":880308083,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30808_BL_Bed_C.png","class":0},{"id":880308091,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30809_BL_ChairSofa_A.png","class":0},{"id":880308092,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30809_BL_ChairSofa_B.png","class":0},{"id":880308093,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30809_BL_ChairSofa_C.png","class":0},{"id":880308101,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30810_BL_Table_A.png","class":0},{"id":880308102,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30810_BL_Table_B.png","class":0},{"id":880308103,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30810_BL_Table_C.png","class":0},{"id":880308111,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30811_BL_DrawerDevice_A.png","class":0},{"id":880308112,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30811_BL_DrawerDevice_B.png","class":0},{"id":880308113,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30811_BL_DrawerDevice_C.png","class":0},{"id":880308121,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30812_BL_Bathtub_A.png","class":0},{"id":880308122,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30812_BL_Bathtub_B.png","class":0},{"id":880308123,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30812_BL_Bathtub_C.png","class":0},{"id":880308141,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30814_BL_PropOne_A.png","class":0},{"id":880308142,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30814_BL_PropOne_B.png","class":0},{"id":880308143,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30814_BL_PropOne_C.png","class":0},{"id":880308151,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30815_BL_PropTwo_A.png","class":0},{"id":880308152,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30815_BL_PropTwo_B.png","class":0},{"id":880308153,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30815_BL_PropTwo_C.png","class":0},{"id":880308161,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30816_BL_PropThree_A.png","class":0},{"id":880308162,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30816_BL_PropThree_B.png","class":0},{"id":880308163,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30816_BL_PropThree_C.png","class":0},{"id":880308171,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30817_BL_Shower_A.png","class":0},{"id":880308172,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30817_BL_Shower_B.png","class":0},{"id":880308173,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30817_BL_Shower_C.png","class":0},{"id":880308181,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30818_BL_Ceiling_A.png","class":0},{"id":880308182,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30818_BL_Ceiling_B.png","class":0},{"id":880308183,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30818_BL_Ceiling_C.png","class":0},{"id":880308061,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30806_BL_Door_A.png","class":0},{"id":880308062,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30806_BL_Door_B.png","class":0},{"id":880308063,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30806_BL_Door_C.png","class":0},{"id":880309011,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30901_MU_WallPaper_A.png","class":0},{"id":880309012,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30901_MU_WallPaper_B.png","class":0},{"id":880309013,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30901_MU_WallPaper_C.png","class":0},{"id":880309021,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30902_MU_Floor_A.png","class":0},{"id":880309022,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30902_MU_Floor_B.png","class":0},{"id":880309023,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30902_MU_Floor_C.png","class":0},{"id":880309031,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30903_MU_WallHanging_A.png","class":0},{"id":880309032,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30903_MU_WallHanging_B.png","class":0},{"id":880309033,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30903_MU_WallHanging_C.png","class":0},{"id":880309041,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30904_MU_TerraceDoor_A.png","class":0},{"id":880309042,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30904_MU_TerraceDoor_B.png","class":0},{"id":880309043,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30904_MU_TerraceDoor_C.png","class":0},{"id":880309051,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30905_MU_Window_A.png","class":0},{"id":880309052,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30905_MU_Window_B.png","class":0},{"id":880309053,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30905_MU_Window_C.png","class":0},{"id":880309071,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30907_MU_Mat_A.png","class":0},{"id":880309072,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30907_MU_Mat_B.png","class":0},{"id":880309073,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30907_MU_Mat_C.png","class":0},{"id":880309081,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30908_MU_Bed_A.png","class":0},{"id":880309082,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30908_MU_Bed_B.png","class":0},{"id":880309083,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30908_MU_Bed_C.png","class":0},{"id":880309091,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30909_MU_ChairSofa_A.png","class":0},{"id":880309092,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30909_MU_ChairSofa_B.png","class":0},{"id":880309093,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30909_MU_ChairSofa_C.png","class":0},{"id":880309101,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30910_MU_Table_A.png","class":0},{"id":880309102,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30910_MU_Table_B.png","class":0},{"id":880309103,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30910_MU_Table_C.png","class":0},{"id":880309111,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30911_MU_DrawerDevice_A.png","class":0},{"id":880309112,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30911_MU_DrawerDevice_B.png","class":0},{"id":880309113,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30911_MU_DrawerDevice_C.png","class":0},{"id":880309121,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30912_MU_Bathtub_A.png","class":0},{"id":880309122,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30912_MU_Bathtub_B.png","class":0},{"id":880309123,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30912_MU_Bathtub_C.png","class":0},{"id":880309141,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30914_MU_PropOne_A.png","class":0},{"id":880309142,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30914_MU_PropOne_B.png","class":0},{"id":880309143,"slotType":0,"inventoryType":9,"gainType":0,"icon":"GUI/Icon/Item/Furniture/MOBJ_30914_MU_PropOne_C.png","class":0}]
+[
+  {
+    "id": 880306153,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30615_PI_PropTwo_C.png",
+    "class": 0
+  },
+  {
+    "id": 880306161,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30616_PI_PropThree_A.png",
+    "class": 0
+  },
+  {
+    "id": 880306162,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30616_PI_PropThree_B.png",
+    "class": 0
+  },
+  {
+    "id": 880306163,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30616_PI_PropThree_C.png",
+    "class": 0
+  },
+  {
+    "id": 880306171,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30617_PI_Shower_A.png",
+    "class": 0
+  },
+  {
+    "id": 880306172,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30617_PI_Shower_B.png",
+    "class": 0
+  },
+  {
+    "id": 880306173,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30617_PI_Shower_C.png",
+    "class": 0
+  },
+  {
+    "id": 880306181,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30618_PI_Ceiling_A.png",
+    "class": 0
+  },
+  {
+    "id": 880306182,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30618_PI_Ceiling_B.png",
+    "class": 0
+  },
+  {
+    "id": 880306183,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30618_PI_Ceiling_C.png",
+    "class": 0
+  },
+  {
+    "id": 880306061,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30606_PI_Door_A.png",
+    "class": 0
+  },
+  {
+    "id": 880306062,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30606_PI_Door_B.png",
+    "class": 0
+  },
+  {
+    "id": 880306063,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30606_PI_Door_C.png",
+    "class": 0
+  },
+  {
+    "id": 880308011,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30801_BL_WallPaper_A.png",
+    "class": 0
+  },
+  {
+    "id": 880308012,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30801_BL_WallPaper_B.png",
+    "class": 0
+  },
+  {
+    "id": 880308013,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30801_BL_WallPaper_C.png",
+    "class": 0
+  },
+  {
+    "id": 880308021,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30802_BL_Floor_A.png",
+    "class": 0
+  },
+  {
+    "id": 880308022,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30802_BL_Floor_B.png",
+    "class": 0
+  },
+  {
+    "id": 880308023,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30802_BL_Floor_C.png",
+    "class": 0
+  },
+  {
+    "id": 880308031,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30803_BL_WallHanging_A.png",
+    "class": 0
+  },
+  {
+    "id": 880308032,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30803_BL_WallHanging_B.png",
+    "class": 0
+  },
+  {
+    "id": 880308033,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30803_BL_WallHanging_C.png",
+    "class": 0
+  },
+  {
+    "id": 880308041,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30804_BL_TerraceDoor_A.png",
+    "class": 0
+  },
+  {
+    "id": 880308042,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30804_BL_TerraceDoor_B.png",
+    "class": 0
+  },
+  {
+    "id": 880308043,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30804_BL_TerraceDoor_C.png",
+    "class": 0
+  },
+  {
+    "id": 880308051,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30805_BL_Window_A.png",
+    "class": 0
+  },
+  {
+    "id": 880308052,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30805_BL_Window_B.png",
+    "class": 0
+  },
+  {
+    "id": 880308053,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30805_BL_Window_C.png",
+    "class": 0
+  },
+  {
+    "id": 880308071,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30807_BL_Mat_A.png",
+    "class": 0
+  },
+  {
+    "id": 880308072,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30807_BL_Mat_B.png",
+    "class": 0
+  },
+  {
+    "id": 880308073,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30807_BL_Mat_C.png",
+    "class": 0
+  },
+  {
+    "id": 880308081,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30808_BL_Bed_A.png",
+    "class": 0
+  },
+  {
+    "id": 880308082,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30808_BL_Bed_B.png",
+    "class": 0
+  },
+  {
+    "id": 880308083,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30808_BL_Bed_C.png",
+    "class": 0
+  },
+  {
+    "id": 880308091,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30809_BL_ChairSofa_A.png",
+    "class": 0
+  },
+  {
+    "id": 880308092,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30809_BL_ChairSofa_B.png",
+    "class": 0
+  },
+  {
+    "id": 880308093,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30809_BL_ChairSofa_C.png",
+    "class": 0
+  },
+  {
+    "id": 880308101,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30810_BL_Table_A.png",
+    "class": 0
+  },
+  {
+    "id": 880308102,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30810_BL_Table_B.png",
+    "class": 0
+  },
+  {
+    "id": 880308103,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30810_BL_Table_C.png",
+    "class": 0
+  },
+  {
+    "id": 880308111,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30811_BL_DrawerDevice_A.png",
+    "class": 0
+  },
+  {
+    "id": 880308112,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30811_BL_DrawerDevice_B.png",
+    "class": 0
+  },
+  {
+    "id": 880308113,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30811_BL_DrawerDevice_C.png",
+    "class": 0
+  },
+  {
+    "id": 880308121,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30812_BL_Bathtub_A.png",
+    "class": 0
+  },
+  {
+    "id": 880308122,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30812_BL_Bathtub_B.png",
+    "class": 0
+  },
+  {
+    "id": 880308123,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30812_BL_Bathtub_C.png",
+    "class": 0
+  },
+  {
+    "id": 880308141,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30814_BL_PropOne_A.png",
+    "class": 0
+  },
+  {
+    "id": 880308142,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30814_BL_PropOne_B.png",
+    "class": 0
+  },
+  {
+    "id": 880308143,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30814_BL_PropOne_C.png",
+    "class": 0
+  },
+  {
+    "id": 880308151,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30815_BL_PropTwo_A.png",
+    "class": 0
+  },
+  {
+    "id": 880308152,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30815_BL_PropTwo_B.png",
+    "class": 0
+  },
+  {
+    "id": 880308153,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30815_BL_PropTwo_C.png",
+    "class": 0
+  },
+  {
+    "id": 880308161,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30816_BL_PropThree_A.png",
+    "class": 0
+  },
+  {
+    "id": 880308162,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30816_BL_PropThree_B.png",
+    "class": 0
+  },
+  {
+    "id": 880308163,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30816_BL_PropThree_C.png",
+    "class": 0
+  },
+  {
+    "id": 880308171,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30817_BL_Shower_A.png",
+    "class": 0
+  },
+  {
+    "id": 880308172,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30817_BL_Shower_B.png",
+    "class": 0
+  },
+  {
+    "id": 880308173,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30817_BL_Shower_C.png",
+    "class": 0
+  },
+  {
+    "id": 880308181,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30818_BL_Ceiling_A.png",
+    "class": 0
+  },
+  {
+    "id": 880308182,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30818_BL_Ceiling_B.png",
+    "class": 0
+  },
+  {
+    "id": 880308183,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30818_BL_Ceiling_C.png",
+    "class": 0
+  },
+  {
+    "id": 880308061,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30806_BL_Door_A.png",
+    "class": 0
+  },
+  {
+    "id": 880308062,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30806_BL_Door_B.png",
+    "class": 0
+  },
+  {
+    "id": 880308063,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30806_BL_Door_C.png",
+    "class": 0
+  },
+  {
+    "id": 880309011,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30901_MU_WallPaper_A.png",
+    "class": 0
+  },
+  {
+    "id": 880309012,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30901_MU_WallPaper_B.png",
+    "class": 0
+  },
+  {
+    "id": 880309013,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30901_MU_WallPaper_C.png",
+    "class": 0
+  },
+  {
+    "id": 880309021,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30902_MU_Floor_A.png",
+    "class": 0
+  },
+  {
+    "id": 880309022,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30902_MU_Floor_B.png",
+    "class": 0
+  },
+  {
+    "id": 880309023,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30902_MU_Floor_C.png",
+    "class": 0
+  },
+  {
+    "id": 880309031,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30903_MU_WallHanging_A.png",
+    "class": 0
+  },
+  {
+    "id": 880309032,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30903_MU_WallHanging_B.png",
+    "class": 0
+  },
+  {
+    "id": 880309033,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30903_MU_WallHanging_C.png",
+    "class": 0
+  },
+  {
+    "id": 880309041,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30904_MU_TerraceDoor_A.png",
+    "class": 0
+  },
+  {
+    "id": 880309042,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30904_MU_TerraceDoor_B.png",
+    "class": 0
+  },
+  {
+    "id": 880309043,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30904_MU_TerraceDoor_C.png",
+    "class": 0
+  },
+  {
+    "id": 880309051,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30905_MU_Window_A.png",
+    "class": 0
+  },
+  {
+    "id": 880309052,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30905_MU_Window_B.png",
+    "class": 0
+  },
+  {
+    "id": 880309053,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30905_MU_Window_C.png",
+    "class": 0
+  },
+  {
+    "id": 880309071,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30907_MU_Mat_A.png",
+    "class": 0
+  },
+  {
+    "id": 880309072,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30907_MU_Mat_B.png",
+    "class": 0
+  },
+  {
+    "id": 880309073,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30907_MU_Mat_C.png",
+    "class": 0
+  },
+  {
+    "id": 880309081,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30908_MU_Bed_A.png",
+    "class": 0
+  },
+  {
+    "id": 880309082,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30908_MU_Bed_B.png",
+    "class": 0
+  },
+  {
+    "id": 880309083,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30908_MU_Bed_C.png",
+    "class": 0
+  },
+  {
+    "id": 880309091,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30909_MU_ChairSofa_A.png",
+    "class": 0
+  },
+  {
+    "id": 880309092,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30909_MU_ChairSofa_B.png",
+    "class": 0
+  },
+  {
+    "id": 880309093,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30909_MU_ChairSofa_C.png",
+    "class": 0
+  },
+  {
+    "id": 880309101,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30910_MU_Table_A.png",
+    "class": 0
+  },
+  {
+    "id": 880309102,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30910_MU_Table_B.png",
+    "class": 0
+  },
+  {
+    "id": 880309103,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30910_MU_Table_C.png",
+    "class": 0
+  },
+  {
+    "id": 880309111,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30911_MU_DrawerDevice_A.png",
+    "class": 0
+  },
+  {
+    "id": 880309112,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30911_MU_DrawerDevice_B.png",
+    "class": 0
+  },
+  {
+    "id": 880309113,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30911_MU_DrawerDevice_C.png",
+    "class": 0
+  },
+  {
+    "id": 880309121,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30912_MU_Bathtub_A.png",
+    "class": 0
+  },
+  {
+    "id": 880309122,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30912_MU_Bathtub_B.png",
+    "class": 0
+  },
+  {
+    "id": 880309123,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30912_MU_Bathtub_C.png",
+    "class": 0
+  },
+  {
+    "id": 880309141,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30914_MU_PropOne_A.png",
+    "class": 0
+  },
+  {
+    "id": 880309142,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30914_MU_PropOne_B.png",
+    "class": 0
+  },
+  {
+    "id": 880309143,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30914_MU_PropOne_C.png",
+    "class": 0
+  }
+]
