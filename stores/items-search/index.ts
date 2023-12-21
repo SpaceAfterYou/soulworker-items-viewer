@@ -50,11 +50,9 @@ export const useSideItemsSearch = defineStore("items-search-store", () => {
 
   if (process.client) {
     watch(
-      [sideFilters, items],
-      ([side, items]) => {
-        console.log(`items count: ${items.length}`);
-
-        filtered.value = items;
+      sideFilters,
+      (side) => {
+        filtered.value = items.value;
 
         for (const [sideFilterKey, sideFilterValues] of side) {
           if (sideFilterValues.size === 0) {
@@ -62,15 +60,15 @@ export const useSideItemsSearch = defineStore("items-search-store", () => {
             continue;
           }
 
+          console.log(`use filter: ${sideFilterKey}`);
+
           const filters = Array.from(sideFilterValues.values());
-          console.log(`filters: ${filters.length}`);
+          console.log(`with values: ${filters}`);
 
           filtered.value = filtered.value.filter((e) => filters.some((f) => f(e)));
 
-          console.log(`filtered: ${filtered.value.length}`);
+          console.log(`filtered count: ${filtered.value.length}`);
         }
-
-        console.log(`asd: ${side.size}`);
       },
       { immediate: true, deep: true }
     );
