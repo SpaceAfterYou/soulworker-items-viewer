@@ -1,5 +1,11 @@
 export const enum SlotType {
+  FashionBottomSpine = 23, // [FashionBottomSpine] Fashion (bottom spine)
+  FashionBottomBody = 22, // [FashionBottomBody] Fashion (bottom body)
+  FashionStockings = 19, // [FashionStockings] Fashion (stockings)
+  FashionTopSpine = 18, // [FashionTopSpine] Fashion (top spine)
   FashionPanties = 16,
+  FashionTopBody = 17,
+  FashionWeapon = 21,
   Unknown_101 = 101,
   Unknown_102 = 102,
   Unknown_103 = 103,
@@ -36,17 +42,11 @@ export const enum SlotType {
   Unknown_254 = 254,
   Unknown_255 = 255,
   FashionHands = 15,
+  FashionShoes = 20,
   FashionFace = 14,
   Unknown_11 = 11,
   Unknown_12 = 12,
   Unknown_13 = 13,
-  Unknown_17 = 17,
-  Unknown_18 = 18,
-  Unknown_19 = 19,
-  Unknown_20 = 20,
-  Unknown_21 = 21,
-  Unknown_22 = 22,
-  Unknown_23 = 23,
   Unknown_24 = 24,
   Unknown_97 = 97,
   Unknown_98 = 98,

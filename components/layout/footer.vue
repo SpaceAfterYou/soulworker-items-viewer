@@ -8,6 +8,8 @@
       GitHub
     </LayoutFooterLink>
 
+    <p>don't lose you panties, boy next door</p>
+
     <LayoutFooterLink href="http://discord.gg/SequFJP">
       Discord
     </LayoutFooterLink>
