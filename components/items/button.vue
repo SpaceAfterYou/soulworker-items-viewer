@@ -5,23 +5,18 @@ type Props = {
   item: Item;
 };
 
-type Keys = keyof Pick<Item, "inventoryType" | "gainType" | "slotType">;
+type Keys = ReadonlyArray<keyof Pick<Item, "inventoryType" | "gainType" | "slotType">>;
 
 defineProps<Props>();
 
-const tokens = [
-  "gainType",
-  "inventoryType",
-  "slotType",
-] satisfies ReadonlyArray<Keys>;
-
-const modal = ref(false);
+const tokens = ["gainType", "inventoryType", "slotType"] satisfies Keys;
+const [state, toggle] = useToggle();
 </script>
 
 <template>
-  <ItemsIcon @click="modal = !modal" :icon="item.icon">
-    <ItemsModal @on-close="modal = false" v-if="modal">
-      <div class="grid grid-cols-[auto_1fr] gap-2" @focusout="modal = false">
+  <ItemsIcon @click="toggle()" :icon="item.icon">
+    <ItemsModal @on-close="toggle(false)" v-if="state">
+      <div class="grid grid-cols-[auto_1fr] gap-x-2 gap-y-4">
         <ItemsIcon :icon="item.icon" />
 
         <div class="grow self-center">
@@ -29,19 +24,19 @@ const modal = ref(false);
           <div>{{ $t(`items.${item.id}.name`) }}</div>
         </div>
 
-        <div class="col-span-full -mx-4 bg-pink-500/50 p-4">
-          <ul class="flex justify-around gap-2 text-center">
-            <li v-for="token of tokens" :key="token">
+        <div class="col-span-full">
+          <ul class="flex justify-around gap-4 text-center">
+            <li class="rounded bg-pink-500/50 p-4" v-for="token of tokens" :key="token">
               <h4 class="font-bold uppercase">{{ $t(`${token}.name`) }}</h4>
-              <p>{{ $t(`${token}.values.${item[token]}`) }}</p>
+              <div class="flex justify-between gap-4">
+                <span class="text-white/50">{{ item[token] }}</span>
+                <p>{{ $t(`${token}.values.${item[token]}`) }}</p>
+              </div>
             </li>
           </ul>
         </div>
 
-        <div
-          v-html="$t(`items.${item.id}.description`)"
-          class="col-span-full whitespace-pre-wrap"
-        />
+        <div v-html="$t(`items.${item.id}.description`)" class="col-span-full whitespace-pre-wrap" />
       </div>
     </ItemsModal>
   </ItemsIcon>

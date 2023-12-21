@@ -5,81 +5,76 @@ import type { SlotType } from "~/enums/slot-type";
 import type { Items } from "../items/types/items";
 import type { Item } from "../items/types/item";
 
-import { useItemStore } from "../items";
+import { useItem } from "../items";
 
-export const useItemsSearch = defineStore("items-search-store", () => {
+export const useSideItemsSearch = defineStore("items-search-store", () => {
   type FilterCallable = (item: Item) => boolean;
-  type SideFilter = Map<
-    keyof Pick<Item, "inventoryType" | "slotType" | "gainType">,
-    Map<number, FilterCallable>
-  >;
 
-  interface TypeParams<
-    T extends keyof Pick<Item, "inventoryType" | "slotType" | "gainType">,
-    TId = InventoryTypeParams | InventoryType,
-  > {
+  type SideFilterKey = keyof Pick<Item, "inventoryType" | "slotType" | "gainType">;
+  type SideFilterValue = Map<number, FilterCallable>;
+  type SideFilter = Map<SideFilterKey, SideFilterValue>;
+
+  interface TypeParams<TId = InventoryType | GainType | SlotType> {
     callable: (item: Item) => boolean;
-    token: T;
     id: TId;
   }
 
-  type GainTypeParams = TypeParams<"gainType", GainType>;
-  type InventoryTypeParams = TypeParams<"inventoryType", InventoryType>;
-  type SlotTypeParams = TypeParams<"slotType", SlotType>;
+  type GainTypeParams = TypeParams<GainType>;
+  type InventoryTypeParams = TypeParams<InventoryType>;
+  type SlotTypeParams = TypeParams<SlotType>;
 
-  type ApplySideFilterParams =
-    | InventoryTypeParams
-    | GainTypeParams
-    | SlotTypeParams;
-
-  type RemoveSideFilterParams = Pick<ApplySideFilterParams, "token" | "id">;
+  type ApplySideFilterParams = InventoryTypeParams | GainTypeParams | SlotTypeParams;
+  type RemoveSideFilterParams = Pick<ApplySideFilterParams, "id">;
 
   const filtered = ref<Items>([]);
 
-  const sideFilters = ref<SideFilter>(
-    new Map([
-      ["inventoryType", new Map()],
-      ["gainType", new Map()],
-      ["slotType", new Map()],
-    ])
-  );
+  const sideFilters = reactive<SideFilter>(new Map());
 
-  const searchFilters = ref({});
+  function useFilter(id: SideFilterKey) {
+    const filters = reactive(new Map());
+    sideFilters.set(id, filters);
 
-  function applySideFilter({ callable, token, id }: ApplySideFilterParams) {
-    console.log(sideFilters.value.get(token)?.set(id, callable) ?? false);
+    onBeforeUnmount(() => {
+      console.log(`onBeforeUnmount: ${id}`);
+
+      sideFilters.delete(id);
+    });
+
+    const set = ({ callable, id }: ApplySideFilterParams) => filters.set(id, callable);
+    const del = ({ id }: RemoveSideFilterParams) => filters.delete(id);
+
+    return { set, del };
   }
 
-  function removeSideFilter({ token, id }: RemoveSideFilterParams) {
-    sideFilters.value.get(token)?.delete(id);
-  }
+  const { items } = storeToRefs(useItem());
 
-  const { items } = storeToRefs(useItemStore());
+  if (process.client) {
+    watch(
+      [sideFilters, items],
+      ([side, items]) => {
+        console.log(`items count: ${items.length}`);
 
-  watch(
-    [sideFilters, searchFilters, items],
-    ([side, search, items]) => {
-      search;
+        filtered.value = items;
 
-      filtered.value = items;
+        for (const [sideFilterKey, sideFilterValues] of side) {
+          if (sideFilterValues.size === 0) {
+            console.log(`skip side filter: ${sideFilterKey}`);
+            continue;
+          }
 
-      for (const sideFilterValues of side.values()) {
-        if (sideFilterValues.size === 0) {
-          continue;
+          const filters = Array.from(sideFilterValues.values());
+          console.log(`filters: ${filters.length}`);
+
+          filtered.value = filtered.value.filter((e) => filters.some((f) => f(e)));
+
+          console.log(`filtered: ${filtered.value.length}`);
         }
 
-        const filters = Array.from(sideFilterValues.values());
-        console.log(`filters: ${filters.length}`);
+        console.log(`asd: ${side.size}`);
+      },
+      { immediate: true, deep: true }
+    );
+  }
 
-        filtered.value = filtered.value.filter((e) =>
-          filters.some((f) => f(e))
-        );
-
-        console.log(`filtered: ${filtered.value.length}`);
-      }
-    },
-    { immediate: true, deep: true }
-  );
-
-  return { removeSideFilter, applySideFilter, filtered };
+  return { useFilter, filtered };
 });
