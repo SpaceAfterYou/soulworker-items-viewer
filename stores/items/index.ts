@@ -4,7 +4,7 @@ import type { Items } from "./types/items";
 
 import { parts } from "./__generated__/items-count";
 
-async function* fromRemove() {
+async function* fromRemote() {
   for (let part = 0; part < parts; ++part) {
     const base = `items/part${part}.json`;
     const url = urlToUrl(base);
@@ -20,7 +20,7 @@ export const useItem = defineStore("items-store", () => {
   const items = reactive<Items>([]);
 
   async function populate() {
-    for await (const values of fromRemove()) {
+    for await (const values of fromRemote()) {
       items.push(...values);
     }
   }
