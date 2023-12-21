@@ -4,12 +4,12 @@ import type { LocaleSidebarType } from "../types/sidebar-type";
 
 export const inventoryType = {
   values: {
-    [InventoryType.Unknown_13]: `Unknown`,
     [InventoryType.Unknown_14]: `Unknown`,
     [InventoryType.Unknown_19]: `Unknown`,
-    [InventoryType.Unknown_0]: `Unknown`,
-    [InventoryType.Unknown_2]: `Unknown`,
-    [InventoryType.Unknown_9]: `Unknown`,
+    [InventoryType.Fashion]: `Fashion`,
+    [InventoryType.Common]: `Common`,
+    [InventoryType.Extra]: `Extra`,
+    [InventoryType.Home]: `Home`,
   },
   name: "Inventory type",
 } satisfies LocaleSidebarType<InventoryType>;
