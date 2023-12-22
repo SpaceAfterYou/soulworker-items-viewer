@@ -50,7 +50,6 @@ export const slotType = {
     [SlotType.Unknown_255]: `알 수 없음`,
     [SlotType.FashionFace]: `알 수 없음`,
     [SlotType.Unknown_11]: `알 수 없음`,
-    [SlotType.Head]: `알 수 없음`,
     [SlotType.Unknown_13]: `알 수 없음`,
     [SlotType.Unknown_24]: `알 수 없음`,
     [SlotType.Unknown_97]: `알 수 없음`,
@@ -59,6 +58,7 @@ export const slotType = {
     [SlotType.Unknown_0]: `알 수 없음`,
     [SlotType.Unknown_1]: `알 수 없음`,
     [SlotType.Unknown_2]: `알 수 없음`,
+    [SlotType.Head]: `알 수 없음`,
   },
   name: "Slot type",
 } satisfies LocaleSidebarType<SlotType>;
