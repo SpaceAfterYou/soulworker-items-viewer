@@ -48,31 +48,27 @@ export const useSideItemsSearch = defineStore("items-search-store", () => {
 
   const { items } = storeToRefs(useItem());
 
-  if (process.client) {
-    watch(
-      sideFilters,
-      (side) => {
-        filtered.value = items.value;
+  function update(side: SideFilter) {
+    filtered.value = items.value;
 
-        for (const [sideFilterKey, sideFilterValues] of side) {
-          if (sideFilterValues.size === 0) {
-            console.log(`skip side filter: ${sideFilterKey}`);
-            continue;
-          }
+    for (const [sideFilterKey, sideFilterValues] of side) {
+      if (sideFilterValues.size === 0) {
+        console.log(`skip side filter: ${sideFilterKey}`);
+        continue;
+      }
 
-          console.log(`use filter: ${sideFilterKey}`);
+      console.log(`use filter: ${sideFilterKey}`);
 
-          const filters = Array.from(sideFilterValues.values());
-          console.log(`with values: ${filters}`);
+      const filters = Array.from(sideFilterValues.values());
+      console.log(`with values: ${filters}`);
 
-          filtered.value = filtered.value.filter((e) => filters.some((f) => f(e)));
+      filtered.value = filtered.value.filter((e) => filters.some((f) => f(e)));
 
-          console.log(`filtered count: ${filtered.value.length}`);
-        }
-      },
-      { immediate: true, deep: true }
-    );
+      console.log(`filtered count: ${filtered.value.length}`);
+    }
   }
+
+  watch(sideFilters, update);
 
   return { useFilter, filtered };
 });

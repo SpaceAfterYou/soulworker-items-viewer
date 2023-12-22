@@ -20,9 +20,13 @@ export const useItem = defineStore("items-store", () => {
   const items = reactive<Items>([]);
 
   async function populate() {
+    console.log("populate");
+
     for await (const values of fromRemote()) {
       items.push(...values);
     }
+
+    console.log(`populated: ${items.length}`);
   }
 
   const selectedItemsTypes = ref(new Set<number>());
