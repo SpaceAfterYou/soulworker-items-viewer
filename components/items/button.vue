@@ -26,7 +26,7 @@ const [state, toggle] = useToggle();
 
         <div class="col-span-full">
           <ul class="flex justify-evenly gap-4 text-center">
-            <li class="w-full rounded bg-pink-500/50 px-4 py-2" v-for="token of tokens" :key="token">
+            <li class="w-full whitespace-nowrap rounded bg-pink-500/50 px-4 py-2" v-for="token of tokens" :key="token">
               <h4 class="font-bold uppercase">{{ $t(`${token}.name`) }}</h4>
               <div class="flex justify-center gap-4">
                 <span class="text-white/50">{{ item[token] }}</span>
