@@ -17,7 +17,7 @@
     </div>
     <div class="bg-red-500 p-8">
       <ol>
-        <li>Need translators to translate interface text</li>
+        <li>Need translators to translate user interface</li>
         <li>인터페이스 텍스트를 번역하려면 번역기가 필요합니다.</li>
         <li>需要翻译人员翻译界面文本</li>
       </ol>
