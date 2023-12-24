@@ -1,15 +1,13 @@
 <script lang="ts" setup>
 import { useSlotTypes } from "@/stores/slot-types";
 
-const { selectedSlotTypes, slotTypes } = storeToRefs(useSlotTypes());
+const { slotTypes } = storeToRefs(useSlotTypes());
 </script>
 
 <template>
   <div>
-    <ItemsSidebarTogglableBlock
-      :selected="selectedSlotTypes"
-      :values="slotTypes"
-      token="slotType"
-    />
+    <ItemsSidebarTogglableBlock :values="slotTypes" token="slotType" />
   </div>
+
+  <!-- https://youtu.be/JiQ4pU8Xm-c -->
 </template>

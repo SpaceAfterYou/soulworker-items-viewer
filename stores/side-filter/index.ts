@@ -31,7 +31,7 @@ export const useSideFilter = defineStore("filter-store", () => {
   const sideFilters = reactive<SideFilter>(new Map());
 
   function useFilter(id: SideFilterKey) {
-    const filters = reactive(new Map());
+    const filters = reactive(new Map<number, FilterCallable>());
     sideFilters.set(id, filters);
 
     onBeforeUnmount(() => {
@@ -43,7 +43,7 @@ export const useSideFilter = defineStore("filter-store", () => {
     const set = ({ callable, id }: ApplySideFilterParams) => filters.set(id, callable);
     const del = ({ id }: RemoveSideFilterParams) => filters.delete(id);
 
-    return { set, del };
+    return { filters: filters as ReadonlyMap<number, FilterCallable>, set, del };
   }
 
   const { items } = useItem();

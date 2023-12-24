@@ -6,21 +6,18 @@ import { useSideFilter } from "~/stores/side-filter";
 type Props = {
   token: keyof Pick<Item, "inventoryType" | "slotType" | "gainType">;
   values: ReadonlyArray<number>;
-  selected: Set<number>;
 };
 
-const { selected, token } = defineProps<Props>();
+const { token } = defineProps<Props>();
 const { useFilter } = useSideFilter();
 
-const { set, del } = useFilter(token);
+const { filters, set, del } = useFilter(token);
 
 function toggle(id: number) {
-  if (!selected.delete(id)) {
-    selected.add(id);
-
-    set({ callable: (e: Item) => e[token] === id, id });
-  } else {
+  if (filters.has(id)) {
     del({ id });
+  } else {
+    set({ callable: (e: Item) => e[token] === id, id });
   }
 }
 </script>
@@ -33,7 +30,7 @@ function toggle(id: number) {
       <section class="flex flex-wrap gap-2">
         <SidebarToggleButton
           class="group flex justify-between gap-4"
-          :is-active="selected.has(value)"
+          :is-active="filters.has(value)"
           v-for="value of values"
           @click="toggle(value)"
           :key="value"
@@ -46,5 +43,6 @@ function toggle(id: number) {
       </section>
     </template>
   </SidebarTitledBlock>
+
+  <!-- https://youtu.be/iyL27qtrW1o -->
 </template>
-~/stores/side-filter ~/stores/side-filter ~/stores/side-filter
