@@ -17,7 +17,7 @@ async function* fromRemote() {
 }
 
 export const useItem = defineStore("items-store", () => {
-  const items = reactive<Items>([]);
+  const items: Items = [];
 
   async function populate() {
     console.log("populate");

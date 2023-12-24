@@ -7,7 +7,7 @@ import type { Item } from "../items/types/item";
 
 import { useItem } from "../items";
 
-export const useSideItemsSearch = defineStore("items-search-store", () => {
+export const useSideFilter = defineStore("filter-store", () => {
   type FilterCallable = (item: Item) => boolean;
 
   type SideFilterKey = keyof Pick<Item, "inventoryType" | "slotType" | "gainType">;
@@ -46,20 +46,20 @@ export const useSideItemsSearch = defineStore("items-search-store", () => {
     return { set, del };
   }
 
-  const { items } = storeToRefs(useItem());
+  const { items } = useItem();
 
-  function update(side: SideFilter) {
-    filtered.value = items.value;
+  function update(filters: SideFilter) {
+    filtered.value = items;
 
-    for (const [sideFilterKey, sideFilterValues] of side) {
-      if (sideFilterValues.size === 0) {
-        console.log(`skip side filter: ${sideFilterKey}`);
+    for (const [key, values] of filters) {
+      if (values.size === 0) {
+        console.log(`skip side filter: ${key}`);
         continue;
       }
 
-      console.log(`use filter: ${sideFilterKey}`);
+      console.log(`use filter: ${key}`);
 
-      const filters = Array.from(sideFilterValues.values());
+      const filters = Array.from(values.values());
       console.log(`with values: ${filters}`);
 
       filtered.value = filtered.value.filter((e) => filters.some((f) => f(e)));
@@ -68,7 +68,7 @@ export const useSideItemsSearch = defineStore("items-search-store", () => {
     }
   }
 
-  watch(sideFilters, update);
+  watchDebounced(sideFilters, update, { debounce: 300 });
 
   return { useFilter, filtered };
 });

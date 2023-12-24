@@ -1,7 +1,7 @@
 <script lang="ts" setup>
 import type { Item } from "~/stores/items/types/item";
 
-import { useSideItemsSearch } from "~/stores/items-search";
+import { useSideFilter } from "~/stores/side-filter";
 
 type Props = {
   token: keyof Pick<Item, "inventoryType" | "slotType" | "gainType">;
@@ -10,7 +10,7 @@ type Props = {
 };
 
 const { selected, token } = defineProps<Props>();
-const { useFilter } = useSideItemsSearch();
+const { useFilter } = useSideFilter();
 
 const { set, del } = useFilter(token);
 
@@ -47,3 +47,4 @@ function toggle(id: number) {
     </template>
   </SidebarTitledBlock>
 </template>
+~/stores/side-filter ~/stores/side-filter ~/stores/side-filter

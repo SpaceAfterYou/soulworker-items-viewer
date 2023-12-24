@@ -1,11 +1,11 @@
 <script lang="ts" setup>
 definePageMeta({ layout: "items" });
 
-import { useSideItemsSearch } from "~/stores/items-search";
 import { useSettingsStore } from "~/stores/settings";
+import { useSideFilter } from "~/stores/side-filter";
 
 const { page } = storeToRefs(useSettingsStore());
-const { filtered } = storeToRefs(useSideItemsSearch());
+const { filtered } = storeToRefs(useSideFilter());
 
 const currentPage = ref(0);
 const start = computed(() => currentPage.value * page.value.size);
@@ -25,3 +25,4 @@ watch(filtered, () => {
     <ItemsPagination :count="filtered.length" v-model="currentPage" />
   </section>
 </template>
+~/stores/side-filter ~/stores/side-filter
