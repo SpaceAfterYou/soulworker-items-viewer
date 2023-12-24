@@ -15,7 +15,7 @@
 
       <LayoutLocaleButtonGroup class="flex justify-center self-center" />
     </div>
-    <div class="bg-red-500 p-8">
+    <div class="bg-red-500/50 p-8">
       <ol>
         <li>Need translators to translate user interface</li>
         <li>인터페이스 텍스트를 번역하려면 번역기가 필요합니다.</li>
