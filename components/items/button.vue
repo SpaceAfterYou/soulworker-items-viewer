@@ -19,9 +19,9 @@ const [state, toggle] = useToggle();
       <div class="grid grid-cols-[auto_1fr] gap-x-2 gap-y-4">
         <ItemsIcon :icon="item.icon" />
 
-        <div class="grow self-center">
-          <div>{{ item.id }}</div>
-          <div>{{ $t(`items.${item.id}.name`) }}</div>
+        <div class="flex grow flex-col self-center">
+          <span>{{ item.id }}</span>
+          <span>{{ $t(`items.${item.id}.name`) }}</span>
         </div>
 
         <div class="col-span-full">
