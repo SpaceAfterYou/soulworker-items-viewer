@@ -1,802 +1,8002 @@
 [
   {
-    "id": 900,
-    "slotType": 111,
-    "inventoryType": 0,
+    "id": 823020401,
+    "slotType": 0,
+    "inventoryType": 13,
     "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 901,
-    "slotType": 151,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 910,
-    "slotType": 111,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 911,
-    "slotType": 151,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 920,
-    "slotType": 111,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 921,
-    "slotType": 151,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 930,
-    "slotType": 111,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 931,
-    "slotType": 151,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 940,
-    "slotType": 111,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 941,
-    "slotType": 151,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 950,
-    "slotType": 111,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 951,
-    "slotType": 151,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 960,
-    "slotType": 111,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 961,
-    "slotType": 151,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 970,
-    "slotType": 111,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 971,
-    "slotType": 151,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 980,
-    "slotType": 111,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 981,
-    "slotType": 151,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1001,
-    "slotType": 1,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 1
-  },
-  {
-    "id": 1002,
-    "slotType": 1,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
     "class": 2
   },
   {
-    "id": 1003,
-    "slotType": 1,
-    "inventoryType": 0,
+    "id": 823020701,
+    "slotType": 0,
+    "inventoryType": 13,
     "gainType": 0,
-    "icon": "",
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823020801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823020501,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823021301,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823021201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823030301,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823030701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823030501,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823030801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823031201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823040301,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823040901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823040501,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823041201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823050701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823050801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823060701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823060801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823070701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823070801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823080701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823080801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823100701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823090301,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823120501,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823131201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823100901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823100501,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823101201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823110101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823110701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823110801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823111201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823120701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823120801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823121201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 833010701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
     "class": 3
   },
   {
-    "id": 1004,
-    "slotType": 1,
-    "inventoryType": 0,
+    "id": 833010101,
+    "slotType": 0,
+    "inventoryType": 13,
     "gainType": 0,
-    "icon": "",
-    "class": 4
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
   },
   {
-    "id": 1005,
-    "slotType": 1,
-    "inventoryType": 0,
+    "id": 833011101,
+    "slotType": 0,
+    "inventoryType": 13,
     "gainType": 0,
-    "icon": "",
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833011201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833021901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833020701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833020801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833021001,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833020301,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833020501,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833021201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833030701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833030801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833031101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833030501,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833031201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833040101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833040901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833041101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833041201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833050701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833050801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833051101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833060701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833060801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833061101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833070701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833070801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833071101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833080701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833080801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833081101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833090901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 830309001,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833091101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833091201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833100901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833101101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833101201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833110101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833110701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833110801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833111101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833111201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833120701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833120801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833121201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 853010901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
     "class": 5
   },
   {
-    "id": 1050,
-    "slotType": 111,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1090,
-    "slotType": 111,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1091,
-    "slotType": 151,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1120,
-    "slotType": 111,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1121,
-    "slotType": 151,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1140,
-    "slotType": 111,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1141,
-    "slotType": 151,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1190,
-    "slotType": 111,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1191,
-    "slotType": 151,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1210,
-    "slotType": 111,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1211,
-    "slotType": 151,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1260,
-    "slotType": 111,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1261,
-    "slotType": 151,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1330,
-    "slotType": 111,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1331,
-    "slotType": 151,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1370,
-    "slotType": 111,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1371,
-    "slotType": 151,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1400,
-    "slotType": 111,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1401,
-    "slotType": 151,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1402,
-    "slotType": 111,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1403,
-    "slotType": 151,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1450,
-    "slotType": 111,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1451,
-    "slotType": 151,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1490,
-    "slotType": 111,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1491,
-    "slotType": 151,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1520,
-    "slotType": 111,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1521,
-    "slotType": 151,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1550,
-    "slotType": 111,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1551,
-    "slotType": 151,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1552,
-    "slotType": 111,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1553,
-    "slotType": 151,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1554,
-    "slotType": 111,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 1555,
-    "slotType": 151,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 9900,
-    "slotType": 151,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 9901,
-    "slotType": 151,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 999,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "",
-    "class": 0
-  },
-  {
-    "id": 800000001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 1,
-    "icon": "GUI/Icon/Item/Goods/Goods_Gold.png",
-    "class": 0
-  },
-  {
-    "id": 800000002,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 1,
-    "icon": "GUI/0.png",
-    "class": 0
-  },
-  {
-    "id": 800000003,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 2,
-    "icon": "GUI/Icon/Item/Goods/Goods_BP.png",
-    "class": 0
-  },
-  {
-    "id": 800000004,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 1,
-    "icon": "GUI/Icon/Item/Goods/Goods_Ether.png",
-    "class": 0
-  },
-  {
-    "id": 800000005,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/0.png",
-    "class": 0
-  },
-  {
-    "id": 800000999,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 2,
-    "icon": "GUI/Icon/Item/Etc/ETC_0_GlutonCoin.png",
-    "class": 0
-  },
-  {
-    "id": 800000998,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 2,
-    "icon": "GUI/0.png",
-    "class": 0
-  },
-  {
-    "id": 800001001,
+    "id": 853010101,
     "slotType": 0,
     "inventoryType": 13,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Cash/QBD.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
   },
   {
-    "id": 800001501,
+    "id": 853011101,
     "slotType": 0,
     "inventoryType": 13,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Cash/Antilimiter.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
   },
   {
-    "id": 800002001,
+    "id": 853011201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853021901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853020701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853020801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853021001,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853020301,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853020501,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853021201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853030701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853030801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853030301,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853030501,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853031201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853040301,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853040901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853041101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853041201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853050701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853050801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853051101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853060701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853060801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853061101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853070701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853070801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853071101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853080701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853080801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853081101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853090901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853090101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853091101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853091201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853100901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853101101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853101201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853110101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853110701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853110801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853111101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853111201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853120701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853120801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853121201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 813011401,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 1
+  },
+  {
+    "id": 823011401,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 833011401,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 834011401,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Costume/Mouth.png",
+    "class": 4
+  },
+  {
+    "id": 853011401,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 813140101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 1
+  },
+  {
+    "id": 813140901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 1
+  },
+  {
+    "id": 813140501,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 1
+  },
+  {
+    "id": 813141101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 1
+  },
+  {
+    "id": 813141201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 1
+  },
+  {
+    "id": 823140101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823140901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823140501,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823140301,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823141201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 833140101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833140901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833140501,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833141101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833141201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 853140101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853140901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853140501,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853141101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853141201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 813150901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 1
+  },
+  {
+    "id": 813151201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 1
+  },
+  {
+    "id": 823150901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823151201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 833150901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833151201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 853150901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853151201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 813210901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 1
+  },
+  {
+    "id": 813211201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 1
+  },
+  {
+    "id": 823210901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823211201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 833210901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833211201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 853210901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853211201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 843010101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843010901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843010401,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843011201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843020201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843020401,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843020701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843020801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843020501,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843021301,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843021201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843040301,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843040901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843040501,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843041201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843050701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843050801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843060701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843060801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843070701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843070801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843080701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843080801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843100901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843100501,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843101201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843110101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843110701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843110801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843111201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843120701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843120801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843121201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843140101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843150901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843151201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843200201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843200701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843200801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843201101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843200501,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843201201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843210901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 843211201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 4
+  },
+  {
+    "id": 813200201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 1
+  },
+  {
+    "id": 813200701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 1
+  },
+  {
+    "id": 813200801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 1
+  },
+  {
+    "id": 813201101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 1
+  },
+  {
+    "id": 813200501,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 1
+  },
+  {
+    "id": 813201201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 1
+  },
+  {
+    "id": 823200201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823200701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823200801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823201101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823200501,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823201201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 833200201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833200701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833200801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833201101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833200501,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833201201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 853200201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853200701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853200801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853201101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853200501,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853201201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 823260201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823260701,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823260801,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823260501,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823261201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 853170201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853170901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853170501,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853171101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853171201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 820999001,
     "slotType": 0,
     "inventoryType": 0,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Tool_Disassemble_MagicHammer.png",
+    "icon": "GUI/Icon/Item/Etc/ETC_0_EtherBox.png",
     "class": 0
   },
   {
-    "id": 800002002,
+    "id": 820999002,
     "slotType": 0,
     "inventoryType": 0,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Tool_Disassemble_MagicHammer.png",
+    "icon": "GUI/Icon/Item/Etc/ETC_0_EtherBox.png",
     "class": 0
   },
   {
-    "id": 800009998,
-    "slotType": 0,
-    "inventoryType": 19,
-    "gainType": 2,
-    "icon": "GUI/Icon/Item/Etc/ETC_0_DimensionPoint.png",
-    "class": 0
-  },
-  {
-    "id": 831000001,
+    "id": 820999003,
     "slotType": 0,
     "inventoryType": 0,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Etc/ETC_0_BattleCoursebook1st.png",
+    "icon": "GUI/Icon/Item/Etc/ETC_0_EtherBox.png",
     "class": 0
   },
   {
-    "id": 831000002,
-    "slotType": 0,
-    "inventoryType": 13,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Etc/ETC_0_BonusCardKey.png",
-    "class": 0
-  },
-  {
-    "id": 832000001,
-    "slotType": 0,
-    "inventoryType": 13,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Etc/ETC_0_SkillReverser.png",
-    "class": 0
-  },
-  {
-    "id": 832000002,
-    "slotType": 0,
-    "inventoryType": 13,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Etc/ETC_0_AllSkillReverser.png",
-    "class": 0
-  },
-  {
-    "id": 832000003,
-    "slotType": 0,
-    "inventoryType": 13,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Etc/ETC_0_SkillReverser.png",
-    "class": 0
-  },
-  {
-    "id": 833000001,
-    "slotType": 0,
-    "inventoryType": 13,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Etc/ETC_0_RenameCard.png",
-    "class": 0
-  },
-  {
-    "id": 833000002,
-    "slotType": 0,
-    "inventoryType": 13,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Etc/ETC_0_GuildRenameCard.png",
-    "class": 0
-  },
-  {
-    "id": 834000002,
-    "slotType": 0,
-    "inventoryType": 13,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Cash/ReviveCell.png",
-    "class": 0
-  },
-  {
-    "id": 834000003,
-    "slotType": 0,
-    "inventoryType": 13,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Cash/Antilimiter.png",
-    "class": 0
-  },
-  {
-    "id": 834000004,
-    "slotType": 0,
-    "inventoryType": 13,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Cash/ETC_0_BroachComposer.png",
-    "class": 0
-  },
-  {
-    "id": 834000005,
-    "slotType": 0,
-    "inventoryType": 13,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Socket_Slot_Add_ImplantSlot.png",
-    "class": 0
-  },
-  {
-    "id": 834000006,
-    "slotType": 0,
-    "inventoryType": 13,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Cash/Broach Puncher.png",
-    "class": 0
-  },
-  {
-    "id": 834000007,
-    "slotType": 0,
-    "inventoryType": 13,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Etc/ETC_0_SealingStamper.png",
-    "class": 0
-  },
-  {
-    "id": 834000008,
-    "slotType": 0,
-    "inventoryType": 13,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Etc/Market_01_Free.png",
-    "class": 0
-  },
-  {
-    "id": 834000009,
-    "slotType": 0,
-    "inventoryType": 13,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Etc/Market_02_EntryPlus.png",
-    "class": 0
-  },
-  {
-    "id": 834000010,
-    "slotType": 0,
-    "inventoryType": 13,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Etc/Market_03_DayPlus.png",
-    "class": 0
-  },
-  {
-    "id": 834000011,
+    "id": 820999004,
     "slotType": 0,
     "inventoryType": 0,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Etc/ETC_0_NormalBroachComposer.png",
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
     "class": 0
   },
   {
-    "id": 834000012,
-    "slotType": 0,
-    "inventoryType": 13,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Etc/ETC_0_NormalSealingStamper.png",
-    "class": 0
-  },
-  {
-    "id": 834000013,
-    "slotType": 0,
-    "inventoryType": 13,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Etc/NormalReviveCell.png",
-    "class": 0
-  },
-  {
-    "id": 834000014,
-    "slotType": 0,
-    "inventoryType": 13,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Cash/Icon_League_Item_LeagueEmblemChange.png",
-    "class": 0
-  },
-  {
-    "id": 834000015,
-    "slotType": 0,
-    "inventoryType": 13,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Etc/ETC_0_EnergyConverter.png",
-    "class": 0
-  },
-  {
-    "id": 834000017,
+    "id": 820999005,
     "slotType": 0,
     "inventoryType": 0,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Socket_Item_Extractor.png",
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
     "class": 0
   },
   {
-    "id": 834000018,
+    "id": 820999201,
     "slotType": 0,
-    "inventoryType": 13,
+    "inventoryType": 0,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Cash/Solvent_SoulStone .png",
+    "icon": "GUI/Icon/Item/Etc/ETC_0_BPBox.png",
     "class": 0
   },
   {
-    "id": 834000030,
+    "id": 820999202,
     "slotType": 0,
-    "inventoryType": 13,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/ETC_0_BPBox.png",
+    "class": 0
+  },
+  {
+    "id": 820999203,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/ETC_0_BPBox.png",
+    "class": 0
+  },
+  {
+    "id": 820999204,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/ETC_0_BPBox.png",
+    "class": 0
+  },
+  {
+    "id": 820999205,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/ETC_0_BPBox.png",
+    "class": 0
+  },
+  {
+    "id": 820010001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_Giftbox.png",
+    "class": 0
+  },
+  {
+    "id": 820010002,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_Giftbox.png",
+    "class": 1
+  },
+  {
+    "id": 820010003,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_Giftbox.png",
+    "class": 2
+  },
+  {
+    "id": 820010004,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_Giftbox.png",
+    "class": 3
+  },
+  {
+    "id": 820010007,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_Giftbox.png",
+    "class": 4
+  },
+  {
+    "id": 820010005,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_Giftbox.png",
+    "class": 5
+  },
+  {
+    "id": 820020006,
+    "slotType": 0,
+    "inventoryType": 0,
     "gainType": 0,
     "icon": "GUI/Icon/Item/Function/Package/ETC_0_SpeciallPackage.png",
     "class": 0
   },
   {
-    "id": 835000001,
+    "id": 830000001,
+    "slotType": 101,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_Pen_01.png",
+    "class": 0
+  },
+  {
+    "id": 830000002,
+    "slotType": 102,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_Doll_01.png",
+    "class": 0
+  },
+  {
+    "id": 830000003,
+    "slotType": 103,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_Camera_01.png",
+    "class": 0
+  },
+  {
+    "id": 830000004,
+    "slotType": 104,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_WarkMan_01.png",
+    "class": 0
+  },
+  {
+    "id": 830000005,
+    "slotType": 105,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Headset_01.png",
+    "class": 0
+  },
+  {
+    "id": 830000006,
+    "slotType": 106,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_IDCard_01.png",
+    "class": 0
+  },
+  {
+    "id": 830000007,
+    "slotType": 107,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Coin.png",
+    "class": 0
+  },
+  {
+    "id": 710100097,
     "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Make_0_MeltingMatter_Ore.png",
+    "class": 0
+  },
+  {
+    "id": 710100098,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Make_0_MeltingMatter_Gear.png",
+    "class": 0
+  },
+  {
+    "id": 710100099,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Make_0_MeltingMatter_Weapon.png",
+    "class": 0
+  },
+  {
+    "id": 710100100,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Make_0_MeltingMatter_Spirit.png",
+    "class": 0
+  },
+  {
+    "id": 710100101,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Ore/Make_M_All_01_MetalStone.png",
+    "class": 0
+  },
+  {
+    "id": 710100102,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Ore/Make_M_All_02_MeteorPiece.png",
+    "class": 0
+  },
+  {
+    "id": 710100103,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Ore/Make_M_All_03_GeoStream.png",
+    "class": 0
+  },
+  {
+    "id": 710100104,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Ore/Make_M_All_04_StarPlatinum.png",
+    "class": 0
+  },
+  {
+    "id": 710100105,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Ore/Make_M_All_05_Tritanium.png",
+    "class": 0
+  },
+  {
+    "id": 710100106,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Ore/Make_M_All_06_FullTritanium.png",
+    "class": 0
+  },
+  {
+    "id": 710101001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Gramaton/Make_M_Gramaton_01_Incomplete.png",
+    "class": 0
+  },
+  {
+    "id": 710101002,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Gramaton/Make_M_Gramaton_02_Silence.png",
+    "class": 0
+  },
+  {
+    "id": 710101003,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Gramaton/Make_M_Gramaton_03_Omen.png",
+    "class": 0
+  },
+  {
+    "id": 710101004,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Gramaton/Make_M_Gramaton_04_Awake.png",
+    "class": 0
+  },
+  {
+    "id": 710101005,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Gramaton/Make_M_Gramaton_05_Burning.png",
+    "class": 0
+  },
+  {
+    "id": 710101006,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Gramaton/Make_M_Gramaton_06_LastFire.png",
+    "class": 0
+  },
+  {
+    "id": 710102001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Illumina/Make_M_Gear_01_EM_Empty.png",
+    "class": 0
+  },
+  {
+    "id": 710102002,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Illumina/Make_M_Gear_02_EM_Pollution.png",
+    "class": 0
+  },
+  {
+    "id": 710102003,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Illumina/Make_M_Gear_03_EM_Fading.png",
+    "class": 0
+  },
+  {
+    "id": 710102004,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Illumina/Make_M_Gear_04_EM_Purify.png",
+    "class": 0
+  },
+  {
+    "id": 710102005,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Illumina/Make_M_Gear_05_EM_Leap.png",
+    "class": 0
+  },
+  {
+    "id": 710102006,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Illumina/Make_M_Gear_06_EM_Pure.png",
+    "class": 0
+  },
+  {
+    "id": 710105001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Fiber/Make_0_Fiber.png",
+    "class": 0
+  },
+  {
+    "id": 710105002,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Fiber/Make_0_Leather.png",
+    "class": 0
+  },
+  {
+    "id": 710105003,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Fiber/Make_0_Rubber.png",
+    "class": 0
+  },
+  {
+    "id": 710105004,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Fiber/Make_0_polyester.png",
+    "class": 0
+  },
+  {
+    "id": 710105005,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Fiber/Make_0_Woolen.png",
+    "class": 0
+  },
+  {
+    "id": 710105006,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Fiber/Make_0_Acrylic.png",
+    "class": 0
+  },
+  {
+    "id": 710106011,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_Melting Soul.png",
+    "class": 0
+  },
+  {
+    "id": 710106012,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_VoidSoul.png",
+    "class": 0
+  },
+  {
+    "id": 710106013,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_GreedSoul.png",
+    "class": 0
+  },
+  {
+    "id": 710106014,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_RampageSoul.png",
+    "class": 0
+  },
+  {
+    "id": 710106015,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_StoneSoul.png",
+    "class": 0
+  },
+  {
+    "id": 710106016,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_DarkSoul.png",
+    "class": 0
+  },
+  {
+    "id": 710106017,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_BingeSoul.png",
+    "class": 0
+  },
+  {
+    "id": 710106018,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_FearSoul.png",
+    "class": 0
+  },
+  {
+    "id": 710106019,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_GriefSoul.png",
+    "class": 0
+  },
+  {
+    "id": 710106020,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_DesireSoul.png",
+    "class": 0
+  },
+  {
+    "id": 710106021,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_DaggerSoul.png",
+    "class": 0
+  },
+  {
+    "id": 710106022,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_SkySoul.png",
+    "class": 0
+  },
+  {
+    "id": 710106023,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_ScreamSoul.png",
+    "class": 0
+  },
+  {
+    "id": 710106024,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_ShadowSoul.png",
+    "class": 0
+  },
+  {
+    "id": 710106025,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_ImmoralSoul.png",
+    "class": 0
+  },
+  {
+    "id": 710106026,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_IronSoul.png",
+    "class": 0
+  },
+  {
+    "id": 710106027,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_OriginSoul.png",
+    "class": 0
+  },
+  {
+    "id": 710106028,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_SprintSoul.png",
+    "class": 0
+  },
+  {
+    "id": 710106029,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_HiddenSoul.png",
+    "class": 0
+  },
+  {
+    "id": 710106030,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_MysterySoul.png",
+    "class": 0
+  },
+  {
+    "id": 710106031,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_HideSoul.png",
+    "class": 0
+  },
+  {
+    "id": 710106032,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_StarOceanSoul.png",
+    "class": 0
+  },
+  {
+    "id": 710106033,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_01_RoccoTown.png",
+    "class": 0
+  },
+  {
+    "id": 710106034,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_01_CandusCity.png",
+    "class": 0
+  },
+  {
+    "id": 710106035,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_01_GraceCity.png",
+    "class": 0
+  },
+  {
+    "id": 710106036,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_01_RuinFortress.png",
+    "class": 0
+  },
+  {
+    "id": 710106037,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_StoneSoul_Piece.png",
+    "class": 0
+  },
+  {
+    "id": 710106038,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_DarkSoul_Piece.png",
+    "class": 0
+  },
+  {
+    "id": 710106039,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_BingeSoul_Piece.png",
+    "class": 0
+  },
+  {
+    "id": 710106040,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_FearSoul_Piece.png",
+    "class": 0
+  },
+  {
+    "id": 710106041,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_GriefSoul_Piece.png",
+    "class": 0
+  },
+  {
+    "id": 710106042,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_DesireSoul_Piece.png",
+    "class": 0
+  },
+  {
+    "id": 710106043,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_DaggerSoul_Piece.png",
+    "class": 0
+  },
+  {
+    "id": 710106044,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_SkySoul_Piece.png",
+    "class": 0
+  },
+  {
+    "id": 710106045,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_ScreamSoul_Piece.png",
+    "class": 0
+  },
+  {
+    "id": 710106046,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_ShadowSoul_Piece.png",
+    "class": 0
+  },
+  {
+    "id": 710106047,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_ImmoralSoul_Piece.png",
+    "class": 0
+  },
+  {
+    "id": 710106048,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_IronSoul_Piece.png",
+    "class": 0
+  },
+  {
+    "id": 710106049,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_OriginSoul_Piece.png",
+    "class": 0
+  },
+  {
+    "id": 710106050,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_SprintSoul_piece.png",
+    "class": 0
+  },
+  {
+    "id": 710106051,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_HiddenSoul_piece.png",
+    "class": 0
+  },
+  {
+    "id": 710106052,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_MysterySoul_Piece.png",
+    "class": 0
+  },
+  {
+    "id": 710106053,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_HideSoul_piece.png",
+    "class": 0
+  },
+  {
+    "id": 710106054,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_0_StarOceanSoul_Piece.png",
+    "class": 0
+  },
+  {
+    "id": 710106055,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_01_DRaid_02.png",
+    "class": 0
+  },
+  {
+    "id": 710106056,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/VacuumMatter/Make_01_DRaid_01.png",
+    "class": 0
+  },
+  {
+    "id": 710200001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/Maze_01_Trash.png",
+    "class": 0
+  },
+  {
+    "id": 710200002,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/Maze_02_Trash.png",
+    "class": 0
+  },
+  {
+    "id": 710200003,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/Maze_03_Trash.png",
+    "class": 0
+  },
+  {
+    "id": 710200004,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/Maze_04_Trash.png",
+    "class": 0
+  },
+  {
+    "id": 710200005,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/Maze_05_Trash.png",
+    "class": 0
+  },
+  {
+    "id": 710200006,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/Maze_06_Trash.png",
+    "class": 0
+  },
+  {
+    "id": 710200007,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/Maze_07_Trash.png",
+    "class": 0
+  },
+  {
+    "id": 710200008,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/Maze_08_Trash.png",
+    "class": 0
+  },
+  {
+    "id": 710200009,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/Maze_09_Trash.png",
+    "class": 0
+  },
+  {
+    "id": 710200010,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/Maze_10_Trash.png",
+    "class": 0
+  },
+  {
+    "id": 710200011,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/Maze_11_Trash.png",
+    "class": 0
+  },
+  {
+    "id": 710200012,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/Maze_12_Trash.png",
+    "class": 0
+  },
+  {
+    "id": 710200013,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/Maze_13_Trash.png",
+    "class": 0
+  },
+  {
+    "id": 710200014,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/Maze_14_Trash.png",
+    "class": 0
+  },
+  {
+    "id": 710200015,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/Maze_15_Trash.png",
+    "class": 0
+  },
+  {
+    "id": 710200016,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/Maze_16_Trash.png",
+    "class": 0
+  },
+  {
+    "id": 710200017,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/Maze_17_Trash.png",
+    "class": 0
+  },
+  {
+    "id": 710200018,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/Maze_18_Trash.png",
+    "class": 0
+  },
+  {
+    "id": 710200019,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/Maze_19_Trash.png",
+    "class": 0
+  },
+  {
+    "id": 710200020,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/Maze_20_Trash.png",
+    "class": 0
+  },
+  {
+    "id": 710200021,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/Maze_21_Trash.png",
+    "class": 0
+  },
+  {
+    "id": 710200022,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/Maze_22_Trash.png",
+    "class": 0
+  },
+  {
+    "id": 710200023,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/ETC_0_OldCoin.png",
+    "class": 0
+  },
+  {
+    "id": 710200024,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/ETC_0_OldCoinbox.png",
+    "class": 0
+  },
+  {
+    "id": 710200025,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/ETC_0_OldSmallVault.png",
+    "class": 0
+  },
+  {
+    "id": 710200026,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/ETC_0_BrokenDollCore.png",
+    "class": 0
+  },
+  {
+    "id": 710200027,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/ETC_0_HighPurityMucusSample.png",
+    "class": 0
+  },
+  {
+    "id": 710200028,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/ETC_0_LimitedPoisonFigure.png",
+    "class": 0
+  },
+  {
+    "id": 710200029,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/ETC_0_RobotBluePrint.png",
+    "class": 0
+  },
+  {
+    "id": 710200030,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/ETC_0_TwistedStatue.png",
+    "class": 0
+  },
+  {
+    "id": 710200031,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/ETC_0_SoulinStatue.png",
+    "class": 0
+  },
+  {
+    "id": 710200032,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/ETC_0_DarknessQuartz.png",
+    "class": 0
+  },
+  {
+    "id": 710200033,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/ETC_0_BloodyQuartz.png",
+    "class": 0
+  },
+  {
+    "id": 710200034,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/ETC_0_XenoCoin.png",
+    "class": 0
+  },
+  {
+    "id": 720100001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Reinforce/EtherliteDust.png",
+    "class": 0
+  },
+  {
+    "id": 720100002,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Reinforce/EtherliteFragment.png",
+    "class": 0
+  },
+  {
+    "id": 720100003,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Reinforce/LowerEtherlite.png",
+    "class": 0
+  },
+  {
+    "id": 720100004,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Reinforce/MiddleEtherlite.png",
+    "class": 0
+  },
+  {
+    "id": 720100005,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Reinforce/UpperEtherlite.png",
+    "class": 0
+  },
+  {
+    "id": 720100006,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Reinforce/superlativeEtherlite.png",
+    "class": 0
+  },
+  {
+    "id": 720101001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Reinforce/Wextension.png",
+    "class": 0
+  },
+  {
+    "id": 720102001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Reinforce/Gextension.png",
+    "class": 0
+  },
+  {
+    "id": 720102011,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/LiveFiber.png",
+    "class": 0
+  },
+  {
+    "id": 720102012,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/FantasyMetal.png",
+    "class": 0
+  },
+  {
+    "id": 720102013,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Make_M_VacuumEnergy.png",
+    "class": 0
+  },
+  {
+    "id": 720102014,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Ore/Make_M_IrregularStone.png",
+    "class": 0
+  },
+  {
+    "id": 720102015,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Make_M_MeltingDivisionLight.png",
+    "class": 0
+  },
+  {
+    "id": 720102016,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Make_M_CodeGK.png",
+    "class": 0
+  },
+  {
+    "id": 720102017,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Gramaton/Make_M_WCoreGK_01.png",
+    "class": 0
+  },
+  {
+    "id": 720102018,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Illumina/Make_M_GCoreGK_01.png",
+    "class": 0
+  },
+  {
+    "id": 720102019,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Gramaton/Make_M_WCoreGK_03.png",
+    "class": 0
+  },
+  {
+    "id": 720102020,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Illumina/Make_M_GCoreGK_02.png",
+    "class": 0
+  },
+  {
+    "id": 720102021,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Gramaton/Make_M_WCoreGK_02.png",
+    "class": 0
+  },
+  {
+    "id": 720102022,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Illumina/Make_M_GCoreGK_03.png",
+    "class": 0
+  },
+  {
+    "id": 730100001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Material/Evolution/Upgrader.png",
+    "class": 0
+  },
+  {
+    "id": 300000001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Material/StarCard.png",
+    "class": 0
+  },
+  {
+    "id": 300000002,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Material/NebulaCard.png",
+    "class": 0
+  },
+  {
+    "id": 300000003,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Material/GalaxyCard.png",
+    "class": 0
+  },
+  {
+    "id": 300030001,
+    "slotType": 201,
     "inventoryType": 13,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Etc/ETC_0_UltraSpaceRadio.png",
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_JackTheKing_1.png",
     "class": 0
   },
   {
-    "id": 836000005,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 300030002,
+    "slotType": 201,
+    "inventoryType": 13,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/RandomBox.png",
-    "class": 1
-  },
-  {
-    "id": 836000006,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/RandomBox.png",
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_JackTheKing_2.png",
     "class": 0
   },
   {
-    "id": 836000007,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 300030003,
+    "slotType": 201,
+    "inventoryType": 13,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/RandomBox.png",
-    "class": 1
+    "icon": "GUI/Icon/Item/Akasic/Card/Galaxy/Icon_JackTheKing_3.png",
+    "class": 0
   },
   {
-    "id": 836000008,
+    "id": 300030011,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_GiftBox_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030012,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_GiftBox_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030013,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Galaxy/Icon_GiftBox_3.png",
+    "class": 0
+  },
+  {
+    "id": 300030021,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Wild-Stone_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030022,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_Wild-Stone_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030023,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Galaxy/Icon_Wild-Stone_3.png",
+    "class": 0
+  },
+  {
+    "id": 300030031,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Brock_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030032,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_Brock_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030033,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Galaxy/Icon_Brock_3.png",
+    "class": 0
+  },
+  {
+    "id": 300030041,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Warlike_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030042,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_Warlike_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030043,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Galaxy/Icon_Warlike_3.png",
+    "class": 0
+  },
+  {
+    "id": 300030051,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_AsphaltGolem_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030052,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_AsphaltGolem_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030053,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Galaxy/Icon_AsphaltGolem_3.png",
+    "class": 0
+  },
+  {
+    "id": 300030061,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_SewerRat_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030062,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_SewerRat_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030063,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Galaxy/Icon_SewerRat_3.png",
+    "class": 0
+  },
+  {
+    "id": 300030071,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_VenomMucus_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030072,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_VenomMucus_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030073,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Galaxy/Icon_VenomMucus_3.png",
+    "class": 0
+  },
+  {
+    "id": 300030081,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_DarkAlligator_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030082,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_DarkAlligator_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030083,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Galaxy/Icon_DarkAlligator_3.png",
+    "class": 0
+  },
+  {
+    "id": 300030091,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_JunkKnight_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030092,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_JunkKnight_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030093,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Galaxy/Icon_JunkKnight_3.png",
+    "class": 0
+  },
+  {
+    "id": 300030101,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Vacuumvane_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030102,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_Vacuumvane_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030103,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Galaxy/Icon_Vacuumvane_3.png",
+    "class": 0
+  },
+  {
+    "id": 300030111,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_MangroveCell_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030112,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_MangroveCell_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030113,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Galaxy/Icon_MangroveCell_3.png",
+    "class": 0
+  },
+  {
+    "id": 300030121,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Cynthia_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030122,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_Cynthia_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030123,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Galaxy/Icon_Cynthia_3.png",
+    "class": 0
+  },
+  {
+    "id": 300030131,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Arachness_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030132,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_Arachness_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030133,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Galaxy/Icon_Arachness_3.png",
+    "class": 0
+  },
+  {
+    "id": 300030141,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Cell_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030142,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_Cell_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030143,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Cell_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030151,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_S_01_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030152,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_S_01_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030153,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_S_01_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030161,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Victor_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030162,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Victor_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030163,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_Victor_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030171,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Beholder_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030172,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Beholder_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030173,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Beholder_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030181,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_Hokma_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030182,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Hokma_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030183,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_Hokma_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030191,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Galaxy/Icon_Gallus_3.png",
+    "class": 0
+  },
+  {
+    "id": 300030192,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Gallus_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030193,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_Gallus_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030201,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Galaxy/Icon_BonCrasher_3.png",
+    "class": 0
+  },
+  {
+    "id": 300030202,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_BonCrasher_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030203,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_BonCrasher_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030211,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Aron_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030212,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_Aron_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030213,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Aron_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030221,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_TrainingDummy_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030222,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_TrainingDummy_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030223,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_TrainingDummy_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030231,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_DignitySnacher_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030232,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_DignitySnacher_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030233,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_DignitySnacher_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030241,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_BlackGauntlet_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030242,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_BlackGauntlet_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030243,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_BlackGauntlet_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030251,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_ArmorSteel_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030252,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_ArmorSteel_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030253,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_ArmorSteel_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030261,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_Hell-Enforcer_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030262,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Hell-Enforcer_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030263,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Hell-Enforcer_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030271,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_Toru_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030272,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Toru_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030273,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Toru_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030281,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Chaser_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030282,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_Chaser_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030283,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Chaser_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030291,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Kacha_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030292,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_Kacha_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030293,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Kacha_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030301,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_Venin_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030302,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Venin_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030303,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Venin_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030311,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Chain_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030312,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_Chain_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030313,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Chain_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030321,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_IntensionGarura_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030322,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_IntensionGarura_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030323,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_IntensionGarura_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030331,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_RedMane_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030332,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_RedMane_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030333,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_RedMane_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030341,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_QueenGarura_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030342,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_QueenGarura_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030343,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_QueenGarura_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030351,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Sedurin_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030352,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_Sedurin_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030353,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Sedurin_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030361,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_SingleLeg_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030362,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_SingleLeg_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030363,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_SingleLeg_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030371,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Sora_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030372,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_Sora_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030373,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Sora_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030381,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_Tempest_Left_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030382,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Tempest_Left_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030383,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_Tempest_Left_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030391,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Scar_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030392,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Scar_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030393,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Scar_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030401,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Marauder_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030402,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Marauder_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030403,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_Marauder_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030411,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_WhiteFang_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030412,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_WhiteFang_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030413,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_WhiteFang_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030421,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Hell-CollectorBody_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030422,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Hell-CollectorBody_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030423,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Hell-CollectorBody_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030431,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_DancingShadow_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030432,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_DancingShadow_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030433,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_DancingShadow_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030441,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_RoadBuster_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030442,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_RoadBuster_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030443,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_RoadBuster_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030451,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_MegiddoMakerMK2_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030452,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_MegiddoMakerMK2_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030453,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_MegiddoMakerMK2_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030461,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Minwoo_N_Jully_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030462,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_Minwoo_N_Jully_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030463,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Minwoo_N_Jully_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030471,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_Senia_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030472,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Senia_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030473,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_Senia_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030481,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_DrainClaw_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030482,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_DrainClaw_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030483,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_DrainClaw_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030491,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_Aria_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030492,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Aria_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030493,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Aria_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030501,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_TemptationStone_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030502,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_TemptationStone_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030503,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_TemptationStone_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030511,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_BookerTV_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030512,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_BookerTV_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030513,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_BookerTV_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030521,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_Azin_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030522,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_Azin_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030523,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Galaxy/Icon_Azin_3.png",
+    "class": 0
+  },
+  {
+    "id": 300030531,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Eric_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030532,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_Eric_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030533,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Galaxy/Icon_Eric_3.png",
+    "class": 0
+  },
+  {
+    "id": 300030541,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Star/Icon_Sunny_1.png",
+    "class": 0
+  },
+  {
+    "id": 300030542,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Nebula/Icon_Sunny_2.png",
+    "class": 0
+  },
+  {
+    "id": 300030543,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Galaxy/Icon_Sunny_3.png",
+    "class": 0
+  },
+  {
+    "id": 350001001,
     "slotType": 0,
     "inventoryType": 0,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/RandomBox.png",
-    "class": 2
+    "icon": "GUI/Icon/Item/Dummy.png",
+    "class": 0
+  },
+  {
+    "id": 350001002,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Dummy.png",
+    "class": 0
+  },
+  {
+    "id": 350001003,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Dummy.png",
+    "class": 0
+  },
+  {
+    "id": 350001011,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Dummy.png",
+    "class": 0
+  },
+  {
+    "id": 350001012,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Dummy.png",
+    "class": 0
+  },
+  {
+    "id": 350001013,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Dummy.png",
+    "class": 0
+  },
+  {
+    "id": 350001021,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Dummy.png",
+    "class": 0
+  },
+  {
+    "id": 350001022,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Dummy.png",
+    "class": 0
+  },
+  {
+    "id": 350001023,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Dummy.png",
+    "class": 0
+  },
+  {
+    "id": 350005001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Dummy.png",
+    "class": 0
+  },
+  {
+    "id": 350005002,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Dummy.png",
+    "class": 0
+  },
+  {
+    "id": 350005003,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Dummy.png",
+    "class": 0
+  },
+  {
+    "id": 350005011,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Dummy.png",
+    "class": 0
+  },
+  {
+    "id": 350005012,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Dummy.png",
+    "class": 0
+  },
+  {
+    "id": 350005013,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Dummy.png",
+    "class": 0
+  },
+  {
+    "id": 350005021,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Dummy.png",
+    "class": 0
+  },
+  {
+    "id": 350005022,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Dummy.png",
+    "class": 0
+  },
+  {
+    "id": 350005023,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Dummy.png",
+    "class": 0
+  },
+  {
+    "id": 350005031,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Dummy.png",
+    "class": 0
+  },
+  {
+    "id": 350005032,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Dummy.png",
+    "class": 0
+  },
+  {
+    "id": 350005033,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Dummy.png",
+    "class": 0
+  },
+  {
+    "id": 380000001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/Depredation.png",
+    "class": 0
+  },
+  {
+    "id": 380000002,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/SoundDevice.png",
+    "class": 0
+  },
+  {
+    "id": 380000003,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/TemptationParts.png",
+    "class": 0
+  },
+  {
+    "id": 380000004,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/WildPureSoul.png",
+    "class": 0
+  },
+  {
+    "id": 380000005,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/BlueWand.png",
+    "class": 0
+  },
+  {
+    "id": 380000006,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/DarkHelmet.png",
+    "class": 0
+  },
+  {
+    "id": 380000007,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/DurtyScript.png",
+    "class": 0
+  },
+  {
+    "id": 380000008,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/QueensCrown.png",
+    "class": 0
+  },
+  {
+    "id": 380000009,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/SnakeFragment.png",
+    "class": 0
+  },
+  {
+    "id": 380000010,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/RedBlinder.png",
+    "class": 0
+  },
+  {
+    "id": 380000011,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/MufflerFragment.png",
+    "class": 0
+  },
+  {
+    "id": 380000012,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/Akashic_0_FireExtinguisher.png",
+    "class": 0
+  },
+  {
+    "id": 380000013,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/Akashic_0_WarningLight.png",
+    "class": 0
+  },
+  {
+    "id": 380000014,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/Akashic_0_HugeRobotFinger.png",
+    "class": 0
+  },
+  {
+    "id": 380000015,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/RedCore.png",
+    "class": 0
+  },
+  {
+    "id": 380000016,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/FightBook.png",
+    "class": 0
+  },
+  {
+    "id": 380000017,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/RampageCore.png",
+    "class": 0
+  },
+  {
+    "id": 380000018,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/HardStone.png",
+    "class": 0
+  },
+  {
+    "id": 380000019,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/RedGem.png",
+    "class": 0
+  },
+  {
+    "id": 380000020,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/BlindEye.png",
+    "class": 0
+  },
+  {
+    "id": 380000021,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/ToughTooth.png",
+    "class": 0
+  },
+  {
+    "id": 380000022,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/DarkMist.png",
+    "class": 0
+  },
+  {
+    "id": 380000023,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/RedBlackCore.png",
+    "class": 0
+  },
+  {
+    "id": 380000024,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/TwistCell.png",
+    "class": 0
+  },
+  {
+    "id": 380000025,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/DustyBone.png",
+    "class": 0
+  },
+  {
+    "id": 380000026,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/OldmanGlasses.png",
+    "class": 0
+  },
+  {
+    "id": 380000027,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/AwakeMatter.png",
+    "class": 0
+  },
+  {
+    "id": 380000028,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/ExplodeMatter.png",
+    "class": 0
+  },
+  {
+    "id": 380000029,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/FlyingProcess.png",
+    "class": 0
+  },
+  {
+    "id": 380000030,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/DirectHorn.png",
+    "class": 0
+  },
+  {
+    "id": 380000031,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/FamilyPicture.png",
+    "class": 0
+  },
+  {
+    "id": 380000032,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/IronGrove.png",
+    "class": 0
+  },
+  {
+    "id": 380000033,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/IronArmor.png",
+    "class": 0
+  },
+  {
+    "id": 380000034,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/RedStamp.png",
+    "class": 0
+  },
+  {
+    "id": 380000035,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/DandyBeard.png",
+    "class": 0
+  },
+  {
+    "id": 380000036,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/BreakingBlade.png",
+    "class": 0
+  },
+  {
+    "id": 380000037,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/HandmadePandant.png",
+    "class": 0
+  },
+  {
+    "id": 380000038,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/PoisonEdge.png",
+    "class": 0
+  },
+  {
+    "id": 380000039,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/EmptyBone.png",
+    "class": 0
+  },
+  {
+    "id": 380000040,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/BurningHair.png",
+    "class": 0
+  },
+  {
+    "id": 380000041,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/CryingSack.png",
+    "class": 0
+  },
+  {
+    "id": 380000042,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/StudyBook.png",
+    "class": 0
+  },
+  {
+    "id": 380000043,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/WoodLeg.png",
+    "class": 0
+  },
+  {
+    "id": 380000044,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/YaoiMagazine.png",
+    "class": 0
+  },
+  {
+    "id": 380000045,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/BigSpiral.png",
+    "class": 0
+  },
+  {
+    "id": 380000046,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/RedMuffler.png",
+    "class": 0
+  },
+  {
+    "id": 380000047,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/ScreamSoul.png",
+    "class": 0
+  },
+  {
+    "id": 380000048,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/TwinkleEdge.png",
+    "class": 0
+  },
+  {
+    "id": 380000049,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/Akashic_0_MachinePlan.png",
+    "class": 0
+  },
+  {
+    "id": 380000050,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/Lighter.png",
+    "class": 0
+  },
+  {
+    "id": 380000051,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/RobotParts.png",
+    "class": 0
+  },
+  {
+    "id": 380000052,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/HyperSonicwave.png",
+    "class": 0
+  },
+  {
+    "id": 380000053,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/Akashic_0_SafetyBar.png",
+    "class": 0
+  },
+  {
+    "id": 380000054,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/Akashic_0_Ballast.png",
+    "class": 0
+  },
+  {
+    "id": 380000055,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/Akashic_0_WalkietalkieAntenna.png",
+    "class": 0
+  },
+  {
+    "id": 380000056,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/Akashic_0_ZKP01Blueprint.png",
+    "class": 0
+  },
+  {
+    "id": 380000057,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/Akashic_0_SteelDogGum.png",
+    "class": 0
+  },
+  {
+    "id": 380000058,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/Akashic_0_SteelShieldPiece.png",
+    "class": 0
+  },
+  {
+    "id": 380000059,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/Akashic_0_StationaryEnergyCube.png",
+    "class": 0
+  },
+  {
+    "id": 380000060,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/Akashic_0_FanPropeller.png",
+    "class": 0
+  },
+  {
+    "id": 380000061,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/Akashic_0_BrokenLegPiece.png",
+    "class": 0
+  },
+  {
+    "id": 380000062,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/Akashic_0_BladeTailPiece.png",
+    "class": 0
+  },
+  {
+    "id": 380000063,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/Akashic_0_FadedHandkerchief.png",
+    "class": 0
+  },
+  {
+    "id": 380000064,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/Akashic_0_MiniVacuumCleaner.png",
+    "class": 0
+  },
+  {
+    "id": 380000065,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/Akashic_0_LinkBox.png",
+    "class": 0
+  },
+  {
+    "id": 380000066,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/Akashic_0_DestroyedTongs.png",
+    "class": 0
+  },
+  {
+    "id": 380000067,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/Akashic_0_CableBundle.png",
+    "class": 0
+  },
+  {
+    "id": 380000068,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/Akashic_0_SteelHighheel.png",
+    "class": 0
+  },
+  {
+    "id": 380000069,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/Akashic_0_FlowertypeHeadpin.png",
+    "class": 0
+  },
+  {
+    "id": 380000070,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/Akashic_0_RustHammer.png",
+    "class": 0
+  },
+  {
+    "id": 380000071,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/Akashic_0_TriangleBlade.png",
+    "class": 0
+  },
+  {
+    "id": 380000072,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/Akashic_0_SoilTrowel.png",
+    "class": 0
+  },
+  {
+    "id": 380000073,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/Akashic_0_CircleDecoration.png",
+    "class": 0
+  },
+  {
+    "id": 380000074,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/Akashic_0_AssistanceMemorychip.png",
+    "class": 0
+  },
+  {
+    "id": 380000075,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/Akashic_0_MachinegunEmptyshell.png",
+    "class": 0
+  },
+  {
+    "id": 380000076,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/Akashic_0_ZKseriesBlueprint.png",
+    "class": 0
+  },
+  {
+    "id": 380000077,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/Akashic_0_OldComicbook.png",
+    "class": 0
+  },
+  {
+    "id": 380000078,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/ElectricWire.png",
+    "class": 0
+  },
+  {
+    "id": 380000079,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/SoulEnergyPipe.png",
+    "class": 0
+  },
+  {
+    "id": 380000080,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/OldRadio.png",
+    "class": 0
+  },
+  {
+    "id": 380000081,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/WetWhistle.png",
+    "class": 0
+  },
+  {
+    "id": 380000082,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/OldWrench.png",
+    "class": 0
+  },
+  {
+    "id": 380000083,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Key/Humor150.png",
+    "class": 0
+  },
+  {
+    "id": 381000101,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_DignitySnacher_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381000102,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_DignitySnacher_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381000103,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_DignitySnacher_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381000201,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Aria_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381000202,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Aria_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381000203,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Aria_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381000301,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_TemptationStone_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381000302,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_TemptationStone_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381000303,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_TemptationStone_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381010101,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_JacktheKing_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381010102,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_JacktheKing_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381010103,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_JacktheKing_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381010201,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_GiftBox_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381010202,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_GiftBox_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381010203,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_GiftBox_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381020101,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_JunkKnight_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381020102,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_JunkKnight_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381020103,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_JunkKnight_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381020201,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Cynthia_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381020202,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Cynthia_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381020203,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Cynthia_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381020301,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Arachness_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381020302,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Arachness_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381020303,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Arachness_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381030101,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Chain_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381030102,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Chain_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381030103,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Chain_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381030201,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Scar_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381030202,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Scar_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381030203,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Scar_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381030301,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_WhiteFang_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381030302,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_WhiteFang_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381030303,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_WhiteFang_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381040101,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Squall_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381040102,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Squall_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381040103,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Squall_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381040201,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Tracker_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381040202,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Tracker_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381040203,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Tracker_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381040301,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Deusexmachina_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381040302,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Deusexmachina_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 381040303,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Deusexmachina_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 382020101,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Wild Stone_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382020102,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Wild Stone_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 382020201,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Brock_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382020202,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Brock_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 382020301,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Warlike_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382020302,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Warlike_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 382020401,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_AsphaltGolem_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382020501,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_SewerRat_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382020502,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_SewerRat_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 382020601,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_VenomMucus_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382020602,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_VenomMucus_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 382020701,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_DarkAlligator_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382020702,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_DarkAlligator_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 382020801,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Vacuumvane_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382020802,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Vacuumvane_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382020803,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Vacuumvane_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382020901,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_MangroveCell_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382020902,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_MangroveCell_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382020903,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_MangroveCell_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382021001,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Cell_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382021002,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Cell_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 382021101,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_S_01_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382021102,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_S_01_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 382021201,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Victor_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382021202,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Victor_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 382021301,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Beholder_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382021401,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Hokma_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382021501,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Gallus_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382021502,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Gallus_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 382021601,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_BonCrasher_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382021602,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_BonCrasher_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 382021801,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Aron_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382030101,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_BlackGauntlet_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382030102,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_BlackGauntlet_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 382030201,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_ArmorSteel_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382030301,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Hell Enforcer_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382030302,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Hell Enforcer_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 382030401,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Toru_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382030501,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Chaser_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382030502,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Chaser_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 382030601,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Kacha_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382030701,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Venin_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382030801,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_IntensionGarura_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382030802,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_IntensionGarura_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 382030901,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_RedMane_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382031001,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_QueenGarura_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382031002,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_QueenGarura_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 382031101,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Sedurin_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382031102,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Sedurin_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 382031201,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_SingleLeg_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382031301,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Sora_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382031401,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Tempest_Left_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382031402,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Tempest_Left_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 382031501,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Marauder_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382031502,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Marauder_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 382031601,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Hell CollectorBody_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382031701,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_DancingShadow_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382031702,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_DancingShadow_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 382031801,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_RoadBuster_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382031802,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_RoadBuster_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 382031901,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_MegiddoMakerMK2_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382031902,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_MegiddoMakerMK2_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 382032001,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Minwoo_N_Jully_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382032101,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Senia_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382032102,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Senia_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 382040101,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_SentryCommander_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382040102,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_SentryCommander_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 382040201,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_HeavyEarthquake_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382040202,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_HeavyEarthquake_3_01.png",
+    "class": 0
+  },
+  {
+    "id": 382040301,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Amanda_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382040302,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Amanda_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382040401,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Sigproto_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382040402,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Sigproto_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382040501,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_BladeWoolf_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382040502,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_BladeWoolf_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382040601,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_DomineerZero_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382040701,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Sara_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382040801,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Cutthroat_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382040901,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_AssaultSpider_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382041001,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_HeavyIronWarm_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382041002,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_HeavyIronWarm_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382041101,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Sanson_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382041102,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Sanson_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382041201,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Cleany_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382041301,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_RobotDuo_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382041401,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_AssaultGhost_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382041501,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Veti_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382041601,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_NED Grasp_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382041701,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_QueenOfFlower_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382041702,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_QueenOfFlower_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382041801,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_HammerHead_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382041901,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_GenociderX_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382042001,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_DigMonsterBDeathStand_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382042002,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_DigMonsterBDeathStand_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382042101,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_NumberlessRim_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382042102,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_NumberlessRim_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382042201,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Jessi_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382042202,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Jessi_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382042301,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_LeeAhn_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382042302,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_LeeAhn_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382042401,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_FullArmorSiegProto_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382042402,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_FullArmorSiegProto_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382042501,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Matin_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382042502,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Matin_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382990101,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_TrainingDummy_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382990102,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_TrainingDummy_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382990201,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_DrainClaw_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382990301,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_BookerTV_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382990302,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_BookerTV_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382990401,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Azin_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382990402,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Azin_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382990501,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Eric_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382990502,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Eric_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382990601,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Sunny_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382990602,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Sunny_1_01.png",
+    "class": 0
+  },
+  {
+    "id": 382990703,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_SuperGluton_1_03.png",
+    "class": 0
+  },
+  {
+    "id": 383001101,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Cain_3_02.png",
+    "class": 0
+  },
+  {
+    "id": 383001102,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Cain_3_02.png",
+    "class": 0
+  },
+  {
+    "id": 383001103,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Cain_3_02.png",
+    "class": 0
+  },
+  {
+    "id": 383002101,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Cain_3_12.png",
+    "class": 0
+  },
+  {
+    "id": 383002102,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Cain_3_12.png",
+    "class": 0
+  },
+  {
+    "id": 383002103,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Cain_3_12.png",
+    "class": 0
+  },
+  {
+    "id": 383001201,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_BigPuppetAnother_1_05.png",
+    "class": 0
+  },
+  {
+    "id": 383001202,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_BigPuppetAnother_1_05.png",
+    "class": 0
+  },
+  {
+    "id": 383001203,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_BigPuppetAnother_1_05.png",
+    "class": 0
+  },
+  {
+    "id": 383002201,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_BigPuppetAnother_1_15.png",
+    "class": 0
+  },
+  {
+    "id": 383002202,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_BigPuppetAnother_1_15.png",
+    "class": 0
+  },
+  {
+    "id": 383002203,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_BigPuppetAnother_1_15.png",
+    "class": 0
+  },
+  {
+    "id": 383001301,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_BigAsphaltGolem_1_03.png",
+    "class": 0
+  },
+  {
+    "id": 383001302,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_BigAsphaltGolem_1_03.png",
+    "class": 0
+  },
+  {
+    "id": 383001303,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_BigAsphaltGolem_1_03.png",
+    "class": 0
+  },
+  {
+    "id": 383002301,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_BigAsphaltGolem_1_13.png",
+    "class": 0
+  },
+  {
+    "id": 383002302,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_BigAsphaltGolem_1_13.png",
+    "class": 0
+  },
+  {
+    "id": 383002303,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_BigAsphaltGolem_1_13.png",
+    "class": 0
+  },
+  {
+    "id": 383001401,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_EyeBeholder_3_02.png",
+    "class": 0
+  },
+  {
+    "id": 383001402,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_EyeBeholder_3_02.png",
+    "class": 0
+  },
+  {
+    "id": 383001403,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_EyeBeholder_3_02.png",
+    "class": 0
+  },
+  {
+    "id": 383002401,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_EyeBeholder_3_12.png",
+    "class": 0
+  },
+  {
+    "id": 383002402,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_EyeBeholder_3_12.png",
+    "class": 0
+  },
+  {
+    "id": 383002403,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_EyeBeholder_3_12.png",
+    "class": 0
+  },
+  {
+    "id": 383001501,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_RapidFlame_3_04.png",
+    "class": 0
+  },
+  {
+    "id": 383001502,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_RapidFlame_3_04.png",
+    "class": 0
+  },
+  {
+    "id": 383001503,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_RapidFlame_3_04.png",
+    "class": 0
+  },
+  {
+    "id": 383002501,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_RapidFlame_3_14.png",
+    "class": 0
+  },
+  {
+    "id": 383002502,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_RapidFlame_3_14.png",
+    "class": 0
+  },
+  {
+    "id": 383002503,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_RapidFlame_3_14.png",
+    "class": 0
+  },
+  {
+    "id": 384000101,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Fortune_1_03.png",
+    "class": 0
+  },
+  {
+    "id": 384000102,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Fortune_1_03.png",
+    "class": 0
+  },
+  {
+    "id": 384000103,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Fortune_1_03.png",
+    "class": 0
+  },
+  {
+    "id": 384000201,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Fortune_1_13.png",
+    "class": 0
+  },
+  {
+    "id": 384000202,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Fortune_1_13.png",
+    "class": 0
+  },
+  {
+    "id": 384000203,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Fortune_1_13.png",
+    "class": 0
+  },
+  {
+    "id": 384000301,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_ForceStrike_1_03.png",
+    "class": 0
+  },
+  {
+    "id": 384000302,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_ForceStrike_1_03.png",
+    "class": 0
+  },
+  {
+    "id": 384000303,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_ForceStrike_1_03.png",
+    "class": 0
+  },
+  {
+    "id": 384000401,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_ForceStrike_1_13.png",
+    "class": 0
+  },
+  {
+    "id": 384000402,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_ForceStrike_1_13.png",
+    "class": 0
+  },
+  {
+    "id": 384000403,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_ForceStrike_1_13.png",
+    "class": 0
+  },
+  {
+    "id": 384000501,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_STLab_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384000502,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_STLab_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384000503,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_STLab_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384000601,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_STLab_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384000602,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_STLab_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384000603,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_STLab_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384000701,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_HeavyGears_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384000702,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_HeavyGears_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384000703,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_HeavyGears_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384000801,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_HeavyGears_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384000802,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_HeavyGears_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384000803,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_HeavyGears_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384000901,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Seon_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384000902,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Seon_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384000903,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Seon_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384001001,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Seon_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384001002,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Seon_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384001003,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Seon_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384001101,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Wild Stone_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384001102,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Wild Stone_3_02.png",
+    "class": 0
+  },
+  {
+    "id": 384001103,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Wild Stone_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384001201,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Wild Stone_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384001202,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Wild Stone_3_12.png",
+    "class": 0
+  },
+  {
+    "id": 384001203,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Wild Stone_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384001301,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Brock_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384001302,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Brock_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384001303,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Brock_3_02.png",
+    "class": 0
+  },
+  {
+    "id": 384001401,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Brock_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384001402,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Brock_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384001403,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Brock_3_12.png",
+    "class": 0
+  },
+  {
+    "id": 384001501,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Warlike_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384001502,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Warlike_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384001503,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Warlike_3_02.png",
+    "class": 0
+  },
+  {
+    "id": 384001601,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Warlike_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384001602,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Warlike_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384001603,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Warlike_3_12.png",
+    "class": 0
+  },
+  {
+    "id": 384001701,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_SewerRat_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384001702,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_SewerRat_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384001703,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_SewerRat_3_02.png",
+    "class": 0
+  },
+  {
+    "id": 384001801,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_SewerRat_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384001802,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_SewerRat_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384001803,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_SewerRat_3_12.png",
+    "class": 0
+  },
+  {
+    "id": 384001901,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_VenomMucus_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384001902,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_VenomMucus_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384001903,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_VenomMucus_3_02.png",
+    "class": 0
+  },
+  {
+    "id": 384002001,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_VenomMucus_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384002002,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_VenomMucus_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384002003,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_VenomMucus_3_12.png",
+    "class": 0
+  },
+  {
+    "id": 384002101,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_DarkAlligator_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384002102,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_DarkAlligator_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384002103,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_DarkAlligator_3_02.png",
+    "class": 0
+  },
+  {
+    "id": 384002201,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_DarkAlligator_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384002202,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_DarkAlligator_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384002203,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_DarkAlligator_3_12.png",
+    "class": 0
+  },
+  {
+    "id": 384002301,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Cell_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384002302,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Cell_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384002303,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Cell_3_02.png",
+    "class": 0
+  },
+  {
+    "id": 384002401,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Cell_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384002402,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Cell_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384002403,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Cell_3_12.png",
+    "class": 0
+  },
+  {
+    "id": 384002501,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_S_01_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384002502,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_S_01_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384002503,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_S_01_3_02.png",
+    "class": 0
+  },
+  {
+    "id": 384002601,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_S_01_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384002602,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_S_01_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384002603,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_S_01_3_12.png",
+    "class": 0
+  },
+  {
+    "id": 384002701,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Victor_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384002702,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Victor_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384002703,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Victor_3_02.png",
+    "class": 0
+  },
+  {
+    "id": 384002801,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Victor_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384002802,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Victor_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384002803,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Victor_3_12.png",
+    "class": 0
+  },
+  {
+    "id": 384002901,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Gallus_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384002902,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Gallus_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384002903,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Gallus_3_02.png",
+    "class": 0
+  },
+  {
+    "id": 384003001,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Gallus_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384003002,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Gallus_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384003003,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Gallus_3_12.png",
+    "class": 0
+  },
+  {
+    "id": 384003101,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_BonCrasher_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384003102,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_BonCrasher_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384003103,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_BonCrasher_3_02.png",
+    "class": 0
+  },
+  {
+    "id": 384003201,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_BonCrasher_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384003202,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_BonCrasher_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384003203,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_BonCrasher_3_12.png",
+    "class": 0
+  },
+  {
+    "id": 384003301,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_BlackGauntlet_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384003302,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_BlackGauntlet_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384003303,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_BlackGauntlet_3_02.png",
+    "class": 0
+  },
+  {
+    "id": 384003401,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_BlackGauntlet_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384003402,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_BlackGauntlet_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384003403,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_BlackGauntlet_3_12.png",
+    "class": 0
+  },
+  {
+    "id": 384003501,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Hell Enforcer_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384003502,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Hell Enforcer_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384003503,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Hell Enforcer_3_02.png",
+    "class": 0
+  },
+  {
+    "id": 384003601,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Hell Enforcer_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384003602,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Hell Enforcer_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384003603,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Hell Enforcer_3_12.png",
+    "class": 0
+  },
+  {
+    "id": 384003703,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_HungryGluton_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384003803,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_HungryGluton_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 382990704,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_SuperGluton_1_04.png",
+    "class": 0
+  },
+  {
+    "id": 382990705,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_SuperGluton_1_05.png",
+    "class": 0
+  },
+  {
+    "id": 384003903,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_EXCBTMirium_1_03.png",
+    "class": 0
+  },
+  {
+    "id": 383001601,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_GlutonArmy_1_05.png",
+    "class": 0
+  },
+  {
+    "id": 383001602,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_GlutonArmy_1_05.png",
+    "class": 0
+  },
+  {
+    "id": 383001603,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_GlutonArmy_1_05.png",
+    "class": 0
+  },
+  {
+    "id": 383001701,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "",
+    "class": 0
+  },
+  {
+    "id": 383001702,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "",
+    "class": 0
+  },
+  {
+    "id": 383001703,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "",
+    "class": 0
+  },
+  {
+    "id": 384004001,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Chaser_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384004002,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Chaser_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384004003,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Chaser_3_02.png",
+    "class": 0
+  },
+  {
+    "id": 384004101,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Chaser_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384004102,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Chaser_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384004103,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_Chaser_3_12.png",
+    "class": 0
+  },
+  {
+    "id": 384004201,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_IntensionGarura_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384004202,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_IntensionGarura_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384004203,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_IntensionGarura_3_02.png",
+    "class": 0
+  },
+  {
+    "id": 384004301,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_IntensionGarura_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384004302,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_IntensionGarura_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384004303,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_IntensionGarura_3_12.png",
+    "class": 0
+  },
+  {
+    "id": 384004401,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_QueenGarura_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384004402,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_QueenGarura_1_02.png",
+    "class": 0
+  },
+  {
+    "id": 384004403,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_QueenGarura_3_02.png",
+    "class": 0
+  },
+  {
+    "id": 384004501,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_QueenGarura_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384004502,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_QueenGarura_1_12.png",
+    "class": 0
+  },
+  {
+    "id": 384004503,
+    "slotType": 201,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Akasic/Card/Common/Akashic_QueenGarura_3_12.png",
+    "class": 0
   }
 ]
