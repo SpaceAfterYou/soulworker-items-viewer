@@ -1,0 +1,802 @@
+[
+  {
+    "id": 880307172,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30717_MG_Shower_B.png",
+    "class": 0
+  },
+  {
+    "id": 880307173,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30717_MG_Shower_C.png",
+    "class": 0
+  },
+  {
+    "id": 880307181,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30718_MG_Ceiling_A.png",
+    "class": 0
+  },
+  {
+    "id": 880307182,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30718_MG_Ceiling_B.png",
+    "class": 0
+  },
+  {
+    "id": 880307183,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30718_MG_Ceiling_C.png",
+    "class": 0
+  },
+  {
+    "id": 880307061,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30706_MG_Door_A.png",
+    "class": 0
+  },
+  {
+    "id": 880307062,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30706_MG_Door_B.png",
+    "class": 0
+  },
+  {
+    "id": 880307063,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_30706_MG_Door_C.png",
+    "class": 0
+  },
+  {
+    "id": 890012010,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1201_Concentrator.png",
+    "class": 0
+  },
+  {
+    "id": 890012020,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1202_SuspiciousAdd.png",
+    "class": 0
+  },
+  {
+    "id": 890012030,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1203_Trowel.png",
+    "class": 0
+  },
+  {
+    "id": 890012031,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1203_Trowel.png",
+    "class": 0
+  },
+  {
+    "id": 890012040,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1204_SpecialTrowel.png",
+    "class": 0
+  },
+  {
+    "id": 890012050,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1205_PlantTonic.png",
+    "class": 0
+  },
+  {
+    "id": 890012060,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1206_PlantPreservative.png",
+    "class": 0
+  },
+  {
+    "id": 890011031,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1003_Rotten.png",
+    "class": 0
+  },
+  {
+    "id": 890011100,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1110_RoseSeed.png",
+    "class": 0
+  },
+  {
+    "id": 890011110,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1111_Rose.png",
+    "class": 0
+  },
+  {
+    "id": 890011120,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1112_WiltRose.png",
+    "class": 0
+  },
+  {
+    "id": 890011130,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1113_RoseCandy.png",
+    "class": 0
+  },
+  {
+    "id": 890011140,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1114_RoseGoodCandy.png",
+    "class": 0
+  },
+  {
+    "id": 890011200,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1120_PansySeed.png",
+    "class": 0
+  },
+  {
+    "id": 890011210,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1121_Pansy.png",
+    "class": 0
+  },
+  {
+    "id": 890011220,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1122_WiltPansy.png",
+    "class": 0
+  },
+  {
+    "id": 890011230,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1123_PansyCandy.png",
+    "class": 0
+  },
+  {
+    "id": 890011240,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1124_PansyGoodCandy.png",
+    "class": 0
+  },
+  {
+    "id": 890011300,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1130_DandelionSeed.png",
+    "class": 0
+  },
+  {
+    "id": 890011310,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1131_Dandelion.png",
+    "class": 0
+  },
+  {
+    "id": 890011320,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1132_WiltDandelion.png",
+    "class": 0
+  },
+  {
+    "id": 890011330,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1133_DandelionCandy.png",
+    "class": 0
+  },
+  {
+    "id": 890011340,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1134_DandelionGoodCandy.png",
+    "class": 0
+  },
+  {
+    "id": 890011400,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1140_HerbSeed.png",
+    "class": 0
+  },
+  {
+    "id": 890011410,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1141_Herb.png",
+    "class": 0
+  },
+  {
+    "id": 890011420,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1142_WiltHerb.png",
+    "class": 0
+  },
+  {
+    "id": 890011430,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1143_HerbCandy.png",
+    "class": 0
+  },
+  {
+    "id": 890011440,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1144_HerbGoodCandy.png",
+    "class": 0
+  },
+  {
+    "id": 890011501,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1150_TomatoSeed.png",
+    "class": 0
+  },
+  {
+    "id": 890011500,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1150_TomatoSeed.png",
+    "class": 0
+  },
+  {
+    "id": 890011510,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1151_Tomato.png",
+    "class": 0
+  },
+  {
+    "id": 890011520,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1152_WiltTomato.png",
+    "class": 0
+  },
+  {
+    "id": 890011530,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1153_TomatoJuice50.png",
+    "class": 0
+  },
+  {
+    "id": 890011540,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1154_TomatoJuice70.png",
+    "class": 0
+  },
+  {
+    "id": 890011550,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1155_TomatoJuice100.png",
+    "class": 0
+  },
+  {
+    "id": 890011600,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1160_GrapeSeed.png",
+    "class": 0
+  },
+  {
+    "id": 890011610,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1161_Grape.png",
+    "class": 0
+  },
+  {
+    "id": 890011620,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1162_WiltGrape.png",
+    "class": 0
+  },
+  {
+    "id": 890011630,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1163_GrapeJuice50.png",
+    "class": 0
+  },
+  {
+    "id": 890011640,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1164_GrapeJuice70.png",
+    "class": 0
+  },
+  {
+    "id": 890011650,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Farm/Farm_1165_GrapeJuice100.png",
+    "class": 0
+  },
+  {
+    "id": 880111141,
+    "slotType": 0,
+    "inventoryType": 9,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Furniture/MOBJ_11114_HE_PropOne.png",
+    "class": 0
+  },
+  {
+    "id": 936001751,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0110_SoldiersTag.png",
+    "class": 0
+  },
+  {
+    "id": 901003905,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0213_SecurityKey.png",
+    "class": 0
+  },
+  {
+    "id": 901004555,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0304_DrainClaw.png",
+    "class": 0
+  },
+  {
+    "id": 926000550,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0101_OriginTritanium.png",
+    "class": 0
+  },
+  {
+    "id": 931000851,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0102_PleaPaper.png",
+    "class": 0
+  },
+  {
+    "id": 921000950,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0104_AIModule.png",
+    "class": 0
+  },
+  {
+    "id": 921001050,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0105_SuperGPS.png",
+    "class": 0
+  },
+  {
+    "id": 931001501,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0111_AronsNote.png",
+    "class": 0
+  },
+  {
+    "id": 906000401,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0112_MechaParts.png",
+    "class": 0
+  },
+  {
+    "id": 891100070,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0115_EdgarLetter.png",
+    "class": 0
+  },
+  {
+    "id": 891100130,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0116_EdgarMemo.png",
+    "class": 0
+  },
+  {
+    "id": 931001301,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0117_RampageEmblem.png",
+    "class": 0
+  },
+  {
+    "id": 936000151,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0118_DeepDarkCore.png",
+    "class": 0
+  },
+  {
+    "id": 936000301,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0119_BlackWater.png",
+    "class": 0
+  },
+  {
+    "id": 906001301,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0124_ElectricDevice.png",
+    "class": 0
+  },
+  {
+    "id": 906000851,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0125_ECU.png",
+    "class": 0
+  },
+  {
+    "id": 906001051,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0126_HighNuts.png",
+    "class": 0
+  },
+  {
+    "id": 906001251,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0127_HighBolt.png",
+    "class": 0
+  },
+  {
+    "id": 906000951,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0129_PilotJacket.png",
+    "class": 0
+  },
+  {
+    "id": 906001201,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0130_EdgeParts.png",
+    "class": 0
+  },
+  {
+    "id": 906001651,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0133_FirePocket.png",
+    "class": 0
+  },
+  {
+    "id": 906001701,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0134_FireDevice.png",
+    "class": 0
+  },
+  {
+    "id": 906001951,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0137_Firework.png",
+    "class": 0
+  },
+  {
+    "id": 906002001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0138_SlothTongue.png",
+    "class": 0
+  },
+  {
+    "id": 906002451,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0141_HeatCahin.png",
+    "class": 0
+  },
+  {
+    "id": 906002551,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0142_TemptationStone.png",
+    "class": 0
+  },
+  {
+    "id": 906002901,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0146_MemoryChip.png",
+    "class": 0
+  },
+  {
+    "id": 901002401,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0215_JunkKnightSample.png",
+    "class": 0
+  },
+  {
+    "id": 901002951,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0216_BeholderWater.png",
+    "class": 0
+  },
+  {
+    "id": 901002502,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0217_DirtyRibbon.png",
+    "class": 0
+  },
+  {
+    "id": 921002850,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0218_Cure.png",
+    "class": 0
+  },
+  {
+    "id": 931003001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0219_CureComplite.png",
+    "class": 0
+  },
+  {
+    "id": 906003001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0220_StoneWater.png",
+    "class": 0
+  },
+  {
+    "id": 906003101,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0221_RampageCore.png",
+    "class": 0
+  },
+  {
+    "id": 906003201,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0222_BigParts.png",
+    "class": 0
+  },
+  {
+    "id": 906003251,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0223_GlassParts.png",
+    "class": 0
+  },
+  {
+    "id": 906003351,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0224_Leaf.png",
+    "class": 0
+  },
+  {
+    "id": 906003551,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0226_ConcreteParts.png",
+    "class": 0
+  },
+  {
+    "id": 906003701,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0227_CrocodileLether.png",
+    "class": 0
+  },
+  {
+    "id": 906003901,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0228_Venom.png",
+    "class": 0
+  },
+  {
+    "id": 906003951,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0229_StickyHorn.png",
+    "class": 0
+  },
+  {
+    "id": 906004451,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0230_HardWater.png",
+    "class": 0
+  },
+  {
+    "id": 906004551,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0231_RedShell.png",
+    "class": 0
+  },
+  {
+    "id": 906004701,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0232_QueensProof.png",
+    "class": 0
+  },
+  {
+    "id": 906004751,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0233_SpiderFoot.png",
+    "class": 0
+  },
+  {
+    "id": 906004801,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0234_FusionCore.png",
+    "class": 0
+  },
+  {
+    "id": 906004851,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0235_MatterX.png",
+    "class": 0
+  },
+  {
+    "id": 906004951,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0236_MouseCore.png",
+    "class": 0
+  },
+  {
+    "id": 906005101,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0237_EyeCell.png",
+    "class": 0
+  },
+  {
+    "id": 906005251,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Quest/Quest_0238_SecurityCard.png",
+    "class": 0
+  }
+]

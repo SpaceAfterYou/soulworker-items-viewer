@@ -1,0 +1,802 @@
+[
+  {
+    "id": 360070201,
+    "slotType": 241,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Helper/HelperEquip_0_RAM.png",
+    "class": 109
+  },
+  {
+    "id": 360070202,
+    "slotType": 241,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Helper/HelperEquip_0_RAM_Blue.png",
+    "class": 109
+  },
+  {
+    "id": 360070203,
+    "slotType": 241,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Helper/HelperEquip_0_RAM_Green.png",
+    "class": 109
+  },
+  {
+    "id": 360070204,
+    "slotType": 241,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Helper/HelperEquip_0_RAM_Gold.png",
+    "class": 109
+  },
+  {
+    "id": 360080101,
+    "slotType": 240,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Helper/HelperEquip_0_WirelessRemote.png",
+    "class": 106
+  },
+  {
+    "id": 360080102,
+    "slotType": 240,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Helper/HelperEquip_0_WirelessRemote_Blue.png",
+    "class": 106
+  },
+  {
+    "id": 360080103,
+    "slotType": 240,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Helper/HelperEquip_0_WirelessRemote_Green.png",
+    "class": 106
+  },
+  {
+    "id": 360080104,
+    "slotType": 240,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Helper/HelperEquip_0_WirelessRemote_Gold.png",
+    "class": 106
+  },
+  {
+    "id": 360080201,
+    "slotType": 241,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Helper/HelperEquip_0_LowClassGas.png",
+    "class": 106
+  },
+  {
+    "id": 360080202,
+    "slotType": 241,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Helper/HelperEquip_0_LowClassGas_Blue.png",
+    "class": 106
+  },
+  {
+    "id": 360080203,
+    "slotType": 241,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Helper/HelperEquip_0_LowClassGas_Green.png",
+    "class": 106
+  },
+  {
+    "id": 360080204,
+    "slotType": 241,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Helper/HelperEquip_0_LowClassGas_Gold.png",
+    "class": 106
+  },
+  {
+    "id": 379910101,
+    "slotType": 243,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Helper/AttackOrb.png",
+    "class": 199
+  },
+  {
+    "id": 379910102,
+    "slotType": 243,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Helper/DefenceOrb.png",
+    "class": 199
+  },
+  {
+    "id": 450100001,
+    "slotType": 102,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_Doll_01.png",
+    "class": 0
+  },
+  {
+    "id": 450100002,
+    "slotType": 102,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_Doll_01.png",
+    "class": 0
+  },
+  {
+    "id": 450100011,
+    "slotType": 102,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_Doll_01.png",
+    "class": 0
+  },
+  {
+    "id": 450100012,
+    "slotType": 102,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_Doll_01.png",
+    "class": 0
+  },
+  {
+    "id": 450100013,
+    "slotType": 102,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_Doll_01.png",
+    "class": 0
+  },
+  {
+    "id": 450100014,
+    "slotType": 102,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_Doll_01.png",
+    "class": 0
+  },
+  {
+    "id": 450100015,
+    "slotType": 102,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_Doll_01.png",
+    "class": 0
+  },
+  {
+    "id": 450100016,
+    "slotType": 102,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_Doll_01.png",
+    "class": 0
+  },
+  {
+    "id": 450200001,
+    "slotType": 104,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_WarkMan_01.png",
+    "class": 0
+  },
+  {
+    "id": 450200002,
+    "slotType": 104,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_WarkMan_01.png",
+    "class": 0
+  },
+  {
+    "id": 450200011,
+    "slotType": 104,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_WarkMan_01.png",
+    "class": 0
+  },
+  {
+    "id": 450200012,
+    "slotType": 104,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_WarkMan_01.png",
+    "class": 0
+  },
+  {
+    "id": 450200013,
+    "slotType": 104,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_WarkMan_01.png",
+    "class": 0
+  },
+  {
+    "id": 450200014,
+    "slotType": 104,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_WarkMan_01.png",
+    "class": 0
+  },
+  {
+    "id": 450200015,
+    "slotType": 104,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_WarkMan_01.png",
+    "class": 0
+  },
+  {
+    "id": 450200016,
+    "slotType": 104,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_WarkMan_01.png",
+    "class": 0
+  },
+  {
+    "id": 450300001,
+    "slotType": 103,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_Camera_01.png",
+    "class": 0
+  },
+  {
+    "id": 450300002,
+    "slotType": 103,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_Camera_01.png",
+    "class": 0
+  },
+  {
+    "id": 450300011,
+    "slotType": 103,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_Camera_01.png",
+    "class": 0
+  },
+  {
+    "id": 450300012,
+    "slotType": 103,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_Camera_01.png",
+    "class": 0
+  },
+  {
+    "id": 450300013,
+    "slotType": 103,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_Camera_01.png",
+    "class": 0
+  },
+  {
+    "id": 450300014,
+    "slotType": 103,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_Camera_01.png",
+    "class": 0
+  },
+  {
+    "id": 450300015,
+    "slotType": 103,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_Camera_01.png",
+    "class": 0
+  },
+  {
+    "id": 450300016,
+    "slotType": 103,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_Camera_01.png",
+    "class": 0
+  },
+  {
+    "id": 450400001,
+    "slotType": 101,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_Pen_01.png",
+    "class": 0
+  },
+  {
+    "id": 450400002,
+    "slotType": 101,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_Pen_01.png",
+    "class": 0
+  },
+  {
+    "id": 450400011,
+    "slotType": 101,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_Pen_01.png",
+    "class": 0
+  },
+  {
+    "id": 450400012,
+    "slotType": 101,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_Pen_01.png",
+    "class": 0
+  },
+  {
+    "id": 450400013,
+    "slotType": 101,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_Pen_01.png",
+    "class": 0
+  },
+  {
+    "id": 450400014,
+    "slotType": 101,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_Pen_01.png",
+    "class": 0
+  },
+  {
+    "id": 450400015,
+    "slotType": 101,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_Pen_01.png",
+    "class": 0
+  },
+  {
+    "id": 450400016,
+    "slotType": 101,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_Pen_01.png",
+    "class": 0
+  },
+  {
+    "id": 450500001,
+    "slotType": 106,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_IDCard_01.png",
+    "class": 0
+  },
+  {
+    "id": 450500002,
+    "slotType": 106,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_IDCard_01.png",
+    "class": 0
+  },
+  {
+    "id": 450500011,
+    "slotType": 106,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_IDCard_01.png",
+    "class": 0
+  },
+  {
+    "id": 450500012,
+    "slotType": 106,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_IDCard_01.png",
+    "class": 0
+  },
+  {
+    "id": 450500013,
+    "slotType": 106,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_IDCard_01.png",
+    "class": 0
+  },
+  {
+    "id": 450500014,
+    "slotType": 106,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_IDCard_01.png",
+    "class": 0
+  },
+  {
+    "id": 450500015,
+    "slotType": 106,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_IDCard_01.png",
+    "class": 0
+  },
+  {
+    "id": 450500016,
+    "slotType": 106,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Artifact/Memory_IDCard_01.png",
+    "class": 0
+  },
+  {
+    "id": 600000001,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/ETC_0_Mat.png",
+    "class": 0
+  },
+  {
+    "id": 600000002,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/ETC_0_Radio.png",
+    "class": 0
+  },
+  {
+    "id": 600000003,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/ETC_0_Mat.png",
+    "class": 0
+  },
+  {
+    "id": 600000004,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/ETC_0_Radio.png",
+    "class": 0
+  },
+  {
+    "id": 600000005,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "",
+    "class": 0
+  },
+  {
+    "id": 610100999,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 0
+  },
+  {
+    "id": 610101000,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 0
+  },
+  {
+    "id": 610101001,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/HP_Cure_FirstAidKit_01.png",
+    "class": 0
+  },
+  {
+    "id": 610101002,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/HP_Cure_FirstAidKit_02.png",
+    "class": 0
+  },
+  {
+    "id": 610101003,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/HP_Cure_FirstAidKit_03.png",
+    "class": 0
+  },
+  {
+    "id": 610101004,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/HP_Cure_FirstAidKit_04.png",
+    "class": 0
+  },
+  {
+    "id": 610101005,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/HP_Cure_FirstAidKit_05.png",
+    "class": 0
+  },
+  {
+    "id": 610101006,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/HP_Cure_FirstAidKit_06.png",
+    "class": 0
+  },
+  {
+    "id": 610102000,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 0
+  },
+  {
+    "id": 610102001,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/HP_Cure_CureJelly_01.png",
+    "class": 0
+  },
+  {
+    "id": 610102002,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/HP_Cure_CureJelly_02.png",
+    "class": 0
+  },
+  {
+    "id": 610102003,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/HP_Cure_CureJelly_03.png",
+    "class": 0
+  },
+  {
+    "id": 610102004,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/HP_Cure_CureJelly_04.png",
+    "class": 0
+  },
+  {
+    "id": 610102005,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/HP_Cure_CureJelly_05.png",
+    "class": 0
+  },
+  {
+    "id": 610102006,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/HP_Cure_CureJelly_06.png",
+    "class": 0
+  },
+  {
+    "id": 610903001,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/HP_PersentCure_FirstAidKit_01.png",
+    "class": 0
+  },
+  {
+    "id": 610903002,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/HP_PersentCure_FirstAidKit_02.png",
+    "class": 0
+  },
+  {
+    "id": 610903003,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/HP_PersentCure_FirstAidKit_03.png",
+    "class": 0
+  },
+  {
+    "id": 610903004,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/HP_PersentCure_FirstAidKit_04.png",
+    "class": 0
+  },
+  {
+    "id": 610903005,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/SoulGel_01.png",
+    "class": 0
+  },
+  {
+    "id": 610903006,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/SoulGel_02.png",
+    "class": 0
+  },
+  {
+    "id": 610903007,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/SoulGel_03.png",
+    "class": 0
+  },
+  {
+    "id": 610903008,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/SoulGel_04.png",
+    "class": 0
+  },
+  {
+    "id": 610103000,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 0
+  },
+  {
+    "id": 610103001,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/BitSoulInjection.png",
+    "class": 0
+  },
+  {
+    "id": 610103002,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/KiloSoulInjection.png",
+    "class": 0
+  },
+  {
+    "id": 610103003,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/MegaSoulInjection.png",
+    "class": 0
+  },
+  {
+    "id": 610103004,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/GigaSoulInjection.png",
+    "class": 0
+  },
+  {
+    "id": 610103005,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/TeraSoulInjection.png",
+    "class": 0
+  },
+  {
+    "id": 610103006,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/PetaSoulInjection.png",
+    "class": 0
+  },
+  {
+    "id": 630101002,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/SoulfulDrink.png",
+    "class": 0
+  },
+  {
+    "id": 610104000,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 0
+  },
+  {
+    "id": 610104001,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/HP_Cure_HealMist_01.png",
+    "class": 0
+  },
+  {
+    "id": 610104002,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/HP_Cure_HealMist_02.png",
+    "class": 0
+  },
+  {
+    "id": 610104003,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/HP_Cure_HealMist_03.png",
+    "class": 0
+  },
+  {
+    "id": 610104004,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/HP_Cure_HealMist_04.png",
+    "class": 0
+  },
+  {
+    "id": 610104005,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/HP_Cure_HealMist_05.png",
+    "class": 0
+  },
+  {
+    "id": 610104006,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/HP_Cure_HealMist_06.png",
+    "class": 0
+  },
+  {
+    "id": 610105000,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 0
+  },
+  {
+    "id": 610105001,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/BitStaminaAde.png",
+    "class": 0
+  },
+  {
+    "id": 610105002,
+    "slotType": 200,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Consumption/Cure/KiloStaminaAde.png",
+    "class": 0
+  }
+]

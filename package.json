@@ -10,8 +10,9 @@
   "type": "module",
   "scripts": {
     "build": "nuxt build",
+    "gp:build": "nuxt build --preset=github_pages",
     "dev": "nuxt dev",
-    "generate": "NODE_OPTIONS=--max_old_space_size=256 nuxt generate",
+    "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },

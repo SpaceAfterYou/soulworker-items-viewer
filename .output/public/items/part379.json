@@ -1,0 +1,802 @@
+[
+  {
+    "id": 273319051,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_G/PC_G_EQ_SophinaLook_Glove_05.png",
+    "class": 7
+  },
+  {
+    "id": 273319111,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_G/PC_G_EQ_SophinaLook_Socks_11.png",
+    "class": 7
+  },
+  {
+    "id": 273319121,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_G/PC_G_EQ_SophinaLook_Shoes_12.png",
+    "class": 7
+  },
+  {
+    "id": 283332091,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_H/PC_H_EQ_SophinaLook_Costume03_09.png",
+    "class": 8
+  },
+  {
+    "id": 283332131,
+    "slotType": 23,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_H/PC_H_EQ_SophinaLook_Tail_13.png",
+    "class": 8
+  },
+  {
+    "id": 283332051,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_H/PC_H_EQ_SophinaLook_Glove_05.png",
+    "class": 8
+  },
+  {
+    "id": 283332021,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_H/PC_H_EQ_SophinaLook_HairAcc01_01.png",
+    "class": 8
+  },
+  {
+    "id": 283332111,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_H/PC_H_EQ_SophinaLook_Socks_11.png",
+    "class": 8
+  },
+  {
+    "id": 283332121,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_H/PC_H_EQ_SophinaLook_Shoes_12.png",
+    "class": 8
+  },
+  {
+    "id": 293299091,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_I/PC_I_EQ_SophinaLook_Costume03_09.png",
+    "class": 9
+  },
+  {
+    "id": 293299131,
+    "slotType": 23,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_I/PC_I_EQ_SophinaLook_Tail_13.png",
+    "class": 9
+  },
+  {
+    "id": 293299021,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_I/PC_I_EQ_SophinaLook_HairAcc01_01.png",
+    "class": 9
+  },
+  {
+    "id": 293299051,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_I/PC_I_EQ_SophinaLook_Glove_05.png",
+    "class": 9
+  },
+  {
+    "id": 293299111,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_I/PC_I_EQ_SophinaLook_Socks_11.png",
+    "class": 9
+  },
+  {
+    "id": 293299121,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_I/PC_I_EQ_SophinaLook_Shoes_12.png",
+    "class": 9
+  },
+  {
+    "id": 813620072,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A.png",
+    "class": 1
+  },
+  {
+    "id": 823599072,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B.png",
+    "class": 2
+  },
+  {
+    "id": 833621072,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C.png",
+    "class": 3
+  },
+  {
+    "id": 843596072,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_CostumePackage_PC_D.png",
+    "class": 4
+  },
+  {
+    "id": 853614072,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E.png",
+    "class": 5
+  },
+  {
+    "id": 863612072,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_CostumePackage_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 873319072,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_CostumePackage_PC_G.png",
+    "class": 7
+  },
+  {
+    "id": 883332072,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_CostumePackage_PC_H.png",
+    "class": 8
+  },
+  {
+    "id": 893299072,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_CostumePackage_PC_I.png",
+    "class": 9
+  },
+  {
+    "id": 898910028,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/ETC_0_PhotoAlbum.png",
+    "class": 9
+  },
+  {
+    "id": 898900028,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Cash/ETC_0_CashPhotoAlbum.png",
+    "class": 9
+  },
+  {
+    "id": 213159194,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 1
+  },
+  {
+    "id": 213159094,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 1
+  },
+  {
+    "id": 213159124,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 1
+  },
+  {
+    "id": 213159114,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 1
+  },
+  {
+    "id": 213159054,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 1
+  },
+  {
+    "id": 213011143,
+    "slotType": 21,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 1
+  },
+  {
+    "id": 223156194,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 223156097,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 223156098,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 223156124,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 223156054,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 223011143,
+    "slotType": 21,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 233172194,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 233172094,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 233172124,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 233172114,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 233172054,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 233011143,
+    "slotType": 21,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 243155194,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 243155097,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 243155098,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 243155124,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 243155054,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 243011143,
+    "slotType": 21,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 253165194,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 5
+  },
+  {
+    "id": 253165094,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 5
+  },
+  {
+    "id": 253165124,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 5
+  },
+  {
+    "id": 253165114,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 5
+  },
+  {
+    "id": 253165054,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 5
+  },
+  {
+    "id": 253011143,
+    "slotType": 21,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 5
+  },
+  {
+    "id": 263163194,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 6
+  },
+  {
+    "id": 263163094,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 6
+  },
+  {
+    "id": 263163124,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 6
+  },
+  {
+    "id": 263163114,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 6
+  },
+  {
+    "id": 263163054,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 6
+  },
+  {
+    "id": 263011143,
+    "slotType": 21,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 6
+  },
+  {
+    "id": 273034194,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 7
+  },
+  {
+    "id": 273034094,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 7
+  },
+  {
+    "id": 273034124,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 7
+  },
+  {
+    "id": 273034114,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 7
+  },
+  {
+    "id": 273034054,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 7
+  },
+  {
+    "id": 273011143,
+    "slotType": 21,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 7
+  },
+  {
+    "id": 283011143,
+    "slotType": 21,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 8
+  },
+  {
+    "id": 283060194,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 8
+  },
+  {
+    "id": 283060094,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 8
+  },
+  {
+    "id": 283060124,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 8
+  },
+  {
+    "id": 283060114,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 8
+  },
+  {
+    "id": 283060054,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 8
+  },
+  {
+    "id": 293152194,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 9
+  },
+  {
+    "id": 293152094,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 9
+  },
+  {
+    "id": 293152124,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 9
+  },
+  {
+    "id": 293152114,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 9
+  },
+  {
+    "id": 293152054,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 9
+  },
+  {
+    "id": 293152143,
+    "slotType": 21,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 9
+  },
+  {
+    "id": 213184193,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 1
+  },
+  {
+    "id": 213184093,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 1
+  },
+  {
+    "id": 213184053,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 1
+  },
+  {
+    "id": 213184113,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 1
+  },
+  {
+    "id": 213184123,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 1
+  },
+  {
+    "id": 223176023,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 223176096,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 223176097,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 223176053,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 223176123,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 233194193,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 233194093,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 233194053,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 233194113,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 233194123,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 243175023,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 243175096,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 243175097,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 243175053,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 243175123,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  }
+]
