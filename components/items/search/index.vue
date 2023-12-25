@@ -8,8 +8,7 @@ const request = ref("");
       <ItemsSearchInput v-model="request" />
     </div>
 
-    <ItemsSearchSuggs class="hover:visible group-hover:visible" :request="request" />
-    <!-- <ItemsSearchSuggs class="invisible hover:visible group-hover:visible" :request="request" /> -->
+    <ItemsSearchSuggs class="invisible hover:visible group-hover:visible" :request="request" />
   </form>
 
   <!-- https://youtu.be/5pxpOYSERz4 -->
