@@ -1,5 +1,10 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+  vite: {
+    esbuild: {
+      drop: process.env.NODE_ENV !== "development" ? ["debugger", "console"] : [],
+    },
+  },
   modules: ["@nuxtjs/tailwindcss", "@pinia/nuxt", "@nuxtjs/i18n", "@vueuse/nuxt"],
   vue: {
     propsDestructure: true,
