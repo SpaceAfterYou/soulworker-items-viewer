@@ -9,6 +9,9 @@ export default defineNuxtConfig({
     client: false,
     server: false,
   },
+  app: {
+    baseURL: "/soulworker-items-viewer/",
+  },
   devtools: { enabled: true },
   css: ["normalize.css"],
   ssr: false,
