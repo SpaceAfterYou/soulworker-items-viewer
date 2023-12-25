@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper.c27b6911.js";import{c as t,o as c}from"./entry.5f438a6a.js";const n={};function o(s,r){return c(),t("section",null," page settings ")}const f=e(n,[["render",o]]);export{f as default};
