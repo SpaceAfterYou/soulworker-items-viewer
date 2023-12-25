@@ -11,7 +11,7 @@
         </LayoutHeaderLink>
       </nav>
 
-      <ItemsSearchInput class="py-2" />
+      <ItemsSearch class="h-full w-full" />
 
       <LayoutLocaleButtonGroup class="flex justify-center self-center" />
     </div>

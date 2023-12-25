@@ -1,6 +1,6 @@
 <template>
-  <div class="flex gap-2 rounded bg-black/50">
-    <span class="self-center pl-2">
+  <div class="flex gap-2 rounded bg-black/50 p-2">
+    <span class="self-center">
       <slot name="head" />
     </span>
 

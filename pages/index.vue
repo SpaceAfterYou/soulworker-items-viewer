@@ -25,4 +25,3 @@ watch(filtered, () => {
     <ItemsPagination :count="filtered.length" v-model="currentPage" />
   </section>
 </template>
-~/stores/side-filter ~/stores/side-filter
