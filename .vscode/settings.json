@@ -27,5 +27,7 @@
   },
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "prettier.useEditorConfig": false,
+  "prettier.configPath": ".prettierrc.json"
 }

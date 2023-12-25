@@ -1,0 +1,802 @@
+[
+  {
+    "id": 112554451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_B/SOU_0_GraveKeeperBarrelmk3.png",
+    "class": 2
+  },
+  {
+    "id": 113554451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_C/SOU_0_GraveKeeperScythemk3.png",
+    "class": 3
+  },
+  {
+    "id": 115554451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_E/SOU_0_GraveKeeperChordmk3.png",
+    "class": 5
+  },
+  {
+    "id": 510354451,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/HeadGear/GEA_0_13_GraveKeeperHead.png",
+    "class": 0
+  },
+  {
+    "id": 510454451,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/HeadGear/GEA_0_17_GraveKeeperHeadmk2.png",
+    "class": 0
+  },
+  {
+    "id": 510554451,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/HeadGear/GEA_0_22_GraveKeeperHeadmk3.png",
+    "class": 0
+  },
+  {
+    "id": 520354451,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/ShoulderGear/GEA_0_13_GraveKeeperShoulder.png",
+    "class": 0
+  },
+  {
+    "id": 520454451,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/ShoulderGear/GEA_0_17_GraveKeeperShouldermk2.png",
+    "class": 0
+  },
+  {
+    "id": 520554451,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/ShoulderGear/GEA_0_22_GraveKeeperShouldermk3.png",
+    "class": 0
+  },
+  {
+    "id": 530354451,
+    "slotType": 171,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/BodyGear/GEA_0_13_GraveKeeperBody.png",
+    "class": 0
+  },
+  {
+    "id": 530454451,
+    "slotType": 171,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/BodyGear/GEA_0_17_GraveKeeperBodymk2.png",
+    "class": 0
+  },
+  {
+    "id": 530554451,
+    "slotType": 171,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/BodyGear/GEA_0_22_GraveKeeperBodymk3.png",
+    "class": 0
+  },
+  {
+    "id": 540354451,
+    "slotType": 181,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/LegGear/GEA_0_13_GraveKeeperLeg.png",
+    "class": 0
+  },
+  {
+    "id": 540454451,
+    "slotType": 181,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/LegGear/GEA_0_17_GraveKeeperLegmk2.png",
+    "class": 0
+  },
+  {
+    "id": 540554451,
+    "slotType": 181,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/LegGear/GEA_0_22_GraveKeeperLegmk3.png",
+    "class": 0
+  },
+  {
+    "id": 410354451,
+    "slotType": 111,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Accessory/Pendant/ACC_0_13_GraveKeeperPendant.png",
+    "class": 0
+  },
+  {
+    "id": 430354451,
+    "slotType": 131,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Accessory/Earring/ACC_0_13_GraveKeeperEarring.png",
+    "class": 0
+  },
+  {
+    "id": 440354451,
+    "slotType": 141,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Accessory/Ring/ACC_0_13_GraveKeeperRing.png",
+    "class": 0
+  },
+  {
+    "id": 410454451,
+    "slotType": 111,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Accessory/Pendant/ACC_0_17_GraveKeeperPendantmk2.png",
+    "class": 0
+  },
+  {
+    "id": 430454451,
+    "slotType": 131,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Accessory/Earring/ACC_0_17_GraveKeeperEarringmk2.png",
+    "class": 0
+  },
+  {
+    "id": 440454451,
+    "slotType": 141,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Accessory/Ring/ACC_0_17_GraveKeeperRingmk2.png",
+    "class": 0
+  },
+  {
+    "id": 410554454,
+    "slotType": 111,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Accessory/Pendant/ACC_0_22_GraveKeeperPendantmk3.png",
+    "class": 0
+  },
+  {
+    "id": 430554454,
+    "slotType": 131,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Accessory/Earring/ACC_0_22_GraveKeeperEarringmk3.png",
+    "class": 0
+  },
+  {
+    "id": 440554454,
+    "slotType": 141,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Accessory/Ring/ACC_0_22_GraveKeeperRingmk3.png",
+    "class": 0
+  },
+  {
+    "id": 711354410,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC1.png",
+    "class": 1
+  },
+  {
+    "id": 712354410,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC2.png",
+    "class": 2
+  },
+  {
+    "id": 713354410,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC3.png",
+    "class": 3
+  },
+  {
+    "id": 715354410,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC5.png",
+    "class": 5
+  },
+  {
+    "id": 711454410,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC1.png",
+    "class": 1
+  },
+  {
+    "id": 712454410,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC2.png",
+    "class": 2
+  },
+  {
+    "id": 713454410,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC3.png",
+    "class": 3
+  },
+  {
+    "id": 715454410,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC5.png",
+    "class": 5
+  },
+  {
+    "id": 711554410,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC1.png",
+    "class": 1
+  },
+  {
+    "id": 712554410,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC2.png",
+    "class": 2
+  },
+  {
+    "id": 713554410,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC3.png",
+    "class": 3
+  },
+  {
+    "id": 715554410,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC5.png",
+    "class": 5
+  },
+  {
+    "id": 710354430,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/HeadGear.png",
+    "class": 0
+  },
+  {
+    "id": 710454430,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/HeadGear.png",
+    "class": 0
+  },
+  {
+    "id": 710554430,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/HeadGear.png",
+    "class": 0
+  },
+  {
+    "id": 710354440,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/ShoulderGear.png",
+    "class": 0
+  },
+  {
+    "id": 710454440,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/ShoulderGear.png",
+    "class": 0
+  },
+  {
+    "id": 710554440,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/ShoulderGear.png",
+    "class": 0
+  },
+  {
+    "id": 710354450,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/BodyGear.png",
+    "class": 0
+  },
+  {
+    "id": 710454450,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/BodyGear.png",
+    "class": 0
+  },
+  {
+    "id": 710554450,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/BodyGear.png",
+    "class": 0
+  },
+  {
+    "id": 710354460,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/LegGear.png",
+    "class": 0
+  },
+  {
+    "id": 710454460,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/LegGear.png",
+    "class": 0
+  },
+  {
+    "id": 710554460,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/LegGear.png",
+    "class": 0
+  },
+  {
+    "id": 150252101,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Familiar/AssaultFamiliar_02.png",
+    "class": 0
+  },
+  {
+    "id": 150253101,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Familiar/AssaultFamiliar_02.png",
+    "class": 0
+  },
+  {
+    "id": 150302101,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Familiar/AssaultFamiliar_03.png",
+    "class": 0
+  },
+  {
+    "id": 150303101,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Familiar/AssaultFamiliar_03.png",
+    "class": 0
+  },
+  {
+    "id": 150352101,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Familiar/AssaultFamiliar_03.png",
+    "class": 0
+  },
+  {
+    "id": 150353101,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Familiar/AssaultFamiliar_03.png",
+    "class": 0
+  },
+  {
+    "id": 150402101,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Familiar/AssaultFamiliar_04.png",
+    "class": 0
+  },
+  {
+    "id": 150403101,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Familiar/AssaultFamiliar_04.png",
+    "class": 0
+  },
+  {
+    "id": 150452101,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Familiar/AssaultFamiliar_04.png",
+    "class": 0
+  },
+  {
+    "id": 150453101,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Familiar/AssaultFamiliar_04.png",
+    "class": 0
+  },
+  {
+    "id": 150502101,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Familiar/AssaultFamiliar_05.png",
+    "class": 0
+  },
+  {
+    "id": 150503101,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Familiar/AssaultFamiliar_05.png",
+    "class": 0
+  },
+  {
+    "id": 150552101,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Familiar/AssaultFamiliar_05.png",
+    "class": 0
+  },
+  {
+    "id": 150553101,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Familiar/AssaultFamiliar_05.png",
+    "class": 0
+  },
+  {
+    "id": 150554101,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 0
+  },
+  {
+    "id": 160211001,
+    "slotType": 97,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Bit_Wing_Broach.png",
+    "class": 0
+  },
+  {
+    "id": 160211002,
+    "slotType": 97,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Bit_Wing_Broach.png",
+    "class": 0
+  },
+  {
+    "id": 160211003,
+    "slotType": 97,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Bit_Wing_Broach.png",
+    "class": 0
+  },
+  {
+    "id": 160211004,
+    "slotType": 97,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Bit_Wing_Broach.png",
+    "class": 0
+  },
+  {
+    "id": 160211005,
+    "slotType": 97,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Bit_Wing_Broach.png",
+    "class": 0
+  },
+  {
+    "id": 160211006,
+    "slotType": 97,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Bit_Wing_Broach.png",
+    "class": 0
+  },
+  {
+    "id": 160211007,
+    "slotType": 97,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Bit_Wing_Broach.png",
+    "class": 0
+  },
+  {
+    "id": 160211008,
+    "slotType": 97,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Bit_Wing_Broach.png",
+    "class": 0
+  },
+  {
+    "id": 160211009,
+    "slotType": 97,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Bit_Wing_Broach.png",
+    "class": 0
+  },
+  {
+    "id": 160211010,
+    "slotType": 97,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Bit_Wing_Broach.png",
+    "class": 0
+  },
+  {
+    "id": 160211011,
+    "slotType": 97,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Bit_Wing_Broach.png",
+    "class": 0
+  },
+  {
+    "id": 160211012,
+    "slotType": 97,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Bit_Wing_Broach.png",
+    "class": 0
+  },
+  {
+    "id": 160212001,
+    "slotType": 97,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Kilo_Wing_Broach.png",
+    "class": 0
+  },
+  {
+    "id": 160212002,
+    "slotType": 97,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Kilo_Wing_Broach.png",
+    "class": 0
+  },
+  {
+    "id": 160212003,
+    "slotType": 97,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Kilo_Wing_Broach.png",
+    "class": 0
+  },
+  {
+    "id": 160212004,
+    "slotType": 97,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Kilo_Wing_Broach.png",
+    "class": 0
+  },
+  {
+    "id": 160212005,
+    "slotType": 97,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Kilo_Wing_Broach.png",
+    "class": 0
+  },
+  {
+    "id": 160212006,
+    "slotType": 97,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Kilo_Wing_Broach.png",
+    "class": 0
+  },
+  {
+    "id": 160212007,
+    "slotType": 97,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Kilo_Wing_Broach.png",
+    "class": 0
+  },
+  {
+    "id": 160212008,
+    "slotType": 97,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Kilo_Wing_Broach.png",
+    "class": 0
+  },
+  {
+    "id": 160212009,
+    "slotType": 97,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Kilo_Wing_Broach.png",
+    "class": 0
+  },
+  {
+    "id": 160212010,
+    "slotType": 97,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Kilo_Wing_Broach.png",
+    "class": 0
+  },
+  {
+    "id": 160212011,
+    "slotType": 97,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Kilo_Wing_Broach.png",
+    "class": 0
+  },
+  {
+    "id": 160212012,
+    "slotType": 97,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Kilo_Wing_Broach.png",
+    "class": 0
+  },
+  {
+    "id": 160213001,
+    "slotType": 97,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Mega_Wing_Broach_Cash.png",
+    "class": 0
+  },
+  {
+    "id": 160213002,
+    "slotType": 97,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Mega_Wing_Broach_Cash.png",
+    "class": 0
+  },
+  {
+    "id": 160213003,
+    "slotType": 97,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Mega_Wing_Broach_Cash.png",
+    "class": 0
+  },
+  {
+    "id": 160213004,
+    "slotType": 97,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Mega_Wing_Broach_Cash.png",
+    "class": 0
+  },
+  {
+    "id": 160213005,
+    "slotType": 97,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Mega_Wing_Broach_Cash.png",
+    "class": 0
+  },
+  {
+    "id": 160213006,
+    "slotType": 97,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Mega_Wing_Broach_Cash.png",
+    "class": 0
+  },
+  {
+    "id": 160213007,
+    "slotType": 97,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Mega_Wing_Broach_Cash.png",
+    "class": 0
+  },
+  {
+    "id": 160213008,
+    "slotType": 97,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Mega_Wing_Broach_Cash.png",
+    "class": 0
+  },
+  {
+    "id": 160213009,
+    "slotType": 97,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Mega_Wing_Broach_Cash.png",
+    "class": 0
+  },
+  {
+    "id": 160213010,
+    "slotType": 97,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Mega_Wing_Broach_Cash.png",
+    "class": 0
+  },
+  {
+    "id": 160213011,
+    "slotType": 97,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Mega_Wing_Broach_Cash.png",
+    "class": 0
+  },
+  {
+    "id": 160213012,
+    "slotType": 97,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Mega_Wing_Broach_Cash.png",
+    "class": 0
+  },
+  {
+    "id": 160214001,
+    "slotType": 97,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Broach/Attack/Giga_Wing_Broach_Cash.png",
+    "class": 0
+  }
+]
