@@ -17,13 +17,15 @@ async function* fromRemote() {
 }
 
 export const useItem = defineStore("items-store", () => {
-  const items: Items = [];
+  const items = reactive<Items>([]);
 
   async function populate() {
     console.log("populate");
 
-    for await (const values of fromRemote()) {
-      items.push(...values);
+    if (process.server) {
+      for await (const values of fromRemote()) {
+        items.push(...values);
+      }
     }
 
     console.log(`populated: ${items.length}`);
