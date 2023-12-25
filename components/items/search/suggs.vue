@@ -116,7 +116,6 @@ const filter = useDebounceFn((items: Items) => {
 
   if (request === "") {
     console.log(`skip user request`);
-    results.push(...items.slice(0, MAX_RESULTS));
     return;
   }
 
