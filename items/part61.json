@@ -1,0 +1,802 @@
+[
+  {
+    "id": 430554451,
+    "slotType": 131,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Accessory/Earring/ACC_0_22_AbyssalBlanknessMemory.png",
+    "class": 0
+  },
+  {
+    "id": 440554451,
+    "slotType": 141,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Accessory/Ring/ACC_0_22_AbyssalBlanknessLight.png",
+    "class": 0
+  },
+  {
+    "id": 440554452,
+    "slotType": 141,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Accessory/Ring/ACC_0_22_AbyssalBlanknessDoom.png",
+    "class": 0
+  },
+  {
+    "id": 410554452,
+    "slotType": 111,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Accessory/Pendant/ACC_0_22_LoadOfChaosPendant.png",
+    "class": 0
+  },
+  {
+    "id": 430554452,
+    "slotType": 131,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Accessory/Earring/ACC_0_22_LoadOfChaosEarring.png",
+    "class": 0
+  },
+  {
+    "id": 440554453,
+    "slotType": 141,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Accessory/Ring/ACC_0_22_LoadOfChaosRing.png",
+    "class": 0
+  },
+  {
+    "id": 440554455,
+    "slotType": 141,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Accessory/Ring/ACC_0_22_ServantOfChaosRing.png",
+    "class": 0
+  },
+  {
+    "id": 114052701,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_HarbingerArm.png",
+    "class": 4
+  },
+  {
+    "id": 114082701,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_HarbingerArm.png",
+    "class": 4
+  },
+  {
+    "id": 714043213,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC4.png",
+    "class": 4
+  },
+  {
+    "id": 114043251,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_BroadArm.png",
+    "class": 4
+  },
+  {
+    "id": 114011301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_HarbingerArm.png",
+    "class": 4
+  },
+  {
+    "id": 114031301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_HarbingerArm.png",
+    "class": 4
+  },
+  {
+    "id": 114042301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_HarbingerArm.png",
+    "class": 4
+  },
+  {
+    "id": 114043301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_HarbingerArm.png",
+    "class": 4
+  },
+  {
+    "id": 114053551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_DreadWolfClaw.png",
+    "class": 4
+  },
+  {
+    "id": 114061301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_HarbingerArm.png",
+    "class": 4
+  },
+  {
+    "id": 114062301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_HarbingerArm.png",
+    "class": 4
+  },
+  {
+    "id": 114073301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_HarbingerArm.png",
+    "class": 4
+  },
+  {
+    "id": 114083551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_GauntletTypePuppetBlaster.png",
+    "class": 4
+  },
+  {
+    "id": 114091301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_BroadArm.png",
+    "class": 4
+  },
+  {
+    "id": 114092301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_BroadArm.png",
+    "class": 4
+  },
+  {
+    "id": 114103301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_BroadArm.png",
+    "class": 4
+  },
+  {
+    "id": 114113551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_FanaticDisasterGauntlet.png",
+    "class": 4
+  },
+  {
+    "id": 114111301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_BroadArm.png",
+    "class": 4
+  },
+  {
+    "id": 114112301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_BroadArm.png",
+    "class": 4
+  },
+  {
+    "id": 114123301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_BroadArm.png",
+    "class": 4
+  },
+  {
+    "id": 114133551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_MadnessHarlequinGauntlet.png",
+    "class": 4
+  },
+  {
+    "id": 114141301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_EnhancedArm.png",
+    "class": 4
+  },
+  {
+    "id": 114142301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_EnhancedArm.png",
+    "class": 4
+  },
+  {
+    "id": 114153301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_EnhancedArm.png",
+    "class": 4
+  },
+  {
+    "id": 114163551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_GolemDestroyingArm.png",
+    "class": 4
+  },
+  {
+    "id": 114161301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_EnhancedArm.png",
+    "class": 4
+  },
+  {
+    "id": 114162301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_EnhancedArm.png",
+    "class": 4
+  },
+  {
+    "id": 114173301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_EnhancedArm.png",
+    "class": 4
+  },
+  {
+    "id": 114183551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_CurrptedKnightArm.png",
+    "class": 4
+  },
+  {
+    "id": 114191301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_SmithingArm.png",
+    "class": 4
+  },
+  {
+    "id": 114192301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_SmithingArm.png",
+    "class": 4
+  },
+  {
+    "id": 114203301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_SmithingArm.png",
+    "class": 4
+  },
+  {
+    "id": 114213551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_ArachnidVanishingArm.png",
+    "class": 4
+  },
+  {
+    "id": 114211301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_RustySmasher.png",
+    "class": 4
+  },
+  {
+    "id": 114212301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_RustySmasher.png",
+    "class": 4
+  },
+  {
+    "id": 114223301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_RustySmasher.png",
+    "class": 4
+  },
+  {
+    "id": 114233551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_SilentWitnessbrawler.png",
+    "class": 4
+  },
+  {
+    "id": 114241301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_NormalSmasher.png",
+    "class": 4
+  },
+  {
+    "id": 114242301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_NormalSmasher.png",
+    "class": 4
+  },
+  {
+    "id": 114253301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_NormalSmasher.png",
+    "class": 4
+  },
+  {
+    "id": 114263551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_GriefSkiesPuncher.png",
+    "class": 4
+  },
+  {
+    "id": 114261301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_RefineMauler.png",
+    "class": 4
+  },
+  {
+    "id": 114262301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_RefineMauler.png",
+    "class": 4
+  },
+  {
+    "id": 114273301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_RefineMauler.png",
+    "class": 4
+  },
+  {
+    "id": 114283551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_MercilessNightMoth.png",
+    "class": 4
+  },
+  {
+    "id": 114281301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_SteelMauler.png",
+    "class": 4
+  },
+  {
+    "id": 114282301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_SteelMauler.png",
+    "class": 4
+  },
+  {
+    "id": 114293301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_SteelMauler.png",
+    "class": 4
+  },
+  {
+    "id": 114303551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_FatalReflectionGarment.png",
+    "class": 4
+  },
+  {
+    "id": 114301301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_RustyGauntlet.png",
+    "class": 4
+  },
+  {
+    "id": 114302301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_RustyGauntlet.png",
+    "class": 4
+  },
+  {
+    "id": 114313301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_RustyGauntlet.png",
+    "class": 4
+  },
+  {
+    "id": 114323551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_GaruraKnightGauntlet.png",
+    "class": 4
+  },
+  {
+    "id": 114331301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_NormalGauntlet.png",
+    "class": 4
+  },
+  {
+    "id": 114332301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_NormalGauntlet.png",
+    "class": 4
+  },
+  {
+    "id": 114343301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_NormalGauntlet.png",
+    "class": 4
+  },
+  {
+    "id": 114353551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_ReviveWarriorBlocker.png",
+    "class": 4
+  },
+  {
+    "id": 114361301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_ForgedGauntlet.png",
+    "class": 4
+  },
+  {
+    "id": 114362301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_ForgedGauntlet.png",
+    "class": 4
+  },
+  {
+    "id": 114373301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_ForgedGauntlet.png",
+    "class": 4
+  },
+  {
+    "id": 114383551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_GauntletTypeVanishingBlood.png",
+    "class": 4
+  },
+  {
+    "id": 114381301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_SoldiersGauntlet.png",
+    "class": 4
+  },
+  {
+    "id": 114382301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_SoldiersGauntlet.png",
+    "class": 4
+  },
+  {
+    "id": 114393301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_SoldiersGauntlet.png",
+    "class": 4
+  },
+  {
+    "id": 114403551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_GauntletofHollowVengeance.png",
+    "class": 4
+  },
+  {
+    "id": 114411301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_IronBlow.png",
+    "class": 4
+  },
+  {
+    "id": 114412301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_IronBlow.png",
+    "class": 4
+  },
+  {
+    "id": 114423301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_IronBlow.png",
+    "class": 4
+  },
+  {
+    "id": 114433551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_HeavyMetalScissorGauntlet.png",
+    "class": 4
+  },
+  {
+    "id": 114431301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_ChromeBlow.png",
+    "class": 4
+  },
+  {
+    "id": 114432301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_ChromeBlow.png",
+    "class": 4
+  },
+  {
+    "id": 114443301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_ChromeBlow.png",
+    "class": 4
+  },
+  {
+    "id": 114453551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_GauntletTypeBrokenArk.png",
+    "class": 4
+  },
+  {
+    "id": 114451301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_MetalBlow.png",
+    "class": 4
+  },
+  {
+    "id": 114452301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_MetalBlow.png",
+    "class": 4
+  },
+  {
+    "id": 114463301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_MetalBlow.png",
+    "class": 4
+  },
+  {
+    "id": 114473551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_AerialRimBlocker.png",
+    "class": 4
+  },
+  {
+    "id": 114471301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_SharpnessBlow.png",
+    "class": 4
+  },
+  {
+    "id": 114472301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_SharpnessBlow.png",
+    "class": 4
+  },
+  {
+    "id": 114483301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_SharpnessBlow.png",
+    "class": 4
+  },
+  {
+    "id": 114493551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_GigantesCorebrawler.png",
+    "class": 4
+  },
+  {
+    "id": 114491301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_CarbonBracer.png",
+    "class": 4
+  },
+  {
+    "id": 114492301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_CarbonBracer.png",
+    "class": 4
+  },
+  {
+    "id": 114503301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_CompositeBracer.png",
+    "class": 4
+  },
+  {
+    "id": 114513551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_GauntletTypeQueensArk.png",
+    "class": 4
+  },
+  {
+    "id": 114511301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_CompositeBracer.png",
+    "class": 4
+  },
+  {
+    "id": 114512301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_TitanBracer.png",
+    "class": 4
+  },
+  {
+    "id": 114523301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_TitanBracer.png",
+    "class": 4
+  },
+  {
+    "id": 114533551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_NumberlessRayGauntlet.png",
+    "class": 4
+  },
+  {
+    "id": 114531301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_MetalBusterBracer.png",
+    "class": 4
+  },
+  {
+    "id": 114532301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_MetalBusterBracer.png",
+    "class": 4
+  },
+  {
+    "id": 114543301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_MetalBusterBracer.png",
+    "class": 4
+  },
+  {
+    "id": 114553551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_GlaresForceReacher.png",
+    "class": 4
+  }
+]

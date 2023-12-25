@@ -1,0 +1,802 @@
+[
+  {
+    "id": 221119081,
+    "slotType": 11,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_B/PC_B_EQ_CircleEarRing_EarAcc_92.png",
+    "class": 2
+  },
+  {
+    "id": 221120041,
+    "slotType": 14,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_B/PC_B_EQ_BlackBeltChocker_MouthAcc_04.png",
+    "class": 2
+  },
+  {
+    "id": 221121041,
+    "slotType": 14,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_B/PC_B_EQ_RedVelvetChocker_MouthAcc_04.png",
+    "class": 2
+  },
+  {
+    "id": 221122041,
+    "slotType": 14,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_B/PC_B_EQ_SilverRingChocker_MouthAcc_04.png",
+    "class": 2
+  },
+  {
+    "id": 221123041,
+    "slotType": 14,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_B/PC_B_EQ_FakeNipples_MouthAcc_04.png",
+    "class": 2
+  },
+  {
+    "id": 221124031,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_B/PC_B_EQ_MasBootsGlass_EyeAcc01_03.png",
+    "class": 2
+  },
+  {
+    "id": 221125031,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_B/PC_B_EQ_BadSunGlass_EyeAcc01_03.png",
+    "class": 2
+  },
+  {
+    "id": 231125081,
+    "slotType": 11,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_C/PC_C_EQ_StarEarRing_EarAcc_92.png",
+    "class": 3
+  },
+  {
+    "id": 231126081,
+    "slotType": 11,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_C/PC_C_EQ_HeartEarRing_EarAcc_92.png",
+    "class": 3
+  },
+  {
+    "id": 231127081,
+    "slotType": 11,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_C/PC_C_EQ_SakuraEarRing_EarAcc_92.png",
+    "class": 3
+  },
+  {
+    "id": 231128081,
+    "slotType": 11,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_C/PC_C_EQ_CircleEarRing_EarAcc_92.png",
+    "class": 3
+  },
+  {
+    "id": 231129041,
+    "slotType": 14,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_C/PC_C_EQ_BlackBeltChocker_MouthAcc_04.png",
+    "class": 3
+  },
+  {
+    "id": 231130041,
+    "slotType": 14,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_C/PC_C_EQ_RedVelvetChocker_MouthAcc_04.png",
+    "class": 3
+  },
+  {
+    "id": 231131041,
+    "slotType": 14,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_C/PC_C_EQ_SilverRingChocker_MouthAcc_04.png",
+    "class": 3
+  },
+  {
+    "id": 231132041,
+    "slotType": 14,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_C/PC_C_EQ_FakeNipples_MouthAcc_04.png",
+    "class": 3
+  },
+  {
+    "id": 231133031,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_C/PC_C_EQ_MasBootsGlass_EyeAcc01_03.png",
+    "class": 3
+  },
+  {
+    "id": 231134031,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_C/PC_C_EQ_BadSunGlass_EyeAcc01_03.png",
+    "class": 3
+  },
+  {
+    "id": 241114081,
+    "slotType": 11,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_D/PC_D_EQ_StarEarRing_EarAcc_92.png",
+    "class": 4
+  },
+  {
+    "id": 241115081,
+    "slotType": 11,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_D/PC_D_EQ_HeartEarRing_EarAcc_92.png",
+    "class": 4
+  },
+  {
+    "id": 241116081,
+    "slotType": 11,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_D/PC_D_EQ_SakuraEarRing_EarAcc_92.png",
+    "class": 4
+  },
+  {
+    "id": 241117081,
+    "slotType": 11,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_D/PC_D_EQ_CircleEarRing_EarAcc_92.png",
+    "class": 4
+  },
+  {
+    "id": 241118041,
+    "slotType": 14,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_D/PC_D_EQ_BlackBeltChocker_MouthAcc_04.png",
+    "class": 4
+  },
+  {
+    "id": 241119041,
+    "slotType": 14,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_D/PC_D_EQ_RedVelvetChocker_MouthAcc_04.png",
+    "class": 4
+  },
+  {
+    "id": 241120041,
+    "slotType": 14,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_D/PC_D_EQ_SilverRingChocker_MouthAcc_04.png",
+    "class": 4
+  },
+  {
+    "id": 241121041,
+    "slotType": 14,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_D/PC_D_EQ_FakeNipples_MouthAcc_04.png",
+    "class": 4
+  },
+  {
+    "id": 241122031,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_D/PC_D_EQ_MasBootsGlass_EyeAcc01_03.png",
+    "class": 4
+  },
+  {
+    "id": 241123031,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_D/PC_D_EQ_BadSunGlass_EyeAcc01_03.png",
+    "class": 4
+  },
+  {
+    "id": 251118081,
+    "slotType": 11,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_E/PC_E_EQ_StarEarRing_EarAcc_92.png",
+    "class": 5
+  },
+  {
+    "id": 251119081,
+    "slotType": 11,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_E/PC_E_EQ_HeartEarRing_EarAcc_92.png",
+    "class": 5
+  },
+  {
+    "id": 251120081,
+    "slotType": 11,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_E/PC_E_EQ_SakuraEarRing_EarAcc_92.png",
+    "class": 5
+  },
+  {
+    "id": 251121081,
+    "slotType": 11,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_E/PC_E_EQ_CircleEarRing_EarAcc_92.png",
+    "class": 5
+  },
+  {
+    "id": 251122041,
+    "slotType": 14,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_E/PC_E_EQ_BlackBeltChocker_MouthAcc_04.png",
+    "class": 5
+  },
+  {
+    "id": 251123041,
+    "slotType": 14,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_E/PC_E_EQ_RedVelvetChocker_MouthAcc_04.png",
+    "class": 5
+  },
+  {
+    "id": 251124041,
+    "slotType": 14,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_E/PC_E_EQ_SilverRingChocker_MouthAcc_04.png",
+    "class": 5
+  },
+  {
+    "id": 251125041,
+    "slotType": 14,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_E/PC_E_EQ_FakeNipples_MouthAcc_04.png",
+    "class": 5
+  },
+  {
+    "id": 251126031,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_E/PC_E_EQ_MasBootsGlass_EyeAcc01_03.png",
+    "class": 5
+  },
+  {
+    "id": 251127031,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_E/PC_E_EQ_BadSunGlass_EyeAcc01_03.png",
+    "class": 5
+  },
+  {
+    "id": 261118081,
+    "slotType": 11,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_StarEarRing_EarAcc_92.png",
+    "class": 6
+  },
+  {
+    "id": 261119081,
+    "slotType": 11,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_HeartEarRing_EarAcc_92.png",
+    "class": 6
+  },
+  {
+    "id": 261120081,
+    "slotType": 11,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_SakuraEarRing_EarAcc_92.png",
+    "class": 6
+  },
+  {
+    "id": 261121081,
+    "slotType": 11,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_CircleEarRing_EarAcc_92.png",
+    "class": 6
+  },
+  {
+    "id": 261122041,
+    "slotType": 14,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_BlackBeltChocker_MouthAcc_04.png",
+    "class": 6
+  },
+  {
+    "id": 261123041,
+    "slotType": 14,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_RedVelvetChocker_MouthAcc_04.png",
+    "class": 6
+  },
+  {
+    "id": 261124041,
+    "slotType": 14,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_SilverRingChocker_MouthAcc_04.png",
+    "class": 6
+  },
+  {
+    "id": 261125041,
+    "slotType": 14,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_FakeNipples_MouthAcc_04.png",
+    "class": 6
+  },
+  {
+    "id": 261126031,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_MasBootsGlass_EyeAcc01_03.png",
+    "class": 6
+  },
+  {
+    "id": 261127031,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_BadSunGlass_EyeAcc01_03.png",
+    "class": 6
+  },
+  {
+    "id": 211881901,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_A/PC_A_EQ_Watcher_HatMask_31.png",
+    "class": 1
+  },
+  {
+    "id": 221881901,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_B/PC_B_EQ_Watcher_HatMask_31.png",
+    "class": 2
+  },
+  {
+    "id": 231881901,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_C/PC_C_EQ_Watcher_HatMask_31.png",
+    "class": 3
+  },
+  {
+    "id": 241881901,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_D/PC_D_EQ_Watcher_HatMask_31.png",
+    "class": 4
+  },
+  {
+    "id": 251881901,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_E/PC_E_EQ_Watcher_HatMask_31.png",
+    "class": 5
+  },
+  {
+    "id": 261880101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Watcher_HatMask_31.png",
+    "class": 6
+  },
+  {
+    "id": 213390701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_A/PC_A_EQ_ZippHood_Costume01_07.png",
+    "class": 1
+  },
+  {
+    "id": 213390801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_A/PC_A_EQ_ZippHood_Costume02_08.png",
+    "class": 1
+  },
+  {
+    "id": 213391601,
+    "slotType": 11,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_A/PC_A_EQ_ZippHood_EarAcc_92.png",
+    "class": 1
+  },
+  {
+    "id": 213390501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_A/PC_A_EQ_ZippHood_Glove_05.png",
+    "class": 1
+  },
+  {
+    "id": 213391201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_A/PC_A_EQ_ZippHood_Shoes_12.png",
+    "class": 1
+  },
+  {
+    "id": 223390701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_B/PC_B_EQ_ZippHood_Costume01_07.png",
+    "class": 2
+  },
+  {
+    "id": 223390801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_B/PC_B_EQ_ZippHood_Costume02_08.png",
+    "class": 2
+  },
+  {
+    "id": 223392701,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 223391601,
+    "slotType": 11,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_B/PC_B_EQ_ZippHood_EarAcc_92.png",
+    "class": 2
+  },
+  {
+    "id": 223390501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_B/PC_B_EQ_ZippHood_Glove_05.png",
+    "class": 2
+  },
+  {
+    "id": 223391201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_B/PC_B_EQ_ZippHood_Shoes_12.png",
+    "class": 2
+  },
+  {
+    "id": 233390701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_C/PC_C_EQ_ZippHood_Costume01_07.png",
+    "class": 3
+  },
+  {
+    "id": 233390801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_C/PC_C_EQ_ZippHood_Costume02_08.png",
+    "class": 3
+  },
+  {
+    "id": 233391601,
+    "slotType": 11,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_C/PC_C_EQ_ZippHood_EarAcc_92.png",
+    "class": 3
+  },
+  {
+    "id": 233390501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_C/PC_C_EQ_ZippHood_Glove_05.png",
+    "class": 3
+  },
+  {
+    "id": 233391201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_C/PC_C_EQ_ZippHood_Shoes_12.png",
+    "class": 3
+  },
+  {
+    "id": 243390701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_D/PC_D_EQ_ZippHood_Costume01_07.png",
+    "class": 4
+  },
+  {
+    "id": 243390801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_D/PC_D_EQ_ZippHood_Costume02_08.png",
+    "class": 4
+  },
+  {
+    "id": 243392701,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 243391601,
+    "slotType": 11,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_D/PC_D_EQ_ZippHood_EarAcc_92.png",
+    "class": 4
+  },
+  {
+    "id": 243390501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_D/PC_D_EQ_ZippHood_Glove_05.png",
+    "class": 4
+  },
+  {
+    "id": 243391201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_D/PC_D_EQ_ZippHood_Shoes_12.png",
+    "class": 4
+  },
+  {
+    "id": 253390701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_E/PC_E_EQ_ZippHood_Costume01_07.png",
+    "class": 5
+  },
+  {
+    "id": 253390801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_E/PC_E_EQ_ZippHood_Costume02_08.png",
+    "class": 5
+  },
+  {
+    "id": 253391601,
+    "slotType": 11,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_E/PC_E_EQ_ZippHood_EarAcc_92.png",
+    "class": 5
+  },
+  {
+    "id": 253390501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_E/PC_E_EQ_ZippHood_Glove_05.png",
+    "class": 5
+  },
+  {
+    "id": 253391201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_E/PC_E_EQ_ZippHood_Shoes_12.png",
+    "class": 5
+  },
+  {
+    "id": 263390701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_ZippHood_Costume01_07.png",
+    "class": 6
+  },
+  {
+    "id": 263390801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_ZippHood_Costume02_08.png",
+    "class": 6
+  },
+  {
+    "id": 263391601,
+    "slotType": 11,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_ZippHood_EarAcc_92.png",
+    "class": 6
+  },
+  {
+    "id": 263390501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_ZippHood_Glove_05.png",
+    "class": 6
+  },
+  {
+    "id": 263391201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_ZippHood_Shoes_12.png",
+    "class": 6
+  },
+  {
+    "id": 810001145,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/ETC_0_LSCube_BigLuck.png",
+    "class": 0
+  },
+  {
+    "id": 810001146,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/ETC_0_LSCube_HugeLuck.png",
+    "class": 0
+  },
+  {
+    "id": 211555352,
+    "slotType": 21,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 1
+  },
+  {
+    "id": 212555352,
+    "slotType": 21,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 213555352,
+    "slotType": 21,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 214555352,
+    "slotType": 21,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 215555352,
+    "slotType": 21,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 5
+  },
+  {
+    "id": 216555352,
+    "slotType": 21,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 6
+  },
+  {
+    "id": 212115172,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 1
+  },
+  {
+    "id": 212115122,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 1
+  },
+  {
+    "id": 222114172,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 222114122,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 232123172,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 232123122,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 242112172,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  }
+]
