@@ -5,13 +5,13 @@ on:
     branches:
       - main
 
+permissions:
+  pages: write
+  id-token: write
+
 jobs:
   deploy:
     runs-on: ${{ matrix.os }}
-
-    permissions:
-      pages: write
-      id-token: write
 
     strategy:
       matrix:
