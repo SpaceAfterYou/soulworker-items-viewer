@@ -2,10 +2,11 @@
 export default defineNuxtConfig({
   vite: {
     esbuild: {
-      drop: process.env.NODE_ENV !== "development" ? ["debugger", "console"] : [],
+      drop: process.env.NODE_ENV !== "development" ? [] : ["debugger", "console"],
     },
   },
   modules: ["@nuxtjs/tailwindcss", "@pinia/nuxt", "@nuxtjs/i18n", "@vueuse/nuxt"],
+  devtools: process.env.NODE_ENV !== "development" ? {} : { enabled: true },
   vue: {
     propsDestructure: true,
     defineModel: true,
@@ -17,7 +18,6 @@ export default defineNuxtConfig({
   app: {
     baseURL: "/soulworker-items-viewer/",
   },
-  devtools: { enabled: true },
   css: ["normalize.css"],
   ssr: false,
 });
