@@ -8,7 +8,7 @@ const { count } = defineProps<Props>();
 const { page } = storeToRefs(useSettingsStore());
 
 const value = defineModel({ default: 0 });
-const length = computed(() => count / page.value.size);
+const length = computed(() => Math.floor(count / page.value.size));
 </script>
 
 <template>
