@@ -102,7 +102,7 @@ function* getItemValues(item: Item) {
   }
 }
 
-let results = reactive<Items>(items.slice(0, MAX_RESULTS));
+const results = reactive<Items>([]);
 
 watch(
   () => request,
@@ -112,13 +112,13 @@ watch(
 const filter = useDebounceFn((items: Items) => {
   console.log(`use request with value: ${request}`);
 
+  results.splice(0, results.length);
+
   if (request === "") {
     console.log(`skip user request`);
-    results = items.slice(0, MAX_RESULTS);
+    results.push(...items.slice(0, MAX_RESULTS));
     return;
   }
-
-  results.splice(0, results.length);
 
   for (const item of items) {
     for (const value of getItemValues(item)) {
