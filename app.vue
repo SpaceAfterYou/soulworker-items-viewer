@@ -2,7 +2,7 @@
 import { useItem } from "~/stores/items";
 
 const { populate } = useItem();
-await populate();
+onBeforeMount(() => populate());
 </script>
 
 <template>
