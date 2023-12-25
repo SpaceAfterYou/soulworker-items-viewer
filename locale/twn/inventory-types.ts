@@ -4,7 +4,7 @@ import type { LocaleSidebarType } from "../types/sidebar-type";
 
 export const inventoryType = {
   values: {
-    [InventoryType.Unknown_14]: `未知`,
+    [InventoryType.SoulMate]: `未知`,
     [InventoryType.Unknown_19]: `未知`,
     [InventoryType.Fashion]: `未知`,
     [InventoryType.Common]: `未知`,
