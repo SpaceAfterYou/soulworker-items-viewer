@@ -105,8 +105,9 @@ function* getItemValues(item: Item) {
 const results = reactive<Items>([]);
 
 watch(
-  () => request,
-  () => filter(items)
+  () => [request, selectedMethod, selectedWhere],
+  () => filter(items),
+  { deep: true }
 );
 
 const filter = useDebounceFn((items: Items) => {

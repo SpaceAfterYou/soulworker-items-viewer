@@ -1,802 +1,8002 @@
 [
   {
-    "id": 820000010,
+    "id": 116213551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_022.png",
+    "class": 6
+  },
+  {
+    "id": 116211301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_005.png",
+    "class": 6
+  },
+  {
+    "id": 116212301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_005.png",
+    "class": 6
+  },
+  {
+    "id": 116223301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_005.png",
+    "class": 6
+  },
+  {
+    "id": 116233551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_023.png",
+    "class": 6
+  },
+  {
+    "id": 116241301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_006.png",
+    "class": 6
+  },
+  {
+    "id": 116242301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_006.png",
+    "class": 6
+  },
+  {
+    "id": 116253301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_006.png",
+    "class": 6
+  },
+  {
+    "id": 116263551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_024.png",
+    "class": 6
+  },
+  {
+    "id": 116261301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_007.png",
+    "class": 6
+  },
+  {
+    "id": 116262301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_007.png",
+    "class": 6
+  },
+  {
+    "id": 116273301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_007.png",
+    "class": 6
+  },
+  {
+    "id": 116283551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_025.png",
+    "class": 6
+  },
+  {
+    "id": 116281301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_008.png",
+    "class": 6
+  },
+  {
+    "id": 116282301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_008.png",
+    "class": 6
+  },
+  {
+    "id": 116293301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_008.png",
+    "class": 6
+  },
+  {
+    "id": 116303551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_014.png",
+    "class": 6
+  },
+  {
+    "id": 116301301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_009.png",
+    "class": 6
+  },
+  {
+    "id": 116302301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_009.png",
+    "class": 6
+  },
+  {
+    "id": 116313301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_009.png",
+    "class": 6
+  },
+  {
+    "id": 116323551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_026.png",
+    "class": 6
+  },
+  {
+    "id": 116331301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_010.png",
+    "class": 6
+  },
+  {
+    "id": 116332301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_010.png",
+    "class": 6
+  },
+  {
+    "id": 116343301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_010.png",
+    "class": 6
+  },
+  {
+    "id": 116353551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_027.png",
+    "class": 6
+  },
+  {
+    "id": 116361301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_011.png",
+    "class": 6
+  },
+  {
+    "id": 116362301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_011.png",
+    "class": 6
+  },
+  {
+    "id": 116373301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_011.png",
+    "class": 6
+  },
+  {
+    "id": 116383551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_028.png",
+    "class": 6
+  },
+  {
+    "id": 116381301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_012.png",
+    "class": 6
+  },
+  {
+    "id": 116382301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_012.png",
+    "class": 6
+  },
+  {
+    "id": 116393301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_012.png",
+    "class": 6
+  },
+  {
+    "id": 116403551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_029.png",
+    "class": 6
+  },
+  {
+    "id": 116411301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_040.png",
+    "class": 6
+  },
+  {
+    "id": 116412301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_040.png",
+    "class": 6
+  },
+  {
+    "id": 116423301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_040.png",
+    "class": 6
+  },
+  {
+    "id": 116433551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_030.png",
+    "class": 6
+  },
+  {
+    "id": 116431301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_041.png",
+    "class": 6
+  },
+  {
+    "id": 116432301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_041.png",
+    "class": 6
+  },
+  {
+    "id": 116443301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_041.png",
+    "class": 6
+  },
+  {
+    "id": 116453551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_031.png",
+    "class": 6
+  },
+  {
+    "id": 116451301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_042.png",
+    "class": 6
+  },
+  {
+    "id": 116452301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_042.png",
+    "class": 6
+  },
+  {
+    "id": 116463301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_042.png",
+    "class": 6
+  },
+  {
+    "id": 116473551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_032.png",
+    "class": 6
+  },
+  {
+    "id": 116471301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_043.png",
+    "class": 6
+  },
+  {
+    "id": 116472301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_043.png",
+    "class": 6
+  },
+  {
+    "id": 116483301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_043.png",
+    "class": 6
+  },
+  {
+    "id": 116493551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_033.png",
+    "class": 6
+  },
+  {
+    "id": 116491301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_044.png",
+    "class": 6
+  },
+  {
+    "id": 116492301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_044.png",
+    "class": 6
+  },
+  {
+    "id": 116503301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_045.png",
+    "class": 6
+  },
+  {
+    "id": 116513551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_034.png",
+    "class": 6
+  },
+  {
+    "id": 116511301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_045.png",
+    "class": 6
+  },
+  {
+    "id": 116512301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_046.png",
+    "class": 6
+  },
+  {
+    "id": 116523301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_046.png",
+    "class": 6
+  },
+  {
+    "id": 116533551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_035.png",
+    "class": 6
+  },
+  {
+    "id": 116531301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_047.png",
+    "class": 6
+  },
+  {
+    "id": 116532301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_047.png",
+    "class": 6
+  },
+  {
+    "id": 116543301,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_047.png",
+    "class": 6
+  },
+  {
+    "id": 116553551,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_036.png",
+    "class": 6
+  },
+  {
+    "id": 116354451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_037.png",
+    "class": 6
+  },
+  {
+    "id": 116454451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_038.png",
+    "class": 6
+  },
+  {
+    "id": 116554451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_039.png",
+    "class": 6
+  },
+  {
+    "id": 116043251,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_002.png",
+    "class": 6
+  },
+  {
+    "id": 116554351,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_015.png",
+    "class": 6
+  },
+  {
+    "id": 710554642,
     "slotType": 0,
     "inventoryType": 0,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/ETC_0_SteelGraveBox_Weapon.png",
+    "icon": "GUI/Icon/Item/BluePrint/Equip/ShoulderGear.png",
     "class": 0
   },
   {
-    "id": 820000011,
+    "id": 116554251,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_050.png",
+    "class": 6
+  },
+  {
+    "id": 710554643,
     "slotType": 0,
     "inventoryType": 0,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/ETC_0_SteelGraveBox_Gear.png",
+    "icon": "GUI/Icon/Item/BluePrint/Equip/ShoulderGear.png",
     "class": 0
   },
   {
-    "id": 820000012,
-    "slotType": 0,
+    "id": 116555351,
+    "slotType": 1,
     "inventoryType": 0,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/ETC_0_SteelGraveBox_Weapon.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_049.png",
+    "class": 6
   },
   {
-    "id": 820000013,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 263050702,
+    "slotType": 17,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/ETC_0_SteelGraveBox_Gear.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Repair1_Costume01_07.png",
+    "class": 6
   },
   {
-    "id": 820000014,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 263050802,
+    "slotType": 22,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/SGBox.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Repair1_Costume02_08.png",
+    "class": 6
   },
   {
-    "id": 820000015,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 263051102,
+    "slotType": 19,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/ETC_0_SteelGraveBox_04.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Repair1_Socks_11.png",
+    "class": 6
   },
   {
-    "id": 820000016,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261010601,
+    "slotType": 16,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/ETC_0_SteelGraveBox_04.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Underwear01.png",
+    "class": 6
   },
   {
-    "id": 820000017,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261011701,
+    "slotType": 16,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/ETC_0_SteelGraveBox_04.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Underwear01.png",
+    "class": 6
   },
   {
-    "id": 820001000,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261020601,
+    "slotType": 16,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/item/etc/GaluxyCube1.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Underwear02.png",
+    "class": 6
   },
   {
-    "id": 820001001,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261021701,
+    "slotType": 16,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/item/etc/GaluxyCube2.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Underwear02.png",
+    "class": 6
   },
   {
-    "id": 820001002,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261030601,
+    "slotType": 16,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/item/etc/GaluxyCube3.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Underwear03.png",
+    "class": 6
   },
   {
-    "id": 820001003,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261031701,
+    "slotType": 16,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/item/etc/GaluxyCube4.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Underwear03.png",
+    "class": 6
   },
   {
-    "id": 820001004,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261040601,
+    "slotType": 16,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/item/etc/GaluxyCube5.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Underwear04.png",
+    "class": 6
   },
   {
-    "id": 820001005,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261041701,
+    "slotType": 16,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/item/etc/GaluxyCube6.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Underwear04.png",
+    "class": 6
   },
   {
-    "id": 820900001,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261050601,
+    "slotType": 16,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/ETC_0_PrimiumPackage.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Underwear_S01.png",
+    "class": 6
   },
   {
-    "id": 820900002,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261060601,
+    "slotType": 16,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/ETC_0_PrimiumPackage.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Underwear_S02.png",
+    "class": 6
   },
   {
-    "id": 820900003,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261070601,
+    "slotType": 16,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/ETC_0_PrimiumPackage.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Underwear_S03.png",
+    "class": 6
   },
   {
-    "id": 820900004,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261080601,
+    "slotType": 16,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/ETC_0_PrimiumPackage.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Underwear_S04.png",
+    "class": 6
   },
   {
-    "id": 820900005,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261090601,
+    "slotType": 16,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/ETC_0_PrimiumPackage.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Underwear_S05.png",
+    "class": 6
   },
   {
-    "id": 820900011,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261100601,
+    "slotType": 16,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/ETC_0_PrimiumPackage.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Underwear05.png",
+    "class": 6
   },
   {
-    "id": 820900012,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261110601,
+    "slotType": 16,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/ETC_0_PrimiumPackage.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Underwear06.png",
+    "class": 6
   },
   {
-    "id": 820900013,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261120601,
+    "slotType": 16,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/ETC_0_PrimiumPackage.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Underwear07.png",
+    "class": 6
   },
   {
-    "id": 820900014,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261010701,
+    "slotType": 17,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/ETC_0_PrimiumPackage.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Basic1_Costume01_07.png",
+    "class": 6
   },
   {
-    "id": 820900015,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261010801,
+    "slotType": 22,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/ETC_0_PrimiumPackage.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Basic1_Costume02_08.png",
+    "class": 6
   },
   {
-    "id": 820900021,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261011101,
+    "slotType": 19,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/ETC_0_PrimiumPackage.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Basic1_Socks_11.png",
+    "class": 6
   },
   {
-    "id": 820900022,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261011201,
+    "slotType": 20,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/ETC_0_PrimiumPackage.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Basic1_Shoes_12.png",
+    "class": 6
   },
   {
-    "id": 820900023,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261020701,
+    "slotType": 17,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/ETC_0_PrimiumPackage.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Basic2_Costume01_07.png",
+    "class": 6
   },
   {
-    "id": 820900024,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261020801,
+    "slotType": 22,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/ETC_0_PrimiumPackage.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Basic2_Costume02_08.png",
+    "class": 6
   },
   {
-    "id": 820900025,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261021101,
+    "slotType": 19,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/ETC_0_PrimiumPackage.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Basic2_Socks_11.png",
+    "class": 6
   },
   {
-    "id": 820900031,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261021201,
+    "slotType": 20,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/ETC_0_PrimiumPackage.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Basic2_Shoes_12.png",
+    "class": 6
   },
   {
-    "id": 820900032,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261030701,
+    "slotType": 17,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/ETC_0_PrimiumPackage.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Basic3_Costume01_07.png",
+    "class": 6
   },
   {
-    "id": 820900033,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261030801,
+    "slotType": 22,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/ETC_0_PrimiumPackage.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Basic3_Costume02_08.png",
+    "class": 6
   },
   {
-    "id": 820900034,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261031101,
+    "slotType": 19,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/ETC_0_PrimiumPackage.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Basic3_Socks_11.png",
+    "class": 6
   },
   {
-    "id": 820900035,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261031201,
+    "slotType": 20,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/ETC_0_PrimiumPackage.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Basic3_Shoes_12.png",
+    "class": 6
   },
   {
-    "id": 820900041,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261040701,
+    "slotType": 17,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/ETC_0_PrimiumPackage.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Basic4_Costume01_07.png",
+    "class": 6
   },
   {
-    "id": 820900042,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261040801,
+    "slotType": 22,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/ETC_0_PrimiumPackage.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Basic4_Costume02_08.png",
+    "class": 6
   },
   {
-    "id": 820900043,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261041101,
+    "slotType": 19,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/ETC_0_PrimiumPackage.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Basic4_Socks_11.png",
+    "class": 6
   },
   {
-    "id": 820900044,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261041201,
+    "slotType": 20,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/ETC_0_PrimiumPackage.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Basic4_Shoes_12.png",
+    "class": 6
   },
   {
-    "id": 820900045,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 261050901,
+    "slotType": 17,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/ETC_0_PrimiumPackage.png",
-    "class": 0
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Default_Costume03_09.png",
+    "class": 6
   },
   {
-    "id": 821010001,
+    "id": 261050801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Default_Costume02_08.png",
+    "class": 6
+  },
+  {
+    "id": 261051101,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Default_Socks_11.png",
+    "class": 6
+  },
+  {
+    "id": 261051201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Default_Shoes_12.png",
+    "class": 6
+  },
+  {
+    "id": 261060101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_DealerUnion_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261060701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_DealerUnion_Costume01_07.png",
+    "class": 6
+  },
+  {
+    "id": 261060801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_DealerUnion_Costume02_08.png",
+    "class": 6
+  },
+  {
+    "id": 261061101,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_DealerUnion_Socks_11.png",
+    "class": 6
+  },
+  {
+    "id": 261061201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_DealerUnion_Shoes_12.png",
+    "class": 6
+  },
+  {
+    "id": 261070701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_SFoldtype_Costume01_07.png",
+    "class": 6
+  },
+  {
+    "id": 261070801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_SFoldtype_Costume02_08.png",
+    "class": 6
+  },
+  {
+    "id": 261071201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_SFoldtype_Shoes_12.png",
+    "class": 6
+  },
+  {
+    "id": 261080101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_CBTBonus_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261081001,
+    "slotType": 18,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_CBTBonus_Back_10.png",
+    "class": 6
+  },
+  {
+    "id": 262010101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Miner_HairCap_02.png",
+    "class": 6
+  },
+  {
+    "id": 262010401,
+    "slotType": 14,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Miner_MouthAcc_04.png",
+    "class": 6
+  },
+  {
+    "id": 262010901,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Miner_Costume03_09.png",
+    "class": 6
+  },
+  {
+    "id": 262010501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Miner_Glove_05.png",
+    "class": 6
+  },
+  {
+    "id": 262011201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Miner_Shoes_12.png",
+    "class": 6
+  },
+  {
+    "id": 262011301,
+    "slotType": 23,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Miner_Tail_13.png",
+    "class": 6
+  },
+  {
+    "id": 262020301,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NCmercenary_EyeAcc01_03.png",
+    "class": 6
+  },
+  {
+    "id": 262020401,
+    "slotType": 14,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NCmercenary_MouthAcc_04.png",
+    "class": 6
+  },
+  {
+    "id": 262020901,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NCmercenary_Costume03_09.png",
+    "class": 6
+  },
+  {
+    "id": 262020501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NCmercenary_Glove_05.png",
+    "class": 6
+  },
+  {
+    "id": 262021201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NCmercenary_Shoes_12.png",
+    "class": 6
+  },
+  {
+    "id": 262021301,
+    "slotType": 23,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NCmercenary_Tail_13.png",
+    "class": 6
+  },
+  {
+    "id": 262030101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_SFregular_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 262030701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_SFregular_Costume01_07.png",
+    "class": 6
+  },
+  {
+    "id": 262030801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_SFregular_Costume02_08.png",
+    "class": 6
+  },
+  {
+    "id": 262030301,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_SFregular_EyeAcc01_03.png",
+    "class": 6
+  },
+  {
+    "id": 262030501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_SFregular_Glove_05.png",
+    "class": 6
+  },
+  {
+    "id": 262031101,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_SFregular_Socks_11.png",
+    "class": 6
+  },
+  {
+    "id": 262031201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_SFregular_Shoes_12.png",
+    "class": 6
+  },
+  {
+    "id": 262031601,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_SFregular_HairAcc02_16.png",
+    "class": 6
+  },
+  {
+    "id": 262031001,
+    "slotType": 18,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_SFregular_Back_10.png",
+    "class": 6
+  },
+  {
+    "id": 263030701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_ModernCasual_Costume01_07.png",
+    "class": 6
+  },
+  {
+    "id": 263030801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_ModernCasual_Costume02_08.png",
+    "class": 6
+  },
+  {
+    "id": 263031101,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_ModernCasual_Socks_11.png",
+    "class": 6
+  },
+  {
+    "id": 263030501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_ModernCasual_Glove_05.png",
+    "class": 6
+  },
+  {
+    "id": 263031201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_ModernCasual_Shoes_12.png",
+    "class": 6
+  },
+  {
+    "id": 263050701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Repair1_Costume01_07.png",
+    "class": 6
+  },
+  {
+    "id": 263050801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Repair1_Costume02_08.png",
+    "class": 6
+  },
+  {
+    "id": 263051101,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Repair1_Socks_11.png",
+    "class": 6
+  },
+  {
+    "id": 263060701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Repair2_Costume01_07.png",
+    "class": 6
+  },
+  {
+    "id": 263060801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Repair2_Costume02_08.png",
+    "class": 6
+  },
+  {
+    "id": 263061101,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Repair2_Socks_11.png",
+    "class": 6
+  },
+  {
+    "id": 263070701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Repair3_Costume01_07.png",
+    "class": 6
+  },
+  {
+    "id": 263070801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Repair3_Costume02_08.png",
+    "class": 6
+  },
+  {
+    "id": 263071101,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Repair3_Socks_11.png",
+    "class": 6
+  },
+  {
+    "id": 263080701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Repair4_Costume01_07.png",
+    "class": 6
+  },
+  {
+    "id": 263080801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Repair4_Costume02_08.png",
+    "class": 6
+  },
+  {
+    "id": 263081101,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Repair4_Socks_11.png",
+    "class": 6
+  },
+  {
+    "id": 263090901,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_BeautySchool_Costume03_09.png",
+    "class": 6
+  },
+  {
+    "id": 263090101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_BeautySchool_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 263091101,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_BeautySchool_Socks_11.png",
+    "class": 6
+  },
+  {
+    "id": 263091201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_BeautySchool_Shoes_12.png",
+    "class": 6
+  },
+  {
+    "id": 263100901,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Default_Costume03_09.png",
+    "class": 6
+  },
+  {
+    "id": 263100801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Default_Costume02_08.png",
+    "class": 6
+  },
+  {
+    "id": 263101101,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Default_Socks_11.png",
+    "class": 6
+  },
+  {
+    "id": 263101201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Default_Shoes_12.png",
+    "class": 6
+  },
+  {
+    "id": 263110101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_DealerUnion_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 263110701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_DealerUnion_Costume01_07.png",
+    "class": 6
+  },
+  {
+    "id": 263110801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_DealerUnion_Costume02_08.png",
+    "class": 6
+  },
+  {
+    "id": 263111101,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_DealerUnion_Socks_11.png",
+    "class": 6
+  },
+  {
+    "id": 263111201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_DealerUnion_Shoes_12.png",
+    "class": 6
+  },
+  {
+    "id": 263120701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_SFoldtype_Costume01_07.png",
+    "class": 6
+  },
+  {
+    "id": 263120801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_SFoldtype_Costume02_08.png",
+    "class": 6
+  },
+  {
+    "id": 263121201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_SFoldtype_Shoes_12.png",
+    "class": 6
+  },
+  {
+    "id": 261691001,
+    "slotType": 18,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_CBT2Bonus_Back_10.png",
+    "class": 6
+  },
+  {
+    "id": 261090701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NormalTop1_Costume01_07.png",
+    "class": 6
+  },
+  {
+    "id": 261100701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NormalTop2_Costume01_07.png",
+    "class": 6
+  },
+  {
+    "id": 261110701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NormalTop3_Costume01_07.png",
+    "class": 6
+  },
+  {
+    "id": 261120801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NormalBottom1_Costume02_08.png",
+    "class": 6
+  },
+  {
+    "id": 261130801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NormalBottom2_Costume02_08.png",
+    "class": 6
+  },
+  {
+    "id": 261140801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NormalBottom3_Costume02_08.png",
+    "class": 6
+  },
+  {
+    "id": 261142701,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NormalBottom3_Costume02_08.png",
+    "class": 6
+  },
+  {
+    "id": 261150101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NormalHairAcc1_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261160101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NormalHairAcc2_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261170101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NormalHairAcc3_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261180101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NormalHairAcc4_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261190101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NormalHairAcc5_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261200301,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NormalEyes1_EyeAcc01_03.png",
+    "class": 6
+  },
+  {
+    "id": 261210301,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NormalEyes2_EyeAcc01_03.png",
+    "class": 6
+  },
+  {
+    "id": 261220301,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NormalEyes3_EyeAcc01_03.png",
+    "class": 6
+  },
+  {
+    "id": 261230301,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NormalEyes4_EyeAcc01_03.png",
+    "class": 6
+  },
+  {
+    "id": 261240301,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NormalEyes5_EyeAcc01_03.png",
+    "class": 6
+  },
+  {
+    "id": 261251301,
+    "slotType": 23,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NormalHip1_Tail_13.png",
+    "class": 6
+  },
+  {
+    "id": 261261301,
+    "slotType": 23,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NormalHip2_Tail_13.png",
+    "class": 6
+  },
+  {
+    "id": 261271301,
+    "slotType": 23,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NormalHip3_Tail_13.png",
+    "class": 6
+  },
+  {
+    "id": 261281301,
+    "slotType": 23,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NormalHip4_Tail_13.png",
+    "class": 6
+  },
+  {
+    "id": 261291301,
+    "slotType": 23,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NormalHip5_Tail_13.png",
+    "class": 6
+  },
+  {
+    "id": 261300501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveItem1_Glove_05.png",
+    "class": 6
+  },
+  {
+    "id": 261311301,
+    "slotType": 23,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveItem2_Tail_13.png",
+    "class": 6
+  },
+  {
+    "id": 261320101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveShop1_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261330101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveShop2_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261341301,
+    "slotType": 23,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveRepair1_Tail_13.png",
+    "class": 6
+  },
+  {
+    "id": 261351001,
+    "slotType": 18,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveRepair2_Back_10.png",
+    "class": 6
+  },
+  {
+    "id": 261360501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveDeath1_Glove_05.png",
+    "class": 6
+  },
+  {
+    "id": 261370101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveDeath2_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261380101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveSJ_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261392001,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveDoll_EyeMouth_18.png",
+    "class": 6
+  },
+  {
+    "id": 261400501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveNC_Glove_05.png",
+    "class": 6
+  },
+  {
+    "id": 261410101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveRF_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261420101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveIF_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261430301,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveNS_EyeAcc01_03.png",
+    "class": 6
+  },
+  {
+    "id": 261440501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveArmour1_Glove_05.png",
+    "class": 6
+  },
+  {
+    "id": 261451001,
+    "slotType": 18,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveArmour2_Back_10.png",
+    "class": 6
+  },
+  {
+    "id": 261460101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveCombo_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261470101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveSQ1_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261480101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveSQ2_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261490501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveMC1_Glove_05.png",
+    "class": 6
+  },
+  {
+    "id": 261501001,
+    "slotType": 18,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveMC2_Back_10.png",
+    "class": 6
+  },
+  {
+    "id": 261510101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Achieve3Min1_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261520101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Achieve3Min2_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261530101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveSSclear1_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261540101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveSSclear2_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261550101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveFClear1_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261560101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveFClear2_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261570501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveDropJ1_Glove_05.png",
+    "class": 6
+  },
+  {
+    "id": 261580101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveDropJ2_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261590501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveEther1_Glove_05.png",
+    "class": 6
+  },
+  {
+    "id": 261600301,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveEther2_EyeAcc01_03.png",
+    "class": 6
+  },
+  {
+    "id": 261611301,
+    "slotType": 23,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveTime1_Tail_13.png",
+    "class": 6
+  },
+  {
+    "id": 261621001,
+    "slotType": 18,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveTime2_Back_10.png",
+    "class": 6
+  },
+  {
+    "id": 261630101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveFatigue1_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261641001,
+    "slotType": 18,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveFatigue2_Back_10.png",
+    "class": 6
+  },
+  {
+    "id": 261650301,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveRF1_EyeAcc01_03.png",
+    "class": 6
+  },
+  {
+    "id": 261661301,
+    "slotType": 23,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveRF2_Tail_13.png",
+    "class": 6
+  },
+  {
+    "id": 261672001,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveMake1_EyeMouth_18.png",
+    "class": 6
+  },
+  {
+    "id": 261681001,
+    "slotType": 18,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveMake2_Back_10.png",
+    "class": 6
+  },
+  {
+    "id": 262040101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NCImprove_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 262040102,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NCImprove_HairAcc02_16.png",
+    "class": 6
+  },
+  {
+    "id": 262040701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NCImprove_Costume01_07.png",
+    "class": 6
+  },
+  {
+    "id": 262040801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NCImprove_Costume02_08.png",
+    "class": 6
+  },
+  {
+    "id": 262040301,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NCImprove_EyeAcc01_03.png",
+    "class": 6
+  },
+  {
+    "id": 262040501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NCImprove_Glove_05.png",
+    "class": 6
+  },
+  {
+    "id": 262041001,
+    "slotType": 18,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NCImprove_Back_10.png",
+    "class": 6
+  },
+  {
+    "id": 262041201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_NCImprove_Shoes_12.png",
+    "class": 6
+  },
+  {
+    "id": 261011401,
+    "slotType": 21,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_WPAV_002.png",
+    "class": 6
+  },
+  {
+    "id": 261702001,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_CasualRaid01.png",
+    "class": 6
+  },
+  {
+    "id": 261712001,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_CasualRaid02.png",
+    "class": 6
+  },
+  {
+    "id": 261722001,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_CasualRaid03.png",
+    "class": 6
+  },
+  {
+    "id": 261732001,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_CasualRaid04.png",
+    "class": 6
+  },
+  {
+    "id": 261010602,
+    "slotType": 16,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Underwear01.png",
+    "class": 6
+  },
+  {
+    "id": 261020602,
+    "slotType": 16,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Underwear02.png",
+    "class": 6
+  },
+  {
+    "id": 261030602,
+    "slotType": 16,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Underwear03.png",
+    "class": 6
+  },
+  {
+    "id": 261040602,
+    "slotType": 16,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Underwear04.png",
+    "class": 6
+  },
+  {
+    "id": 261050602,
+    "slotType": 16,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Underwear_S01.png",
+    "class": 6
+  },
+  {
+    "id": 261740101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Farm_Achive_01.png",
+    "class": 6
+  },
+  {
+    "id": 261750101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Farm_Achive_02.png",
+    "class": 6
+  },
+  {
+    "id": 261760101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Farm_Achive_03.png",
+    "class": 6
+  },
+  {
+    "id": 261770101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Farm_Achive_04.png",
+    "class": 6
+  },
+  {
+    "id": 261780101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Farm_Achive_05.png",
+    "class": 6
+  },
+  {
+    "id": 261790101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Farm_Achive_06.png",
+    "class": 6
+  },
+  {
+    "id": 261800501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Farm_Achive_07.png",
+    "class": 6
+  },
+  {
+    "id": 261810501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Farm_Achive_08.png",
+    "class": 6
+  },
+  {
+    "id": 261822001,
+    "slotType": 13,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_DistrictRaid01_EyeMouth_18.png",
+    "class": 6
+  },
+  {
+    "id": 261830101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_ApcalypseRaid01.png",
+    "class": 6
+  },
+  {
+    "id": 261330102,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_AchieveShop2_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261861001,
+    "slotType": 18,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Grouton2_Back_10.png",
+    "class": 6
+  },
+  {
+    "id": 261850101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Newbie2_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 261851001,
+    "slotType": 18,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Newbie2_Back_10.png",
+    "class": 6
+  },
+  {
+    "id": 262280701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Rider_Costume01_07.png",
+    "class": 6
+  },
+  {
+    "id": 262280801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Rider_Costume02_08.png",
+    "class": 6
+  },
+  {
+    "id": 262281201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Rider_Shoes_12.png",
+    "class": 6
+  },
+  {
+    "id": 262290701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Rider2_Costume01_07.png",
+    "class": 6
+  },
+  {
+    "id": 262290801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Rider2_Costume02_08.png",
+    "class": 6
+  },
+  {
+    "id": 262291201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Rider_Shoes_12.png",
+    "class": 6
+  },
+  {
+    "id": 261871001,
+    "slotType": 18,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_EQMark_Back_10.png",
+    "class": 6
+  },
+  {
+    "id": 263340701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Gatcha1_Costume01_07.png",
+    "class": 6
+  },
+  {
+    "id": 263340801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Gatcha1_Costume02_08.png",
+    "class": 6
+  },
+  {
+    "id": 263341101,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Gatcha1_Socks_11.png",
+    "class": 6
+  },
+  {
+    "id": 263341201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Gatcha1_Shoes_12.png",
+    "class": 6
+  },
+  {
+    "id": 263350701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Gatcha2_Costume01_07.png",
+    "class": 6
+  },
+  {
+    "id": 263350801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_Gatcha2_Costume02_08.png",
+    "class": 6
+  },
+  {
+    "id": 837001016,
     "slotType": 0,
     "inventoryType": 0,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_A.png",
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_CostumePackage_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 837001017,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_CostumePackage_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 837001018,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_CostumePackage_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 826010001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 861050001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 861100001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 861160001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 861220001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 861290001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 861300001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 861360001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 861400001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 861450001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 861500001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 861550001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 861600001,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_F.png",
+    "class": 6
+  },
+  {
+    "id": 820010008,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_Giftbox.png",
+    "class": 6
+  },
+  {
+    "id": 836000189,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/RandomBox.png",
+    "class": 6
+  },
+  {
+    "id": 836000190,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/RandomBox.png",
+    "class": 6
+  },
+  {
+    "id": 836000191,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/RandomBox.png",
+    "class": 6
+  },
+  {
+    "id": 836000192,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/RandomBox.png",
+    "class": 6
+  },
+  {
+    "id": 213510101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_a/PC_A_EQ_HalloPumpkin_HairAcc01_01.png",
     "class": 1
   },
   {
-    "id": 821050001,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 223540101,
+    "slotType": 12,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_A.png",
-    "class": 1
-  },
-  {
-    "id": 821100001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_A.png",
-    "class": 1
-  },
-  {
-    "id": 821160001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_A.png",
-    "class": 1
-  },
-  {
-    "id": 821220001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_A.png",
-    "class": 1
-  },
-  {
-    "id": 821290001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_A.png",
-    "class": 1
-  },
-  {
-    "id": 821300001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_A.png",
-    "class": 1
-  },
-  {
-    "id": 821360001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_A.png",
-    "class": 1
-  },
-  {
-    "id": 821400001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_A.png",
-    "class": 1
-  },
-  {
-    "id": 821450001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_A.png",
-    "class": 1
-  },
-  {
-    "id": 821500001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_A.png",
-    "class": 1
-  },
-  {
-    "id": 821550001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_A.png",
-    "class": 1
-  },
-  {
-    "id": 821600001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_A.png",
-    "class": 1
-  },
-  {
-    "id": 822010001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_B.png",
+    "icon": "GUI/Icon/Item/Costume/PC_B/PC_B_EQ_HalloPumpkin_HairAcc01_01.png",
     "class": 2
   },
   {
-    "id": 822050001,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 233450101,
+    "slotType": 12,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_B.png",
-    "class": 2
-  },
-  {
-    "id": 822100001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_B.png",
-    "class": 2
-  },
-  {
-    "id": 822160001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_B.png",
-    "class": 2
-  },
-  {
-    "id": 822220001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_B.png",
-    "class": 2
-  },
-  {
-    "id": 822290001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_B.png",
-    "class": 2
-  },
-  {
-    "id": 822300001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_B.png",
-    "class": 2
-  },
-  {
-    "id": 822360001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_B.png",
-    "class": 2
-  },
-  {
-    "id": 822400001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_B.png",
-    "class": 2
-  },
-  {
-    "id": 822450001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_B.png",
-    "class": 2
-  },
-  {
-    "id": 822500001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_B.png",
-    "class": 2
-  },
-  {
-    "id": 822550001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_B.png",
-    "class": 2
-  },
-  {
-    "id": 822600001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_B.png",
-    "class": 2
-  },
-  {
-    "id": 823010001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_C.png",
+    "icon": "GUI/Icon/Item/Costume/PC_C/PC_C_EQ_HalloPumpkin_HairAcc01_01.png",
     "class": 3
   },
   {
-    "id": 823050001,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 243550101,
+    "slotType": 12,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_C.png",
-    "class": 3
-  },
-  {
-    "id": 823100001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_C.png",
-    "class": 3
-  },
-  {
-    "id": 823160001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_C.png",
-    "class": 3
-  },
-  {
-    "id": 823220001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_C.png",
-    "class": 3
-  },
-  {
-    "id": 823290001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_C.png",
-    "class": 3
-  },
-  {
-    "id": 823300001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_C.png",
-    "class": 3
-  },
-  {
-    "id": 823360001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_C.png",
-    "class": 3
-  },
-  {
-    "id": 823400001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_C.png",
-    "class": 3
-  },
-  {
-    "id": 823450001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_C.png",
-    "class": 3
-  },
-  {
-    "id": 823500001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_C.png",
-    "class": 3
-  },
-  {
-    "id": 823550001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_C.png",
-    "class": 3
-  },
-  {
-    "id": 823600001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_C.png",
-    "class": 3
-  },
-  {
-    "id": 825010001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_E.png",
-    "class": 5
-  },
-  {
-    "id": 825050001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_E.png",
-    "class": 5
-  },
-  {
-    "id": 825100001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_E.png",
-    "class": 5
-  },
-  {
-    "id": 825160001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_E.png",
-    "class": 5
-  },
-  {
-    "id": 825220001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_E.png",
-    "class": 5
-  },
-  {
-    "id": 825290001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_E.png",
-    "class": 5
-  },
-  {
-    "id": 825300001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_E.png",
-    "class": 5
-  },
-  {
-    "id": 825360001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_E.png",
-    "class": 5
-  },
-  {
-    "id": 825400001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_E.png",
-    "class": 5
-  },
-  {
-    "id": 825450001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_E.png",
-    "class": 5
-  },
-  {
-    "id": 825500001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_E.png",
-    "class": 5
-  },
-  {
-    "id": 825550001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_E.png",
-    "class": 5
-  },
-  {
-    "id": 825600001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_E.png",
-    "class": 5
-  },
-  {
-    "id": 824010001,
-    "slotType": 0,
-    "inventoryType": 0,
-    "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_D.png",
+    "icon": "GUI/Icon/Item/Costume/PC_D/PC_D_EQ_HalloPumpkin_HairAcc01_01.png",
     "class": 4
   },
   {
-    "id": 824050001,
+    "id": 253500101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_E/PC_E_EQ_HalloPumpkin_HairAcc01_01.png",
+    "class": 5
+  },
+  {
+    "id": 800000009,
     "slotType": 0,
     "inventoryType": 0,
+    "gainType": 2,
+    "icon": "GUI/Icon/Item/etc/ETC_0_HaloweenCoin.png",
+    "class": 0
+  },
+  {
+    "id": 834000016,
+    "slotType": 0,
+    "inventoryType": 13,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_D.png",
+    "icon": "GUI/Icon/Item/Cash/ETC_0_Extraction_Chip.png",
+    "class": 0
+  },
+  {
+    "id": 813420901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 1
+  },
+  {
+    "id": 813420101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 1
+  },
+  {
+    "id": 813421101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 1
+  },
+  {
+    "id": 813421201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 1
+  },
+  {
+    "id": 823420901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823421601,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823420501,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 823421201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 2
+  },
+  {
+    "id": 833460901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833470101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833480501,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833491101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 833501201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 3
+  },
+  {
+    "id": 843420901,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
     "class": 4
   },
   {
-    "id": 824100001,
+    "id": 843420201,
     "slotType": 0,
-    "inventoryType": 0,
+    "inventoryType": 13,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_D.png",
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
     "class": 4
   },
   {
-    "id": 824160001,
+    "id": 843420501,
     "slotType": 0,
-    "inventoryType": 0,
+    "inventoryType": 13,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_D.png",
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
     "class": 4
   },
   {
-    "id": 824220001,
+    "id": 843421201,
     "slotType": 0,
-    "inventoryType": 0,
+    "inventoryType": 13,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_D.png",
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
     "class": 4
   },
   {
-    "id": 824290001,
+    "id": 853420901,
     "slotType": 0,
-    "inventoryType": 0,
+    "inventoryType": 13,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_D.png",
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853420101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853420501,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853421101,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 853421201,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 5
+  },
+  {
+    "id": 223420901,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_B/PC_B_EQ_Sprite_Costume03_09.png",
+    "class": 2
+  },
+  {
+    "id": 223421601,
+    "slotType": 11,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_B/PC_B_EQ_Sprite_EarAcc_92.png",
+    "class": 2
+  },
+  {
+    "id": 223420501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_B/PC_B_EQ_Sprite_Glove_05.png",
+    "class": 2
+  },
+  {
+    "id": 223421201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_B/PC_B_EQ_Sprite_Shoes_12.png",
+    "class": 2
+  },
+  {
+    "id": 243420901,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_D/PC_D_EQ_PassionCaptain_Costume03_09.png",
     "class": 4
   },
   {
-    "id": 824300001,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 243420801,
+    "slotType": 22,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_D.png",
+    "icon": "",
     "class": 4
   },
   {
-    "id": 824360001,
-    "slotType": 0,
-    "inventoryType": 0,
+    "id": 243422801,
+    "slotType": 17,
+    "inventoryType": 2,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_D.png",
+    "icon": "",
     "class": 4
   },
   {
-    "id": 824400001,
+    "id": 243420201,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_D/PC_D_EQ_PassionCaptain_HairCap_02.png",
+    "class": 4
+  },
+  {
+    "id": 243420501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_D/PC_D_EQ_PassionCaptain_Glove_05.png",
+    "class": 4
+  },
+  {
+    "id": 243421201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_D/PC_D_EQ_PassionCaptain_Shoes_12.png",
+    "class": 4
+  },
+  {
+    "id": 253420901,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_E/PC_E_EQ_Alps_Costume03_09.png",
+    "class": 5
+  },
+  {
+    "id": 253420101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_E/PC_E_EQ_Alps_HairAcc01_01.png",
+    "class": 5
+  },
+  {
+    "id": 253420501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_E/PC_E_EQ_Alps_Glove_05.png",
+    "class": 5
+  },
+  {
+    "id": 253421101,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_E/PC_E_EQ_Alps_Socks_11.png",
+    "class": 5
+  },
+  {
+    "id": 253421201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_E/PC_E_EQ_Alps_Shoes_12.png",
+    "class": 5
+  },
+  {
+    "id": 213420901,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_A/PC_A_EQ_Sakura_Costume03_09.png",
+    "class": 1
+  },
+  {
+    "id": 213420101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_A/PC_A_EQ_Sakura_HairAcc01_01.png",
+    "class": 1
+  },
+  {
+    "id": 213421101,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_A/PC_A_EQ_Sakura_Socks_11.png",
+    "class": 1
+  },
+  {
+    "id": 213421201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_A/PC_A_EQ_Sakura_Shoes_12.png",
+    "class": 1
+  },
+  {
+    "id": 233460901,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_C/PC_C_EQ_FairyQueen_Costume03_09.png",
+    "class": 3
+  },
+  {
+    "id": 233470101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_C/PC_C_EQ_FairyQueen_HairAcc01_01.png",
+    "class": 3
+  },
+  {
+    "id": 233480501,
+    "slotType": 15,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_C/PC_C_EQ_FairyQueen_Glove_05.png",
+    "class": 3
+  },
+  {
+    "id": 233491101,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_C/PC_C_EQ_FairyQueen_Socks_11.png",
+    "class": 3
+  },
+  {
+    "id": 233501201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_C/PC_C_EQ_FairyQueen_Shoes_12.png",
+    "class": 3
+  },
+  {
+    "id": 837000159,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_BroachPackage.png",
+    "class": 0
+  },
+  {
+    "id": 837000160,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_BroachPackage.png",
+    "class": 0
+  },
+  {
+    "id": 837000161,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_BroachPackage.png",
+    "class": 0
+  },
+  {
+    "id": 837000162,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_BroachPackage.png",
+    "class": 0
+  },
+  {
+    "id": 837000163,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_BroachPackage.png",
+    "class": 0
+  },
+  {
+    "id": 837000164,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_BroachPackage.png",
+    "class": 0
+  },
+  {
+    "id": 837000165,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_BroachPackage.png",
+    "class": 0
+  },
+  {
+    "id": 837000166,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_BroachPackage.png",
+    "class": 0
+  },
+  {
+    "id": 837000167,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_BroachPackage.png",
+    "class": 0
+  },
+  {
+    "id": 837000168,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_BroachPackage.png",
+    "class": 0
+  },
+  {
+    "id": 837000169,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_BroachPackage.png",
+    "class": 0
+  },
+  {
+    "id": 837000170,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_BroachPackage.png",
+    "class": 0
+  },
+  {
+    "id": 837000171,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/ETC_0_BroachPackage.png",
+    "class": 0
+  },
+  {
+    "id": 111164351,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_A/SOU_0_GolemDestroyingSword.png",
+    "class": 1
+  },
+  {
+    "id": 112164351,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_B/SOU_0_GolemDestroyingGun.png",
+    "class": 2
+  },
+  {
+    "id": 113164351,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_C/SOU_0_GolemDestroyingScythe.png",
+    "class": 3
+  },
+  {
+    "id": 114164351,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_GolemDestroyingArm.png",
+    "class": 4
+  },
+  {
+    "id": 115164351,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_E/SOU_0_GolemDestroyingGuitar.png",
+    "class": 5
+  },
+  {
+    "id": 116164351,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_020.png",
+    "class": 6
+  },
+  {
+    "id": 111264351,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_A/SOU_0_GriefSkiesSlayer.png",
+    "class": 1
+  },
+  {
+    "id": 112264351,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_B/SOU_0_GriefSkiesBuster.png",
+    "class": 2
+  },
+  {
+    "id": 113264351,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_C/SOU_0_GriefSkiesRipper.png",
+    "class": 3
+  },
+  {
+    "id": 114264351,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_GriefSkiesPuncher.png",
+    "class": 4
+  },
+  {
+    "id": 115264351,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_E/SOU_0_GriefSkiesHowler.png",
+    "class": 5
+  },
+  {
+    "id": 116264351,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_024.png",
+    "class": 6
+  },
+  {
+    "id": 111404351,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_A/SOU_0_SwordofHollowVengeance.png",
+    "class": 1
+  },
+  {
+    "id": 112404351,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_B/SOU_0_GunofHollowVengeance.png",
+    "class": 2
+  },
+  {
+    "id": 113404351,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_C/SOU_0_ScytheofHollowVengeance.png",
+    "class": 3
+  },
+  {
+    "id": 114404351,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_GauntletofHollowVengeance.png",
+    "class": 4
+  },
+  {
+    "id": 115404351,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_E/SOU_0_GuitarofHollowVengeance.png",
+    "class": 5
+  },
+  {
+    "id": 116404351,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_029.png",
+    "class": 6
+  },
+  {
+    "id": 111554351,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_A/SOU_0_GlaresForceSaber.png",
+    "class": 1
+  },
+  {
+    "id": 112554351,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_B/SOU_0_GlaresForceBlaster.png",
+    "class": 2
+  },
+  {
+    "id": 113554351,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_C/SOU_0_GlaresForceScythe.png",
+    "class": 3
+  },
+  {
+    "id": 114554352,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_GlaresForceReacher.png",
+    "class": 4
+  },
+  {
+    "id": 115554351,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_E/SOU_0_GlaresForceRoar.png",
+    "class": 5
+  },
+  {
+    "id": 116554352,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_036.png",
+    "class": 6
+  },
+  {
+    "id": 511164351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/HeadGear/GEA_RockProtectionHead.png",
+    "class": 1
+  },
+  {
+    "id": 512164351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 513164351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 514164351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 515164351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 5
+  },
+  {
+    "id": 516164351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 6
+  },
+  {
+    "id": 511264351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/HeadGear/GEA_HollowHeartsHead.png",
+    "class": 1
+  },
+  {
+    "id": 512264351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 513264351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 514264351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 515264351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 5
+  },
+  {
+    "id": 516264351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 6
+  },
+  {
+    "id": 511404351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/HeadGear/GEA_0_UnforgivenViceHead.png",
+    "class": 1
+  },
+  {
+    "id": 512404351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 513404351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 514404351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 515404351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 5
+  },
+  {
+    "id": 516404351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 6
+  },
+  {
+    "id": 511554351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/HeadGear/GEA_0_GlaresForceHead.png",
+    "class": 1
+  },
+  {
+    "id": 512554351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 513554351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 514554351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 515554351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 5
+  },
+  {
+    "id": 516554351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 6
+  },
+  {
+    "id": 521164351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/ShoulderGear/GEA_RockProtectionShoulder.png",
+    "class": 1
+  },
+  {
+    "id": 522164351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 523164351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 524164351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 525164351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 5
+  },
+  {
+    "id": 526164351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 6
+  },
+  {
+    "id": 521264351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/ShoulderGear/GEA_HollowHeartsShoulder.png",
+    "class": 1
+  },
+  {
+    "id": 522264351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 523264351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 524264351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 525264351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 5
+  },
+  {
+    "id": 526264351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 6
+  },
+  {
+    "id": 521404351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/ShoulderGear/GEA_0_UnforgivenViceShoulder.png",
+    "class": 1
+  },
+  {
+    "id": 522404351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 523404351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 524404351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 525404351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 5
+  },
+  {
+    "id": 526404351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 6
+  },
+  {
+    "id": 521554351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/ShoulderGear/GEA_0_GlaresForceShoulder.png",
+    "class": 1
+  },
+  {
+    "id": 522554351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 523554351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 524554351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 525554351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 5
+  },
+  {
+    "id": 526554351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 6
+  },
+  {
+    "id": 531164351,
+    "slotType": 171,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/BodyGear/GEA_RockProtectionBody.png",
+    "class": 1
+  },
+  {
+    "id": 532164351,
+    "slotType": 171,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 533164351,
+    "slotType": 171,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 534164351,
+    "slotType": 171,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 535164351,
+    "slotType": 171,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 5
+  },
+  {
+    "id": 536164351,
+    "slotType": 171,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 6
+  },
+  {
+    "id": 531264351,
+    "slotType": 171,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/BodyGear/GEA_HollowHeartsBody.png",
+    "class": 1
+  },
+  {
+    "id": 532264351,
+    "slotType": 171,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 533264351,
+    "slotType": 171,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 534264351,
+    "slotType": 171,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 535264351,
+    "slotType": 171,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 5
+  },
+  {
+    "id": 536264351,
+    "slotType": 171,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 6
+  },
+  {
+    "id": 531404351,
+    "slotType": 171,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/BodyGear/GEA_0_UnforgivenViceBody.png",
+    "class": 1
+  },
+  {
+    "id": 532404351,
+    "slotType": 171,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 533404351,
+    "slotType": 171,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 534404351,
+    "slotType": 171,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 535404351,
+    "slotType": 171,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 5
+  },
+  {
+    "id": 536404351,
+    "slotType": 171,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 6
+  },
+  {
+    "id": 531554351,
+    "slotType": 171,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/BodyGear/GEA_0_GlaresForceBody.png",
+    "class": 1
+  },
+  {
+    "id": 532554351,
+    "slotType": 171,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 533554351,
+    "slotType": 171,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 534554351,
+    "slotType": 171,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 535554351,
+    "slotType": 171,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 5
+  },
+  {
+    "id": 536554351,
+    "slotType": 171,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 6
+  },
+  {
+    "id": 541164351,
+    "slotType": 181,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/LegGear/GEA_RockProtectionLeg.png",
+    "class": 1
+  },
+  {
+    "id": 542164351,
+    "slotType": 181,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 543164351,
+    "slotType": 181,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 544164351,
+    "slotType": 181,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 545164351,
+    "slotType": 181,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 5
+  },
+  {
+    "id": 546164351,
+    "slotType": 181,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 6
+  },
+  {
+    "id": 541264351,
+    "slotType": 181,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/LegGear/GEA_HollowHeartsLeg.png",
+    "class": 1
+  },
+  {
+    "id": 542264351,
+    "slotType": 181,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 543264351,
+    "slotType": 181,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 544264351,
+    "slotType": 181,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 545264351,
+    "slotType": 181,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 5
+  },
+  {
+    "id": 546264351,
+    "slotType": 181,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 6
+  },
+  {
+    "id": 541404351,
+    "slotType": 181,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/LegGear/GEA_0_UnforgivenViceLeg.png",
+    "class": 1
+  },
+  {
+    "id": 542404351,
+    "slotType": 181,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 543404351,
+    "slotType": 181,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 544404351,
+    "slotType": 181,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 545404351,
+    "slotType": 181,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 5
+  },
+  {
+    "id": 546404351,
+    "slotType": 181,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 6
+  },
+  {
+    "id": 541554351,
+    "slotType": 181,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/LegGear/GEA_0_GlaresForceLeg.png",
+    "class": 1
+  },
+  {
+    "id": 542554351,
+    "slotType": 181,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 543554351,
+    "slotType": 181,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 544554351,
+    "slotType": 181,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 545554351,
+    "slotType": 181,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 5
+  },
+  {
+    "id": 546554351,
+    "slotType": 181,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 6
+  },
+  {
+    "id": 213450101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_A/PC_A_EQ_LovelyDate_HairAcc01_01.png",
+    "class": 1
+  },
+  {
+    "id": 213450701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_A/PC_A_EQ_LovelyDate_Costume01_07.png",
+    "class": 1
+  },
+  {
+    "id": 213450801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_A/PC_A_EQ_LovelyDate_Costume02_08.png",
+    "class": 1
+  },
+  {
+    "id": 213451101,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_A/PC_A_EQ_LovelyDate_Socks_11.png",
+    "class": 1
+  },
+  {
+    "id": 213451201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_A/PC_A_EQ_LovelyDate_Shoes_12.png",
+    "class": 1
+  },
+  {
+    "id": 223450101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_B/PC_B_EQ_RockStar_HairAcc01_01.png",
+    "class": 2
+  },
+  {
+    "id": 223450701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_B/PC_B_EQ_RockStar_Costume01_07.png",
+    "class": 2
+  },
+  {
+    "id": 223450801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_B/PC_B_EQ_RockStar_Costume02_08.png",
+    "class": 2
+  },
+  {
+    "id": 223452701,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_B/PC_B_EQ_RockStar_Costume02_08.png",
+    "class": 2
+  },
+  {
+    "id": 223451201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_B/PC_B_EQ_RockStar_Shoes_12.png",
+    "class": 2
+  },
+  {
+    "id": 233510101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_C/PC_C_EQ_LovelyDate_HairAcc01_01.png",
+    "class": 3
+  },
+  {
+    "id": 233510701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_C/PC_C_EQ_LovelyDate_Costume01_07.png",
+    "class": 3
+  },
+  {
+    "id": 233510801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_C/PC_C_EQ_LovelyDate_Costume02_08.png",
+    "class": 3
+  },
+  {
+    "id": 233511101,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_C/PC_C_EQ_LovelyDate_Socks_11.png",
+    "class": 3
+  },
+  {
+    "id": 233511201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_C/PC_C_EQ_LovelyDate_Shoes_12.png",
+    "class": 3
+  },
+  {
+    "id": 243450101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_D/PC_D_EQ_RockStar_HairAcc01_01.png",
+    "class": 4
+  },
+  {
+    "id": 243450701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_D/PC_D_EQ_RockStar_Costume01_07.png",
+    "class": 4
+  },
+  {
+    "id": 243450801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_D/PC_D_EQ_RockStar_Costume02_08.png",
+    "class": 4
+  },
+  {
+    "id": 243452701,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_D/PC_D_EQ_RockStar_Costume02_08.png",
+    "class": 4
+  },
+  {
+    "id": 243451201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_D/PC_D_EQ_RockStar_Shoes_12.png",
+    "class": 4
+  },
+  {
+    "id": 253450101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_E/PC_E_EQ_LovelyDate_HairAcc01_01.png",
+    "class": 5
+  },
+  {
+    "id": 253450701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_E/PC_E_EQ_LovelyDate_Costume01_07.png",
+    "class": 5
+  },
+  {
+    "id": 253450801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_E/PC_E_EQ_LovelyDate_Costume02_08.png",
+    "class": 5
+  },
+  {
+    "id": 253451101,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_E/PC_E_EQ_LovelyDate_Socks_11.png",
+    "class": 5
+  },
+  {
+    "id": 253451201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_E/PC_E_EQ_LovelyDate_Shoes_12.png",
+    "class": 5
+  },
+  {
+    "id": 263450101,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_LovelyDate_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 263450701,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_LovelyDate_Costume01_07.png",
+    "class": 6
+  },
+  {
+    "id": 263450801,
+    "slotType": 22,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_LovelyDate_Costume02_08.png",
+    "class": 6
+  },
+  {
+    "id": 263451101,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_LovelyDate_Socks_11.png",
+    "class": 6
+  },
+  {
+    "id": 263451201,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_LovelyDate_Shoes_12.png",
+    "class": 6
+  },
+  {
+    "id": 836000150,
     "slotType": 0,
     "inventoryType": 0,
     "gainType": 0,
-    "icon": "GUI/Icon/Item/Function/Package/PackageBox_PC_D.png",
+    "icon": "GUI/Icon/Item/Function/Package/SteelGraveBox_00.png",
+    "class": 0
+  },
+  {
+    "id": 836000151,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/SteelGraveBox_00.png",
+    "class": 1
+  },
+  {
+    "id": 836000193,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/SteelGraveBox_00.png",
+    "class": 2
+  },
+  {
+    "id": 836000194,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/SteelGraveBox_00.png",
+    "class": 3
+  },
+  {
+    "id": 836000195,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/SteelGraveBox_00.png",
     "class": 4
+  },
+  {
+    "id": 836000196,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/SteelGraveBox_00.png",
+    "class": 5
+  },
+  {
+    "id": 836000197,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/SteelGraveBox_00.png",
+    "class": 6
+  },
+  {
+    "id": 836000198,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/SteelGraveBox_00.png",
+    "class": 0
+  },
+  {
+    "id": 836000199,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/SteelGraveBox_00.png",
+    "class": 1
+  },
+  {
+    "id": 836000200,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/SteelGraveBox_00.png",
+    "class": 2
+  },
+  {
+    "id": 836000210,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/SteelGraveBox_00.png",
+    "class": 3
+  },
+  {
+    "id": 836000211,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/SteelGraveBox_00.png",
+    "class": 4
+  },
+  {
+    "id": 836000212,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/SteelGraveBox_00.png",
+    "class": 5
+  },
+  {
+    "id": 836000213,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/SteelGraveBox_00.png",
+    "class": 6
+  },
+  {
+    "id": 836000214,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/SteelGraveBox_00.png",
+    "class": 0
+  },
+  {
+    "id": 836000215,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/SteelGraveBox_00.png",
+    "class": 1
+  },
+  {
+    "id": 836000216,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/SteelGraveBox_00.png",
+    "class": 2
+  },
+  {
+    "id": 836000217,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/SteelGraveBox_00.png",
+    "class": 3
+  },
+  {
+    "id": 836000218,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/SteelGraveBox_00.png",
+    "class": 4
+  },
+  {
+    "id": 836000219,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/SteelGraveBox_00.png",
+    "class": 5
+  },
+  {
+    "id": 836000220,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/SteelGraveBox_00.png",
+    "class": 6
+  },
+  {
+    "id": 836000221,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/SteelGraveBox_00.png",
+    "class": 0
+  },
+  {
+    "id": 836000222,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/SteelGraveBox_00.png",
+    "class": 0
+  },
+  {
+    "id": 836000223,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/SteelGraveBox_00.png",
+    "class": 0
+  },
+  {
+    "id": 836000224,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox_00.png",
+    "class": 0
+  },
+  {
+    "id": 836000225,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox_00.png",
+    "class": 0
+  },
+  {
+    "id": 836000226,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 0
+  },
+  {
+    "id": 836000227,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 0
+  },
+  {
+    "id": 836000228,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Etc/ETC_0_SLimitedARTransfer.png",
+    "class": 0
+  },
+  {
+    "id": 410553552,
+    "slotType": 111,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Accessory/Pendant/ACC_0_GlaresShardPendant.png",
+    "class": 0
+  },
+  {
+    "id": 430553552,
+    "slotType": 131,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Accessory/Earring/ACC_0_GlaresShardEarring.png",
+    "class": 0
+  },
+  {
+    "id": 440553552,
+    "slotType": 141,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Accessory/Ring/ACC_0_GlaresShardRing.png",
+    "class": 0
+  },
+  {
+    "id": 440553353,
+    "slotType": 141,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Accessory/ring/ACC_0_GlaresShardEnergyRing.png",
+    "class": 0
+  },
+  {
+    "id": 711164314,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC1.png",
+    "class": 1
+  },
+  {
+    "id": 712164314,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC2.png",
+    "class": 2
+  },
+  {
+    "id": 713164314,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC3.png",
+    "class": 3
+  },
+  {
+    "id": 714164314,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC4.png",
+    "class": 4
+  },
+  {
+    "id": 715164314,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC5.png",
+    "class": 5
+  },
+  {
+    "id": 716164314,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC6.png",
+    "class": 6
+  },
+  {
+    "id": 711264314,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC1.png",
+    "class": 1
+  },
+  {
+    "id": 712264314,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC2.png",
+    "class": 2
+  },
+  {
+    "id": 713264314,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC3.png",
+    "class": 3
+  },
+  {
+    "id": 714264314,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC4.png",
+    "class": 4
+  },
+  {
+    "id": 715264314,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC5.png",
+    "class": 5
+  },
+  {
+    "id": 716264314,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC6.png",
+    "class": 6
+  },
+  {
+    "id": 711404314,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC1.png",
+    "class": 1
+  },
+  {
+    "id": 712404314,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC2.png",
+    "class": 2
+  },
+  {
+    "id": 713404314,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC3.png",
+    "class": 3
+  },
+  {
+    "id": 714404314,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC4.png",
+    "class": 4
+  },
+  {
+    "id": 715404314,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC5.png",
+    "class": 5
+  },
+  {
+    "id": 716404314,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC6.png",
+    "class": 6
+  },
+  {
+    "id": 711554314,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC1.png",
+    "class": 1
+  },
+  {
+    "id": 712554314,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC2.png",
+    "class": 2
+  },
+  {
+    "id": 713554314,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC3.png",
+    "class": 3
+  },
+  {
+    "id": 714554314,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC4.png",
+    "class": 4
+  },
+  {
+    "id": 715554314,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC5.png",
+    "class": 5
+  },
+  {
+    "id": 716554314,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC6.png",
+    "class": 6
+  },
+  {
+    "id": 711164334,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/HeadGear.png",
+    "class": 1
+  },
+  {
+    "id": 712164334,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/HeadGear.png",
+    "class": 2
+  },
+  {
+    "id": 713164334,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/HeadGear.png",
+    "class": 3
+  },
+  {
+    "id": 714164334,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/HeadGear.png",
+    "class": 4
+  },
+  {
+    "id": 715164334,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/HeadGear.png",
+    "class": 5
+  },
+  {
+    "id": 716164334,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/HeadGear.png",
+    "class": 6
+  },
+  {
+    "id": 711264334,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/HeadGear.png",
+    "class": 1
+  },
+  {
+    "id": 712264334,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/HeadGear.png",
+    "class": 2
+  },
+  {
+    "id": 713264334,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/HeadGear.png",
+    "class": 3
+  },
+  {
+    "id": 714264334,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/HeadGear.png",
+    "class": 4
+  },
+  {
+    "id": 715264334,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/HeadGear.png",
+    "class": 5
+  },
+  {
+    "id": 716264334,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/HeadGear.png",
+    "class": 6
+  },
+  {
+    "id": 711404334,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/HeadGear.png",
+    "class": 1
+  },
+  {
+    "id": 712404334,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/HeadGear.png",
+    "class": 2
+  },
+  {
+    "id": 713404334,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/HeadGear.png",
+    "class": 3
+  },
+  {
+    "id": 714404334,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/HeadGear.png",
+    "class": 4
+  },
+  {
+    "id": 715404334,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/HeadGear.png",
+    "class": 5
+  },
+  {
+    "id": 716404334,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/HeadGear.png",
+    "class": 6
+  },
+  {
+    "id": 711554334,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/HeadGear.png",
+    "class": 1
+  },
+  {
+    "id": 712554334,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/HeadGear.png",
+    "class": 2
+  },
+  {
+    "id": 713554334,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/HeadGear.png",
+    "class": 3
+  },
+  {
+    "id": 714554334,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/HeadGear.png",
+    "class": 4
+  },
+  {
+    "id": 715554334,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/HeadGear.png",
+    "class": 5
+  },
+  {
+    "id": 716554334,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/HeadGear.png",
+    "class": 6
+  },
+  {
+    "id": 711164344,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/ShoulderGear.png",
+    "class": 1
+  },
+  {
+    "id": 712164344,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/ShoulderGear.png",
+    "class": 2
+  },
+  {
+    "id": 713164344,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/ShoulderGear.png",
+    "class": 3
+  },
+  {
+    "id": 714164344,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/ShoulderGear.png",
+    "class": 4
+  },
+  {
+    "id": 715164344,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/ShoulderGear.png",
+    "class": 5
+  },
+  {
+    "id": 716164344,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/ShoulderGear.png",
+    "class": 6
+  },
+  {
+    "id": 711264344,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/ShoulderGear.png",
+    "class": 1
+  },
+  {
+    "id": 712264344,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/ShoulderGear.png",
+    "class": 2
+  },
+  {
+    "id": 713264344,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/ShoulderGear.png",
+    "class": 3
+  },
+  {
+    "id": 714264344,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/ShoulderGear.png",
+    "class": 4
+  },
+  {
+    "id": 715264344,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/ShoulderGear.png",
+    "class": 5
+  },
+  {
+    "id": 716264344,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/ShoulderGear.png",
+    "class": 6
+  },
+  {
+    "id": 711404344,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/ShoulderGear.png",
+    "class": 1
+  },
+  {
+    "id": 712404344,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/ShoulderGear.png",
+    "class": 2
+  },
+  {
+    "id": 713404344,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/ShoulderGear.png",
+    "class": 3
+  },
+  {
+    "id": 714404344,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/ShoulderGear.png",
+    "class": 4
+  },
+  {
+    "id": 715404344,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/ShoulderGear.png",
+    "class": 5
+  },
+  {
+    "id": 716404344,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/ShoulderGear.png",
+    "class": 6
+  },
+  {
+    "id": 711554344,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/ShoulderGear.png",
+    "class": 1
+  },
+  {
+    "id": 712554344,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/ShoulderGear.png",
+    "class": 2
+  },
+  {
+    "id": 713554344,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/ShoulderGear.png",
+    "class": 3
+  },
+  {
+    "id": 714554344,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/ShoulderGear.png",
+    "class": 4
+  },
+  {
+    "id": 715554344,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/ShoulderGear.png",
+    "class": 5
+  },
+  {
+    "id": 716554344,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/ShoulderGear.png",
+    "class": 6
+  },
+  {
+    "id": 711164354,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/BodyGear.png",
+    "class": 1
+  },
+  {
+    "id": 712164354,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/BodyGear.png",
+    "class": 2
+  },
+  {
+    "id": 713164354,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/BodyGear.png",
+    "class": 3
+  },
+  {
+    "id": 714164354,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/BodyGear.png",
+    "class": 4
+  },
+  {
+    "id": 715164354,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/BodyGear.png",
+    "class": 5
+  },
+  {
+    "id": 716164354,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/BodyGear.png",
+    "class": 6
+  },
+  {
+    "id": 711264354,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/BodyGear.png",
+    "class": 1
+  },
+  {
+    "id": 712264354,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/BodyGear.png",
+    "class": 2
+  },
+  {
+    "id": 713264354,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/BodyGear.png",
+    "class": 3
+  },
+  {
+    "id": 714264354,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/BodyGear.png",
+    "class": 4
+  },
+  {
+    "id": 715264354,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/BodyGear.png",
+    "class": 5
+  },
+  {
+    "id": 716264354,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/BodyGear.png",
+    "class": 6
+  },
+  {
+    "id": 711404354,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/BodyGear.png",
+    "class": 1
+  },
+  {
+    "id": 712404354,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/BodyGear.png",
+    "class": 2
+  },
+  {
+    "id": 713404354,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/BodyGear.png",
+    "class": 3
+  },
+  {
+    "id": 714404354,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/BodyGear.png",
+    "class": 4
+  },
+  {
+    "id": 715404354,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/BodyGear.png",
+    "class": 5
+  },
+  {
+    "id": 716404354,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/BodyGear.png",
+    "class": 6
+  },
+  {
+    "id": 711554354,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/BodyGear.png",
+    "class": 1
+  },
+  {
+    "id": 712554354,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/BodyGear.png",
+    "class": 2
+  },
+  {
+    "id": 713554354,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/BodyGear.png",
+    "class": 3
+  },
+  {
+    "id": 714554354,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/BodyGear.png",
+    "class": 4
+  },
+  {
+    "id": 715554354,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/BodyGear.png",
+    "class": 5
+  },
+  {
+    "id": 716554354,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/BodyGear.png",
+    "class": 6
+  },
+  {
+    "id": 711164364,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/LegGear.png",
+    "class": 1
+  },
+  {
+    "id": 712164364,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/LegGear.png",
+    "class": 2
+  },
+  {
+    "id": 713164364,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/LegGear.png",
+    "class": 3
+  },
+  {
+    "id": 714164364,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/LegGear.png",
+    "class": 4
+  },
+  {
+    "id": 715164364,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/LegGear.png",
+    "class": 5
+  },
+  {
+    "id": 716164364,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/LegGear.png",
+    "class": 6
+  },
+  {
+    "id": 711264364,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/LegGear.png",
+    "class": 1
+  },
+  {
+    "id": 712264364,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/LegGear.png",
+    "class": 2
+  },
+  {
+    "id": 713264364,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/LegGear.png",
+    "class": 3
+  },
+  {
+    "id": 714264364,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/LegGear.png",
+    "class": 4
+  },
+  {
+    "id": 715264364,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/LegGear.png",
+    "class": 5
+  },
+  {
+    "id": 716264364,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/LegGear.png",
+    "class": 6
+  },
+  {
+    "id": 711404364,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/LegGear.png",
+    "class": 1
+  },
+  {
+    "id": 712404364,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/LegGear.png",
+    "class": 2
+  },
+  {
+    "id": 713404364,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/LegGear.png",
+    "class": 3
+  },
+  {
+    "id": 714404364,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/LegGear.png",
+    "class": 4
+  },
+  {
+    "id": 715404364,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/LegGear.png",
+    "class": 5
+  },
+  {
+    "id": 716404364,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/LegGear.png",
+    "class": 6
+  },
+  {
+    "id": 711554364,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/LegGear.png",
+    "class": 1
+  },
+  {
+    "id": 712554364,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/LegGear.png",
+    "class": 2
+  },
+  {
+    "id": 713554364,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/LegGear.png",
+    "class": 3
+  },
+  {
+    "id": 714554364,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/LegGear.png",
+    "class": 4
+  },
+  {
+    "id": 715554364,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/LegGear.png",
+    "class": 5
+  },
+  {
+    "id": 716554364,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/LegGear.png",
+    "class": 6
+  },
+  {
+    "id": 263090902,
+    "slotType": 17,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_BeautySchool_Costume03_09.png",
+    "class": 6
+  },
+  {
+    "id": 263090102,
+    "slotType": 12,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_BeautySchool_HairAcc01_01.png",
+    "class": 6
+  },
+  {
+    "id": 263091102,
+    "slotType": 19,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_BeautySchool_Socks_11.png",
+    "class": 6
+  },
+  {
+    "id": 263091202,
+    "slotType": 20,
+    "inventoryType": 2,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Costume/PC_F/PC_F_EQ_BeautySchool_Shoes_12.png",
+    "class": 6
+  },
+  {
+    "id": 836000229,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 6
+  },
+  {
+    "id": 836000230,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 6
+  },
+  {
+    "id": 836000231,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 6
+  },
+  {
+    "id": 836000232,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 6
+  },
+  {
+    "id": 836000233,
+    "slotType": 0,
+    "inventoryType": 13,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Function/Package/PackageBox.png",
+    "class": 6
+  },
+  {
+    "id": 111164352,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 1
+  },
+  {
+    "id": 112164352,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 113164352,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 114164352,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 115164352,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 5
+  },
+  {
+    "id": 511164352,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 1
+  },
+  {
+    "id": 512164352,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 513164352,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 514164352,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 515164352,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 5
+  },
+  {
+    "id": 521164352,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 1
+  },
+  {
+    "id": 522164352,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 523164352,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 524164352,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 525164352,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 5
+  },
+  {
+    "id": 531164352,
+    "slotType": 171,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 1
+  },
+  {
+    "id": 532164352,
+    "slotType": 171,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 533164352,
+    "slotType": 171,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 534164352,
+    "slotType": 171,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 535164352,
+    "slotType": 171,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 5
+  },
+  {
+    "id": 541164352,
+    "slotType": 181,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 1
+  },
+  {
+    "id": 542164352,
+    "slotType": 181,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 2
+  },
+  {
+    "id": 543164352,
+    "slotType": 181,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 3
+  },
+  {
+    "id": 544164352,
+    "slotType": 181,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 4
+  },
+  {
+    "id": 545164352,
+    "slotType": 181,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "",
+    "class": 5
+  },
+  {
+    "id": 111054451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_A/SOU_0_DreadWolfToothSword.png",
+    "class": 1
+  },
+  {
+    "id": 111084451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_A/SOU_0_SwordTypePuppetBlaster.png",
+    "class": 1
+  },
+  {
+    "id": 111114451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_A/SOU_0_FanaticDisasterBringer.png",
+    "class": 1
+  },
+  {
+    "id": 111134451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_A/SOU_0_MadnessHarlequinBlade.png",
+    "class": 1
+  },
+  {
+    "id": 111164451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_A/SOU_0_GolemDestroyingSword.png",
+    "class": 1
+  },
+  {
+    "id": 111184451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_A/SOU_0_CurrptedKnightSword.png",
+    "class": 1
+  },
+  {
+    "id": 111214451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_A/SOU_0_ArachnidVanishingSword.png",
+    "class": 1
+  },
+  {
+    "id": 111234451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_A/SOU_0_SilentWitnessJudge.png",
+    "class": 1
+  },
+  {
+    "id": 111264451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_A/SOU_0_GriefSkiesSlayer.png",
+    "class": 1
+  },
+  {
+    "id": 111284451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_A/SOU_0_MercilessNightOwl.png",
+    "class": 1
+  },
+  {
+    "id": 111304451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_A/SOU_0_FatalReflectionPattisa.png",
+    "class": 1
+  },
+  {
+    "id": 111324451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_A/SOU_0_GaruraKnightSaber.png",
+    "class": 1
+  },
+  {
+    "id": 111354452,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_A/SOU_0_ReviveWarriorSlayer.png",
+    "class": 1
+  },
+  {
+    "id": 111384451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_A/SOU_0_SwordTypeVanishingBlood.png",
+    "class": 1
+  },
+  {
+    "id": 111404451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_A/SOU_0_SwordofHollowVengeance.png",
+    "class": 1
+  },
+  {
+    "id": 111434451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_A/SOU_0_HeavyMetalScissorBlade.png",
+    "class": 1
+  },
+  {
+    "id": 111454452,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_A/SOU_0_SwordTypeBrokenArk.png",
+    "class": 1
+  },
+  {
+    "id": 111474451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_A/SOU_0_AerialRimSaber.png",
+    "class": 1
+  },
+  {
+    "id": 111494451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_A/SOU_0_GigantesCoreSlayer.png",
+    "class": 1
+  },
+  {
+    "id": 111514451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_A/SOU_0_SwordTypeQueensArk.png",
+    "class": 1
+  },
+  {
+    "id": 111534451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_A/SOU_0_NumberlessRayBlade.png",
+    "class": 1
+  },
+  {
+    "id": 111554453,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_A/SOU_0_GlaresForceSaber.png",
+    "class": 1
+  },
+  {
+    "id": 112054451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_B/SOU_0_DreadWolfHeartShooter.png",
+    "class": 2
+  },
+  {
+    "id": 112084451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_B/SOU_0_PuppetBlasterGunType.png",
+    "class": 2
+  },
+  {
+    "id": 112114451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_B/SOU_0_FanaticDisasterCaller.png",
+    "class": 2
+  },
+  {
+    "id": 112134451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_B/SOU_0_MadnessHarlequinHandgun.png",
+    "class": 2
+  },
+  {
+    "id": 112164451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_B/SOU_0_GolemDestroyingGun.png",
+    "class": 2
+  },
+  {
+    "id": 112184451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_B/SOU_0_CurrptedKnightHandgun.png",
+    "class": 2
+  },
+  {
+    "id": 112214451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_B/SOU_0_ArachnidVanishingGun.png",
+    "class": 2
+  },
+  {
+    "id": 112234451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_B/SOU_0_SilentWitnessPunisher.png",
+    "class": 2
+  },
+  {
+    "id": 112264451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_B/SOU_0_GriefSkiesBuster.png",
+    "class": 2
+  },
+  {
+    "id": 112284451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_B/SOU_0_MercilessNightSerpent.png",
+    "class": 2
+  },
+  {
+    "id": 112304451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_B/SOU_0_FatalReflectionDecomposer.png",
+    "class": 2
+  },
+  {
+    "id": 112324451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_B/SOU_0_GaruraKnightBarrel.png",
+    "class": 2
+  },
+  {
+    "id": 112354452,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_B/SOU_0_ReviveWarriorBuster.png",
+    "class": 2
+  },
+  {
+    "id": 112384451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_B/SOU_0_GunTypeVanishingBlood.png",
+    "class": 2
+  },
+  {
+    "id": 112404451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_B/SOU_0_GunofHollowVengeance.png",
+    "class": 2
+  },
+  {
+    "id": 112434451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_B/SOU_0_HeavyMetalScissorBuster.png",
+    "class": 2
+  },
+  {
+    "id": 112454452,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_B/SOU_0_GunTypeBrokenArk.png",
+    "class": 2
+  },
+  {
+    "id": 112474451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_B/SOU_0_AerialRimShooter.png",
+    "class": 2
+  },
+  {
+    "id": 112494451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_B/SOU_0_GigantesCoreBuster.png",
+    "class": 2
+  },
+  {
+    "id": 112514451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_B/SOU_0_GunTypeQueensArk.png",
+    "class": 2
+  },
+  {
+    "id": 112534451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_B/SOU_0_NumberlessRayBuster.png",
+    "class": 2
+  },
+  {
+    "id": 112554453,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_B/SOU_0_GlaresForceBlaster.png",
+    "class": 2
+  },
+  {
+    "id": 113054451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_C/SOU_0_DreadWolfMeinScythe.png",
+    "class": 3
+  },
+  {
+    "id": 113084451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_C/SOU_0_ScytheTypePuppetBlaster.png",
+    "class": 3
+  },
+  {
+    "id": 113114451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_C/SOU_0_FanaticDisasterGuides.png",
+    "class": 3
+  },
+  {
+    "id": 113134451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_C/SOU_0_MadnessHarlequinScythe.png",
+    "class": 3
+  },
+  {
+    "id": 113164451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_C/SOU_0_GolemDestroyingScythe.png",
+    "class": 3
+  },
+  {
+    "id": 113184451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_C/SOU_0_CurrptedKnightScythe.png",
+    "class": 3
+  },
+  {
+    "id": 113214451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_C/SOU_0_ArachnidVanishingEdge.png",
+    "class": 3
+  },
+  {
+    "id": 113234451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_C/SOU_0_SilentWitnessRipper.png",
+    "class": 3
+  },
+  {
+    "id": 113264451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_C/SOU_0_GriefSkiesRipper.png",
+    "class": 3
+  },
+  {
+    "id": 113284451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_C/SOU_0_MercilessNightScorpion.png",
+    "class": 3
+  },
+  {
+    "id": 113304451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_C/SOU_0_FatalReflectionFalx.png",
+    "class": 3
+  },
+  {
+    "id": 113324451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_C/SOU_0_GaruraKnightGlaive.png",
+    "class": 3
+  },
+  {
+    "id": 113354452,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_C/SOU_0_ReviveWarriorScyther.png",
+    "class": 3
+  },
+  {
+    "id": 113384451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_C/SOU_0_ScytheTypeVanishingBlood.png",
+    "class": 3
+  },
+  {
+    "id": 113404451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_C/SOU_0_ScytheofHollowVengeance.png",
+    "class": 3
+  },
+  {
+    "id": 113434451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_C/SOU_0_HeavyMetalScissorScythe.png",
+    "class": 3
+  },
+  {
+    "id": 113454452,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_C/SOU_0_ScytheTypeBrokenArk.png",
+    "class": 3
+  },
+  {
+    "id": 113474451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_C/SOU_0_AerialRimEdge.png",
+    "class": 3
+  },
+  {
+    "id": 113494451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_C/SOU_0_GigantesCoreRipper.png",
+    "class": 3
+  },
+  {
+    "id": 113514451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_C/SOU_0_ScytheTypeQueensArk.png",
+    "class": 3
+  },
+  {
+    "id": 113534451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_C/SOU_0_NumberlessRayScythe.png",
+    "class": 3
+  },
+  {
+    "id": 113554453,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_C/SOU_0_GlaresForceScythe.png",
+    "class": 3
+  },
+  {
+    "id": 114054451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_DreadWolfClaw.png",
+    "class": 4
+  },
+  {
+    "id": 114084451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_GauntletTypePuppetBlaster.png",
+    "class": 4
+  },
+  {
+    "id": 114114451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_FanaticDisasterGauntlet.png",
+    "class": 4
+  },
+  {
+    "id": 114134451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_MadnessHarlequinGauntlet.png",
+    "class": 4
+  },
+  {
+    "id": 114164451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_GolemDestroyingArm.png",
+    "class": 4
+  },
+  {
+    "id": 114184451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_CurrptedKnightArm.png",
+    "class": 4
+  },
+  {
+    "id": 114214451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_ArachnidVanishingArm.png",
+    "class": 4
+  },
+  {
+    "id": 114234451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_SilentWitnessbrawler.png",
+    "class": 4
+  },
+  {
+    "id": 114264451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_GriefSkiesPuncher.png",
+    "class": 4
+  },
+  {
+    "id": 114284451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_MercilessNightMoth.png",
+    "class": 4
+  },
+  {
+    "id": 114304451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_FatalReflectionGarment.png",
+    "class": 4
+  },
+  {
+    "id": 114324451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_GaruraKnightGauntlet.png",
+    "class": 4
+  },
+  {
+    "id": 114354452,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_ReviveWarriorBlocker.png",
+    "class": 4
+  },
+  {
+    "id": 114384451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_GauntletTypeVanishingBlood.png",
+    "class": 4
+  },
+  {
+    "id": 114404451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_GauntletofHollowVengeance.png",
+    "class": 4
+  },
+  {
+    "id": 114434451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_HeavyMetalScissorGauntlet.png",
+    "class": 4
+  },
+  {
+    "id": 114454452,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_GauntletTypeBrokenArk.png",
+    "class": 4
+  },
+  {
+    "id": 114474451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_AerialRimBlocker.png",
+    "class": 4
+  },
+  {
+    "id": 114494451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_GigantesCorebrawler.png",
+    "class": 4
+  },
+  {
+    "id": 114514451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_GauntletTypeQueensArk.png",
+    "class": 4
+  },
+  {
+    "id": 114534451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_NumberlessRayGauntlet.png",
+    "class": 4
+  },
+  {
+    "id": 114554453,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_D/SOU_0_GlaresForceReacher.png",
+    "class": 4
+  },
+  {
+    "id": 115054451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_E/SOU_0_DreadWolfScreamer.png",
+    "class": 5
+  },
+  {
+    "id": 115084451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_E/SOU_0_GuitarTypePuppetBlaster.png",
+    "class": 5
+  },
+  {
+    "id": 115114451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_E/SOU_0_FanaticDisasterChoir.png",
+    "class": 5
+  },
+  {
+    "id": 115134451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_E/SOU_0_MadnessHarlequinBluePaul.png",
+    "class": 5
+  },
+  {
+    "id": 115164451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_E/SOU_0_GolemDestroyingGuitar.png",
+    "class": 5
+  },
+  {
+    "id": 115184451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_E/SOU_0_CurrptedKnightGuitar.png",
+    "class": 5
+  },
+  {
+    "id": 115214451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_E/SOU_0_ArachnidVanishingGuitar.png",
+    "class": 5
+  },
+  {
+    "id": 115234451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_E/SOU_0_SilentWitnessBarrister.png",
+    "class": 5
+  },
+  {
+    "id": 115264451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_E/SOU_0_GriefSkiesHowler.png",
+    "class": 5
+  },
+  {
+    "id": 115284451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_E/SOU_0_MercilessNightLizard.png",
+    "class": 5
+  },
+  {
+    "id": 115304451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_E/SOU_0_FatalReflectionHarmonics.png",
+    "class": 5
+  },
+  {
+    "id": 115324451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_E/SOU_0_GaruraKnightNote.png",
+    "class": 5
+  },
+  {
+    "id": 115354452,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_E/SOU_0_ReviveWarriorHowler.png",
+    "class": 5
+  },
+  {
+    "id": 115384451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_E/SOU_0_GuitarTypeVanishingBlood.png",
+    "class": 5
+  },
+  {
+    "id": 115404451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_E/SOU_0_GuitarofHollowVengeance.png",
+    "class": 5
+  },
+  {
+    "id": 115434451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_E/SOU_0_HeavyMetalScissorCrier.png",
+    "class": 5
+  },
+  {
+    "id": 115454452,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_E/SOU_0_GuitarTypeBrokenArk.png",
+    "class": 5
+  },
+  {
+    "id": 115474451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_E/SOU_0_AerialRimShouter.png",
+    "class": 5
+  },
+  {
+    "id": 115494451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_E/SOU_0_GigantesCoreHowler.png",
+    "class": 5
+  },
+  {
+    "id": 115514451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_E/SOU_0_GuitarTypeQueensArk.png",
+    "class": 5
+  },
+  {
+    "id": 115534451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_E/SOU_0_NumberlessRayHowler.png",
+    "class": 5
+  },
+  {
+    "id": 115554453,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_E/SOU_0_GlaresForceRoar.png",
+    "class": 5
+  },
+  {
+    "id": 116054451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_016.png",
+    "class": 6
+  },
+  {
+    "id": 116084451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_017.png",
+    "class": 6
+  },
+  {
+    "id": 116114451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_018.png",
+    "class": 6
+  },
+  {
+    "id": 116134451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_019.png",
+    "class": 6
+  },
+  {
+    "id": 116164451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_020.png",
+    "class": 6
+  },
+  {
+    "id": 116184451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_021.png",
+    "class": 6
+  },
+  {
+    "id": 116214451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_022.png",
+    "class": 6
+  },
+  {
+    "id": 116234451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_023.png",
+    "class": 6
+  },
+  {
+    "id": 116264451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_024.png",
+    "class": 6
+  },
+  {
+    "id": 116284451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_025.png",
+    "class": 6
+  },
+  {
+    "id": 116304451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_014.png",
+    "class": 6
+  },
+  {
+    "id": 116324451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_026.png",
+    "class": 6
+  },
+  {
+    "id": 116354452,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_027.png",
+    "class": 6
+  },
+  {
+    "id": 116384451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_028.png",
+    "class": 6
+  },
+  {
+    "id": 116404451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_029.png",
+    "class": 6
+  },
+  {
+    "id": 116434451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_030.png",
+    "class": 6
+  },
+  {
+    "id": 116454452,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_031.png",
+    "class": 6
+  },
+  {
+    "id": 116474451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_032.png",
+    "class": 6
+  },
+  {
+    "id": 116494451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_033.png",
+    "class": 6
+  },
+  {
+    "id": 116514451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_034.png",
+    "class": 6
+  },
+  {
+    "id": 116534451,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_035.png",
+    "class": 6
+  },
+  {
+    "id": 116554453,
+    "slotType": 1,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/SoulWeapon/PC_F/PC_F_WP_036.png",
+    "class": 6
+  },
+  {
+    "id": 711054414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC1.png",
+    "class": 1
+  },
+  {
+    "id": 711084414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC1.png",
+    "class": 1
+  },
+  {
+    "id": 711114414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC1.png",
+    "class": 1
+  },
+  {
+    "id": 711134414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC1.png",
+    "class": 1
+  },
+  {
+    "id": 711164414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC1.png",
+    "class": 1
+  },
+  {
+    "id": 711184414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC1.png",
+    "class": 1
+  },
+  {
+    "id": 711214414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC1.png",
+    "class": 1
+  },
+  {
+    "id": 711234414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC1.png",
+    "class": 1
+  },
+  {
+    "id": 711264414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC1.png",
+    "class": 1
+  },
+  {
+    "id": 711284414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC1.png",
+    "class": 1
+  },
+  {
+    "id": 711304414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC1.png",
+    "class": 1
+  },
+  {
+    "id": 711324414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC1.png",
+    "class": 1
+  },
+  {
+    "id": 711354414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC1.png",
+    "class": 1
+  },
+  {
+    "id": 711384414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC1.png",
+    "class": 1
+  },
+  {
+    "id": 711404414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC1.png",
+    "class": 1
+  },
+  {
+    "id": 711434414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC1.png",
+    "class": 1
+  },
+  {
+    "id": 711454414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC1.png",
+    "class": 1
+  },
+  {
+    "id": 711474414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC1.png",
+    "class": 1
+  },
+  {
+    "id": 711494414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC1.png",
+    "class": 1
+  },
+  {
+    "id": 711514414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC1.png",
+    "class": 1
+  },
+  {
+    "id": 711534414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC1.png",
+    "class": 1
+  },
+  {
+    "id": 711554414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_PC1.png",
+    "class": 1
+  },
+  {
+    "id": 712054414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc2.png",
+    "class": 2
+  },
+  {
+    "id": 712084414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc2.png",
+    "class": 2
+  },
+  {
+    "id": 712114414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc2.png",
+    "class": 2
+  },
+  {
+    "id": 712134414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc2.png",
+    "class": 2
+  },
+  {
+    "id": 712164414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc2.png",
+    "class": 2
+  },
+  {
+    "id": 712184414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc2.png",
+    "class": 2
+  },
+  {
+    "id": 712214414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc2.png",
+    "class": 2
+  },
+  {
+    "id": 712234414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc2.png",
+    "class": 2
+  },
+  {
+    "id": 712264414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc2.png",
+    "class": 2
+  },
+  {
+    "id": 712284414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc2.png",
+    "class": 2
+  },
+  {
+    "id": 712304414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc2.png",
+    "class": 2
+  },
+  {
+    "id": 712324414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc2.png",
+    "class": 2
+  },
+  {
+    "id": 712354414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc2.png",
+    "class": 2
+  },
+  {
+    "id": 712384414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc2.png",
+    "class": 2
+  },
+  {
+    "id": 712404414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc2.png",
+    "class": 2
+  },
+  {
+    "id": 712434414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc2.png",
+    "class": 2
+  },
+  {
+    "id": 712454414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc2.png",
+    "class": 2
+  },
+  {
+    "id": 712474414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc2.png",
+    "class": 2
+  },
+  {
+    "id": 712494414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc2.png",
+    "class": 2
+  },
+  {
+    "id": 712514414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc2.png",
+    "class": 2
+  },
+  {
+    "id": 712534414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc2.png",
+    "class": 2
+  },
+  {
+    "id": 712554414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc2.png",
+    "class": 2
+  },
+  {
+    "id": 713054414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc3.png",
+    "class": 3
+  },
+  {
+    "id": 713084414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc3.png",
+    "class": 3
+  },
+  {
+    "id": 713114414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc3.png",
+    "class": 3
+  },
+  {
+    "id": 713134414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc3.png",
+    "class": 3
+  },
+  {
+    "id": 713164414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc3.png",
+    "class": 3
+  },
+  {
+    "id": 713184414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc3.png",
+    "class": 3
+  },
+  {
+    "id": 713214414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc3.png",
+    "class": 3
+  },
+  {
+    "id": 713234414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc3.png",
+    "class": 3
+  },
+  {
+    "id": 713264414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc3.png",
+    "class": 3
+  },
+  {
+    "id": 713284414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc3.png",
+    "class": 3
+  },
+  {
+    "id": 713304414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc3.png",
+    "class": 3
+  },
+  {
+    "id": 713324414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc3.png",
+    "class": 3
+  },
+  {
+    "id": 713354414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc3.png",
+    "class": 3
+  },
+  {
+    "id": 713384414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc3.png",
+    "class": 3
+  },
+  {
+    "id": 713404414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc3.png",
+    "class": 3
+  },
+  {
+    "id": 713434414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc3.png",
+    "class": 3
+  },
+  {
+    "id": 713454414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc3.png",
+    "class": 3
+  },
+  {
+    "id": 713474414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc3.png",
+    "class": 3
+  },
+  {
+    "id": 713494414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc3.png",
+    "class": 3
+  },
+  {
+    "id": 713514414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc3.png",
+    "class": 3
+  },
+  {
+    "id": 713534414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc3.png",
+    "class": 3
+  },
+  {
+    "id": 713554414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc3.png",
+    "class": 3
+  },
+  {
+    "id": 714054414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc4.png",
+    "class": 4
+  },
+  {
+    "id": 714084414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc4.png",
+    "class": 4
+  },
+  {
+    "id": 714114414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc4.png",
+    "class": 4
+  },
+  {
+    "id": 714134414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc4.png",
+    "class": 4
+  },
+  {
+    "id": 714164414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc4.png",
+    "class": 4
+  },
+  {
+    "id": 714184414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc4.png",
+    "class": 4
+  },
+  {
+    "id": 714214414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc4.png",
+    "class": 4
+  },
+  {
+    "id": 714234414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc4.png",
+    "class": 4
+  },
+  {
+    "id": 714264414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc4.png",
+    "class": 4
+  },
+  {
+    "id": 714284414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc4.png",
+    "class": 4
+  },
+  {
+    "id": 714304414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc4.png",
+    "class": 4
+  },
+  {
+    "id": 714324414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc4.png",
+    "class": 4
+  },
+  {
+    "id": 714354414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc4.png",
+    "class": 4
+  },
+  {
+    "id": 714384414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc4.png",
+    "class": 4
+  },
+  {
+    "id": 714404414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc4.png",
+    "class": 4
+  },
+  {
+    "id": 714434414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc4.png",
+    "class": 4
+  },
+  {
+    "id": 714454414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc4.png",
+    "class": 4
+  },
+  {
+    "id": 714474414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc4.png",
+    "class": 4
+  },
+  {
+    "id": 714494414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc4.png",
+    "class": 4
+  },
+  {
+    "id": 714514414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc4.png",
+    "class": 4
+  },
+  {
+    "id": 714534414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc4.png",
+    "class": 4
+  },
+  {
+    "id": 714554414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc4.png",
+    "class": 4
+  },
+  {
+    "id": 715054414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc5.png",
+    "class": 5
+  },
+  {
+    "id": 715084414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc5.png",
+    "class": 5
+  },
+  {
+    "id": 715114414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc5.png",
+    "class": 5
+  },
+  {
+    "id": 715134414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc5.png",
+    "class": 5
+  },
+  {
+    "id": 715164414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc5.png",
+    "class": 5
+  },
+  {
+    "id": 715184414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc5.png",
+    "class": 5
+  },
+  {
+    "id": 715214414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc5.png",
+    "class": 5
+  },
+  {
+    "id": 715234414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc5.png",
+    "class": 5
+  },
+  {
+    "id": 715264414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc5.png",
+    "class": 5
+  },
+  {
+    "id": 715284414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc5.png",
+    "class": 5
+  },
+  {
+    "id": 715304414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc5.png",
+    "class": 5
+  },
+  {
+    "id": 715324414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc5.png",
+    "class": 5
+  },
+  {
+    "id": 715354414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc5.png",
+    "class": 5
+  },
+  {
+    "id": 715384414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc5.png",
+    "class": 5
+  },
+  {
+    "id": 715404414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc5.png",
+    "class": 5
+  },
+  {
+    "id": 715434414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc5.png",
+    "class": 5
+  },
+  {
+    "id": 715454414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc5.png",
+    "class": 5
+  },
+  {
+    "id": 715474414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc5.png",
+    "class": 5
+  },
+  {
+    "id": 715494414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc5.png",
+    "class": 5
+  },
+  {
+    "id": 715514414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc5.png",
+    "class": 5
+  },
+  {
+    "id": 715534414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc5.png",
+    "class": 5
+  },
+  {
+    "id": 715554414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc5.png",
+    "class": 5
+  },
+  {
+    "id": 716054414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc6.png",
+    "class": 6
+  },
+  {
+    "id": 716084414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc6.png",
+    "class": 6
+  },
+  {
+    "id": 716114414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc6.png",
+    "class": 6
+  },
+  {
+    "id": 716134414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc6.png",
+    "class": 6
+  },
+  {
+    "id": 716164414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc6.png",
+    "class": 6
+  },
+  {
+    "id": 716184414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc6.png",
+    "class": 6
+  },
+  {
+    "id": 716214414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc6.png",
+    "class": 6
+  },
+  {
+    "id": 716234414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc6.png",
+    "class": 6
+  },
+  {
+    "id": 716264414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc6.png",
+    "class": 6
+  },
+  {
+    "id": 716284414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc6.png",
+    "class": 6
+  },
+  {
+    "id": 716304414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc6.png",
+    "class": 6
+  },
+  {
+    "id": 716324414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc6.png",
+    "class": 6
+  },
+  {
+    "id": 716354414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc6.png",
+    "class": 6
+  },
+  {
+    "id": 716384414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc6.png",
+    "class": 6
+  },
+  {
+    "id": 716404414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc6.png",
+    "class": 6
+  },
+  {
+    "id": 716434414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc6.png",
+    "class": 6
+  },
+  {
+    "id": 716454414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc6.png",
+    "class": 6
+  },
+  {
+    "id": 716474414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc6.png",
+    "class": 6
+  },
+  {
+    "id": 716494414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc6.png",
+    "class": 6
+  },
+  {
+    "id": 716514414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc6.png",
+    "class": 6
+  },
+  {
+    "id": 716534414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc6.png",
+    "class": 6
+  },
+  {
+    "id": 716554414,
+    "slotType": 0,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/BluePrint/Equip/WP_pc6.png",
+    "class": 6
+  },
+  {
+    "id": 510044351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/HeadGear/GEA_HarbingerHead.png",
+    "class": 0
+  },
+  {
+    "id": 510084351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/HeadGear/GEA_DollBlasterHeadType.png",
+    "class": 0
+  },
+  {
+    "id": 510114351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/HeadGear/GEA_FleesHead.png",
+    "class": 0
+  },
+  {
+    "id": 510134351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/HeadGear/GEA_BroadHead.png",
+    "class": 0
+  },
+  {
+    "id": 510164351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/HeadGear/GEA_RockProtectionHead.png",
+    "class": 0
+  },
+  {
+    "id": 510184351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/HeadGear/GEA_CorruptionprotectHead.png",
+    "class": 0
+  },
+  {
+    "id": 510214351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/HeadGear/GEA_InsectHunterHead.png",
+    "class": 0
+  },
+  {
+    "id": 510234351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/HeadGear/GEA_SilentWitnessHead.png",
+    "class": 0
+  },
+  {
+    "id": 510264351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/HeadGear/GEA_HollowHeartsHead.png",
+    "class": 0
+  },
+  {
+    "id": 510284351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/HeadGear/GEA_0_ViciousBloodshedHead.png",
+    "class": 0
+  },
+  {
+    "id": 510304351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/HeadGear/GEA_0_VenomousIdolHead.png",
+    "class": 0
+  },
+  {
+    "id": 510324351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/HeadGear/GEA_0_AstuteWarriorHead.png",
+    "class": 0
+  },
+  {
+    "id": 510354351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/HeadGear/GEA_0_AbendonedLustHead.png",
+    "class": 0
+  },
+  {
+    "id": 510384351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/HeadGear/GEA_0_BloodyWightHead.png",
+    "class": 0
+  },
+  {
+    "id": 510404351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/HeadGear/GEA_0_UnforgivenViceHead.png",
+    "class": 0
+  },
+  {
+    "id": 510434351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/HeadGear/GEA_0_HeavyMetalHead.png",
+    "class": 0
+  },
+  {
+    "id": 510454351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/HeadGear/GEA_0_HeadTypeBrokenArk.png",
+    "class": 0
+  },
+  {
+    "id": 510474351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/HeadGear/GEA_0_AerialRimHead.png",
+    "class": 0
+  },
+  {
+    "id": 510494351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/HeadGear/GEA_0_GigantesCoreHead.png",
+    "class": 0
+  },
+  {
+    "id": 510514351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/HeadGear/GEA_0_HeadTypeQueensArk.png",
+    "class": 0
+  },
+  {
+    "id": 510534351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/HeadGear/GEA_0_NumberlessRayHead.png",
+    "class": 0
+  },
+  {
+    "id": 510554351,
+    "slotType": 151,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/HeadGear/GEA_0_GlaresForceHead.png",
+    "class": 0
+  },
+  {
+    "id": 520084351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/ShoulderGear/GEA_DollBlasterShoulder.png",
+    "class": 0
+  },
+  {
+    "id": 520114351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/ShoulderGear/GEA_StandardShoulder.png",
+    "class": 0
+  },
+  {
+    "id": 520134351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/ShoulderGear/GEA_LightingShoulder.png",
+    "class": 0
+  },
+  {
+    "id": 520164351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/ShoulderGear/GEA_RockProtectionShoulder.png",
+    "class": 0
+  },
+  {
+    "id": 520184351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/ShoulderGear/GEA_CorruptionprotectShoulder.png",
+    "class": 0
+  },
+  {
+    "id": 520214351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/ShoulderGear/GEA_InsectHunterShoulder.png",
+    "class": 0
+  },
+  {
+    "id": 520234351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/ShoulderGear/GEA_SilentWitnessShoulder.png",
+    "class": 0
+  },
+  {
+    "id": 520264351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/ShoulderGear/GEA_HollowHeartsShoulder.png",
+    "class": 0
+  },
+  {
+    "id": 520284351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/ShoulderGear/GEA_0_ViciousBloodshedShoulder.png",
+    "class": 0
+  },
+  {
+    "id": 520304351,
+    "slotType": 161,
+    "inventoryType": 0,
+    "gainType": 0,
+    "icon": "GUI/Icon/Item/Gear/ShoulderGear/GEA_0_VenomousIdolShoulder.png",
+    "class": 0
   }
 ]
