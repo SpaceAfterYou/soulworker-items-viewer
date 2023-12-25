@@ -163,7 +163,7 @@ const filter = useDebounceFn((items: Items) => {
     </template>
 
     <template #items>
-      <div class="grid grid-cols-[repeat(auto-fill,minmax(3rem,1fr))] gap-2">
+      <div class="grid grid-cols-[repeat(auto-fill,minmax(3rem,1fr))] gap-2" v-if="results.length > 0">
         <ItemsButton v-for="item of results" :key="item.id" :item="item" />
       </div>
     </template>
