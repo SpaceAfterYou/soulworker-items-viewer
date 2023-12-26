@@ -22,8 +22,6 @@ type Props = {
   request: string;
 };
 
-const MAX_RESULTS = 30;
-
 const { request } = defineProps<Props>();
 
 const enum SelectionType {
@@ -42,6 +40,14 @@ const enum FromType {
   Object,
   Locale,
 }
+
+const maxResults = [
+  { name: "25", count: 25, value: 0 },
+  { name: "50", count: 50, value: 1 },
+  { name: "75", count: 75, value: 2 },
+  { name: "100", count: 100, value: 3 },
+];
+const selectedMaxResults = ref(0);
 
 const method = [
   {
@@ -105,7 +111,7 @@ function* getItemValues(item: Item) {
 const results = reactive<Items>([]);
 
 watch(
-  () => [request, selectedMethod, selectedWhere],
+  () => [request, selectedMethod, selectedWhere, selectedMaxResults],
   () => filter(items),
   { deep: true }
 );
@@ -124,7 +130,7 @@ const filter = useDebounceFn((items: Items) => {
     for (const value of getItemValues(item)) {
       results.push(value);
 
-      if (results.length >= MAX_RESULTS) {
+      if (results.length >= maxResults[selectedMaxResults.value].count) {
         return;
       }
     }
@@ -154,6 +160,18 @@ const filter = useDebounceFn((items: Items) => {
           <template #body>
             <ItemsSearchSelect v-model="selectedWhere">
               <ItemsSearchSelectOption v-for="{ name, value } of where" :value="value" :key="value">
+                {{ name }}
+              </ItemsSearchSelectOption>
+            </ItemsSearchSelect>
+          </template>
+        </ItemsSearchSelectBadge>
+
+        <ItemsSearchSelectBadge>
+          <template #head> max results </template>
+
+          <template #body>
+            <ItemsSearchSelect v-model="selectedMaxResults">
+              <ItemsSearchSelectOption v-for="{ name, value } of maxResults" :value="value" :key="value">
                 {{ name }}
               </ItemsSearchSelectOption>
             </ItemsSearchSelect>
