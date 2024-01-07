@@ -7,13 +7,13 @@ import { useItem } from "~/stores/items";
 type FilterProperty = "description" | "name" | "id";
 
 type WhereType = {
-  filter: () => { key: FilterProperty; from: FromType }[];
+  filters: { prop: FilterProperty; from: FromType }[];
   value: SelectionWhere;
   name: string;
 };
 
 type MethodType = {
-  filter: keyof Pick<String, "startsWith" | "includes">;
+  key: keyof Pick<String, "startsWith" | "includes">;
   value: SelectionType;
   name: string;
 };
@@ -47,62 +47,63 @@ const maxResults = [
   { name: "75", count: 75, value: 2 },
   { name: "100", count: 100, value: 3 },
 ];
+
 const selectedMaxResults = ref(0);
 
-const method = [
+const methods = [
   {
     value: SelectionType.Includes,
-    filter: "includes",
     name: "Includes",
+    key: "includes",
   },
   {
     value: SelectionType.StartsWith,
-    filter: "startsWith",
     name: "Starts with",
+    key: "startsWith",
   },
 ] satisfies MethodType[];
 
-const where = [
+const wheres = [
   {
-    filter: () => [
-      { from: FromType.Object, key: "id" },
-      { from: FromType.Locale, key: "name" },
-      { from: FromType.Locale, key: "description" },
+    filters: [
+      { from: FromType.Object, prop: "id" },
+      { from: FromType.Locale, prop: "name" },
+      { from: FromType.Locale, prop: "description" },
     ],
     value: SelectionWhere.AnyOf,
     name: "Any of",
   },
   {
-    filter: () => [{ from: FromType.Object, key: "id" }],
+    filters: [{ from: FromType.Object, prop: "id" }],
     value: SelectionWhere.Id,
     name: "Id",
   },
   {
-    filter: () => [{ from: FromType.Locale, key: "name" }],
+    filters: [{ from: FromType.Locale, prop: "name" }],
     value: SelectionWhere.Name,
     name: "Name",
   },
   {
-    filter: () => [{ from: FromType.Locale, key: "description" }],
+    filters: [{ from: FromType.Locale, prop: "description" }],
     value: SelectionWhere.Description,
     name: "Description",
   },
 ] satisfies WhereType[];
 
-const selectedMethod = ref(method[0].value);
-const selectedWhere = ref(where[0].value);
+const selectedMethod = ref(methods[0].value);
+const selectedWhere = ref(wheres[0].value);
 
 const { items } = useItem();
 
 function* getItemValues(item: Item) {
-  const keys = where[selectedWhere.value].filter();
-  const m = method[selectedMethod.value].filter;
+  const { filters } = wheres[selectedWhere.value];
+  const { key } = methods[selectedMethod.value];
 
-  console.log(`keys: ${keys.map((e) => e.key)}`);
-  console.log(`method: ${m}`);
+  console.log(`keys: ${filters.map((e) => e.prop)}`);
+  console.log(`method: ${key}`);
 
-  for (const { from, key } of keys) {
-    if (from === FromType.Object && String(item[key])[m](request)) {
+  for (const { from, prop } of filters) {
+    if (from === FromType.Object && String(item[prop])[key](request)) {
       yield item;
     }
   }
@@ -147,7 +148,7 @@ const filter = useDebounceFn((items: Items) => {
 
           <template #body>
             <ItemsSearchSelect v-model="selectedMethod">
-              <ItemsSearchSelectOption v-for="{ name, value } of method" :value="value" :key="value">
+              <ItemsSearchSelectOption v-for="{ name: name, value } of methods" :value="value" :key="value">
                 {{ name }}
               </ItemsSearchSelectOption>
             </ItemsSearchSelect>
@@ -159,7 +160,7 @@ const filter = useDebounceFn((items: Items) => {
 
           <template #body>
             <ItemsSearchSelect v-model="selectedWhere">
-              <ItemsSearchSelectOption v-for="{ name, value } of where" :value="value" :key="value">
+              <ItemsSearchSelectOption v-for="{ name, value } of wheres" :value="value" :key="value">
                 {{ name }}
               </ItemsSearchSelectOption>
             </ItemsSearchSelect>
