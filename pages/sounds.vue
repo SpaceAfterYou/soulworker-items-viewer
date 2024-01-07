@@ -3,7 +3,7 @@ definePageMeta({ layout: "sounds" });
 
 import { useSoundsContainers } from "~/stores/sounds";
 
-const { active } = storeToRefs(useSoundsContainers());
+const { selected, active } = storeToRefs(useSoundsContainers());
 
 // const { page } = storeToRefs(useSettingsStore());
 
@@ -18,6 +18,7 @@ const { active } = storeToRefs(useSoundsContainers());
       <template v-if="!active"> Loading </template>
       <template v-else-if="active.length === 0">Empty</template>
       <template v-else>
+        selected: {{ selected }}
         <span v-for="{ name } of active" type="button" :key="name">{{ name }}.wav</span>
       </template>
     </div>

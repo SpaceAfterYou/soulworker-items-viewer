@@ -1,1 +1,6 @@
-export const urlToUrl = (value: string) => new URL(value, useRequestURL()).href;
+export const urlToUrl = (value: string) => {
+  const { app } = useRuntimeConfig();
+  const { origin } = useRequestURL();
+
+  return new URL(value, new URL(app.baseURL, origin)).href;
+};

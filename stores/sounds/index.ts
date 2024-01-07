@@ -13,7 +13,7 @@ export const useSoundsPackage = defineStore("sounds-packagecontainers-store", ()
 type ContainerData = ReadonlyArray<{ name: string }>;
 
 export const useSoundsContainers = defineStore("sounds-package-store", () => {
-  const cache = ref(new Map<string, ContainerData | null>());
+  const cache = ref(new Map<string, ContainerData | null>([["", []]]));
 
   const selected = ref<string>("");
 
