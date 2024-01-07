@@ -17,9 +17,9 @@ const { selected, active } = storeToRefs(useSoundsContainers());
     <div class="flex flex-col gap-4">
       <template v-if="!active"> Loading </template>
       <template v-else-if="active.length === 0">Empty</template>
-      <template v-else>
-        <span v-for="{ name } of active" type="button" :key="name">{{ name }}.wav</span>
-      </template>
+      <ol v-else>
+        <li v-for="{ name } of active" type="button" class="py-1" :key="name">{{ name }}.wav</li>
+      </ol>
     </div>
 
     <!-- <ItemsPagination :count="filtered.length" v-model="currentPage" /> -->
