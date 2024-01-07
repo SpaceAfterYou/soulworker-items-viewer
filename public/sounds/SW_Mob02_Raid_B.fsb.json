@@ -1,0 +1,5411 @@
+[
+  {
+    "name": "Shelterturret_B_Run"
+  },
+  {
+    "name": "Shelterturret_DMG01"
+  },
+  {
+    "name": "Shelterturret_DMG02"
+  },
+  {
+    "name": "Shelterturret_DMG03"
+  },
+  {
+    "name": "SE_FX_M_Amarylis_B_B_Stand"
+  },
+  {
+    "name": "SE_FX_M_Amarylis_SABreak_End_1"
+  },
+  {
+    "name": "SE_FX_M_Amarylis_SABreak_End_2"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_A_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_A_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_A_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_A_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_A_Skill_02_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_A_Skill_02_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_A_Skill_02_Projectile_3"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_A_Skill_02_Projectile_aim_1"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_A_Skill_02_Projectile_aim_2"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_A_Skill_02_Projectile_aim_3"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_A_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_A_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_A_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_A_Skill_03_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_A_Skill_03_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_A_Skill_03_Projectile_3"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_A_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_A_Skill_03_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_A_B_Change"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_A_B_Change_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_A_B_Change_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_B_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_B_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_B_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_B_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_B_Skill_02_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_B_Skill_02_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_B_Skill_02_Projectile_3"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_B_Skill_02_Projectile_End_1"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_B_Skill_02_Projectile_End_2"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_B_Skill_02_Projectile_End_3"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_B_Skill_02_Projectile_Start_1"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_B_Skill_02_Projectile_Start_2"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_B_Skill_02_Projectile_Start_3"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_B_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_B_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_B_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_B_Skill_03_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_B_Skill_03_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_B_Skill_03_Projectile_3"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_B_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_B_Skill_03_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_B_Skill_04"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_B_Skill_04_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_B_Skill_04_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_B_Skill_05"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_B_Skill_05_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_B_Skill_05_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_B_Skill_06"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_B_Skill_06_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_B_B_Skill_06_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_Death_Stand_Last_1"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_Death_Stand_Last_2"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_Footstep_01"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_Footstep_02"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_Footstep_03"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_Footstep_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Amaryllis_Footstep_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Arachness_A_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_Arachness_A_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Arachness_A_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Arachness_A_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_Arachness_A_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Arachness_A_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Arachness_A_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_Arachness_A_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Arachness_A_Skill_03_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Arachness_B_A_B_Mode_Change"
+  },
+  {
+    "name": "SE_FX_M_Arachness_B_A_B_Mode_Change_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Arachness_B_A_B_Mode_Change_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Arachness_B_B_C_Mode_Change"
+  },
+  {
+    "name": "SE_FX_M_Arachness_B_B_C_Mode_Change_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Arachness_B_B_C_Mode_Change_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Arachness_B_C_Run_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Arachness_B_C_Run_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Arachness_B_KB_Start_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Arachness_B_KB_Start_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Arachness_B_KD_Start_Vox_1_"
+  },
+  {
+    "name": "SE_FX_M_Arachness_B_KD_Start_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Arachness_B_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_Arachness_B_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_Arachness_B_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_Arachness_B_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Arachness_B_Skill_03_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Arachness_C_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_Arachness_C_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Arachness_C_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Arachness_C_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_Arachness_C_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Arachness_C_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Arachness_C_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_Arachness_C_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Arachness_C_Skill_03_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Arachness_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_Arachness_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_Arachness_DMG_3"
+  },
+  {
+    "name": "SE_FX_M_Arachness_DMG_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Arachness_DMG_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Arachness_DMG_Vox_3"
+  },
+  {
+    "name": "SE_FX_M_Arachness_Death_Stand"
+  },
+  {
+    "name": "SE_FX_M_Arachness_Death_Stand_Last_1"
+  },
+  {
+    "name": "SE_FX_M_Arachness_Death_Stand_Last_2"
+  },
+  {
+    "name": "SE_FX_M_Arachness_Death_Stand_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Arachness_Death_Stand_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Arachness_Footstep_01"
+  },
+  {
+    "name": "SE_FX_M_Arachness_Footstep_02"
+  },
+  {
+    "name": "SE_FX_M_Arachness_Run_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Arachness_Run_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Arachness_SABreak_End_1"
+  },
+  {
+    "name": "SE_FX_M_Arachness_SABreak_End_2"
+  },
+  {
+    "name": "SE_FX_M_Arachness_SG_C_Skill_01_Projectile_End_1"
+  },
+  {
+    "name": "SE_FX_M_Arachness_SG_C_Skill_01_Projectile_End_2"
+  },
+  {
+    "name": "SE_FX_M_Arachness_SG_C_Skill_01_Projectile_End_3"
+  },
+  {
+    "name": "SE_FX_M_Arachness_SG_C_Skill_01_Projectile_Start_1"
+  },
+  {
+    "name": "SE_FX_M_Arachness_SG_C_Skill_01_Projectile_Start_2"
+  },
+  {
+    "name": "SE_FX_M_Arachness_SG_C_Skill_01_Projectile_Start_3"
+  },
+  {
+    "name": "SE_FX_M_AspaltGolem_SABreak_End_1"
+  },
+  {
+    "name": "SE_FX_M_AspaltGolem_SABreak_End_2"
+  },
+  {
+    "name": "SE_FX_M_AspaltGolem_SABreak_Start_1"
+  },
+  {
+    "name": "SE_FX_M_AspaltGolem_SABreak_Start_2"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGilem_Hard_B_Skill_05"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_A_Action_01"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_A_Action_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_A_Action_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_A_B_MOdeChange_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_A_B_MOdeChange_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_A_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_A_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_A_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_A_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_A_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_A_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_A_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_A_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_A_Skill_03_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_A_Skill_04_End"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_A_Skill_04_End_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_A_Skill_04_End_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_A_Skill_04_Grip"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_A_Skill_04_Grip_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_A_Skill_04_Grip_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_A_Skill_04_Start"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_A_Skill_04_Start_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_A_Skill_04_Start_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_B_A_B_Mode_Change"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_B_B_C_Mode_Change"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_B_B_C_Mode_Change_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_B_B_C_Mode_Change_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_B_C_B_Mode_Change"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_B_C_B_Mode_Change_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_B_C_B_Mode_Change_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_B_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_B_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_B_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_B_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_B_Skill_02_Projectile_End_1"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_B_Skill_02_Projectile_End_2"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_B_Skill_02_Projectile_End_3"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_B_Skill_02_Projectile_Start_1"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_B_Skill_02_Projectile_Start_2"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_B_Skill_02_Projectile_Start_3"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_B_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_B_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_B_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_B_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_B_Skill_03_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_B_Skill_04_End"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_B_Skill_04_Grip"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_B_Skill_04_Start"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_B_Skill_05"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_B_Skill_05_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_B_Skill_05_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_DMG_3"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_DMG_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_DMG_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_Death_Boom_1"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_Death_Stand"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_Death_Stand_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_Death_Stand_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_Footstep_01"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_Footstep_02"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_Footstep_03"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_Footstep_04"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_Run_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_Run_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_AsphaltGolem_SG_B_Skill_05"
+  },
+  {
+    "name": "SE_FX_M_Beholder_B_Action"
+  },
+  {
+    "name": "SE_FX_M_Beholder_B_Action_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Beholder_B_Action_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Beholder_B_Idle_01_1"
+  },
+  {
+    "name": "SE_FX_M_Beholder_B_Idle_01_2"
+  },
+  {
+    "name": "SE_FX_M_Beholder_Cine_01"
+  },
+  {
+    "name": "SE_FX_M_Beholder_Cine_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Beholder_Cine_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Beholder_Cine_02"
+  },
+  {
+    "name": "SE_FX_M_Beholder_Cine_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Beholder_Cine_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Beholder_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_Beholder_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_Beholder_DMG_3"
+  },
+  {
+    "name": "SE_FX_M_Beholder_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_Beholder_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_Beholder_Death_Stand_Slow"
+  },
+  {
+    "name": "SE_FX_M_Beholder_Footstep_01"
+  },
+  {
+    "name": "SE_FX_M_Beholder_Footstep_02"
+  },
+  {
+    "name": "SE_FX_M_Beholder_Footstep_03"
+  },
+  {
+    "name": "SE_FX_M_Beholder_Footstep_04"
+  },
+  {
+    "name": "SE_FX_M_Beholder_Footstep_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Beholder_Footstep_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Beholder_KB_1"
+  },
+  {
+    "name": "SE_FX_M_Beholder_KB_2"
+  },
+  {
+    "name": "SE_FX_M_Beholder_KD_Str_Ham_1"
+  },
+  {
+    "name": "SE_FX_M_Beholder_KD_Str_Ham_2"
+  },
+  {
+    "name": "SE_FX_M_Beholder_KD_Upp_1"
+  },
+  {
+    "name": "SE_FX_M_Beholder_KD_Upp_2"
+  },
+  {
+    "name": "SE_FX_M_Beholder_Paralysis_01_1"
+  },
+  {
+    "name": "SE_FX_M_Beholder_Paralysis_01_2"
+  },
+  {
+    "name": "SE_FX_M_Beholder_SABreak_End_1"
+  },
+  {
+    "name": "SE_FX_M_Beholder_SABreak_End_2"
+  },
+  {
+    "name": "SE_FX_M_Beholder_SG_A_Skill_03_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_Beholder_SG_A_Skill_03_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_Beholder_SG_A_Skill_03_Projectile_3"
+  },
+  {
+    "name": "SE_FX_M_Beholder_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Beholder_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Beholder_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_Beholder_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Beholder_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Beholder_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_Beholder_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Beholder_Skill_03_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Beholder_Spawn_01_1"
+  },
+  {
+    "name": "SE_FX_M_Beholder_Spawn_01_2"
+  },
+  {
+    "name": "SE_FX_M_Beholder_Stun_01_1"
+  },
+  {
+    "name": "SE_FX_M_Beholder_Stun_01_2"
+  },
+  {
+    "name": "SE_FX_M_BonCrasher_B_Idle_01"
+  },
+  {
+    "name": "SE_FX_M_BonCrasher_B_N_Mode_Vox"
+  },
+  {
+    "name": "SE_FX_M_BonCrasher_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_BonCrasher_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_BonCrasher_DMG_3"
+  },
+  {
+    "name": "SE_FX_M_BonCrasher_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_BonCrasher_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_BonCrasher_Footstep_01"
+  },
+  {
+    "name": "SE_FX_M_BonCrasher_Footstep_02"
+  },
+  {
+    "name": "SE_FX_M_BonCrasher_Footstep_03"
+  },
+  {
+    "name": "SE_FX_M_BonCrasher_Footstep_04"
+  },
+  {
+    "name": "SE_FX_M_BonCrasher_LC_Skill_04"
+  },
+  {
+    "name": "SE_FX_M_BonCrasher_LC_Skill_04_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_BonCrasher_LC_Skill_04_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_BonCrasher_N_B_Mode"
+  },
+  {
+    "name": "SE_FX_M_BonCrasher_N_B_Mode_Vox"
+  },
+  {
+    "name": "SE_FX_M_BonCrasher_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_BonCrasher_Skill_01_Vox"
+  },
+  {
+    "name": "SE_FX_M_BonCrasher_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_BonCrasher_Skill_02_Vox"
+  },
+  {
+    "name": "SE_FX_M_BonCrasher_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_BonCrasher_Skill_03_Vox"
+  },
+  {
+    "name": "SE_FX_M_Cell_Death_Down_1"
+  },
+  {
+    "name": "SE_FX_M_Cell_Death_Down_2"
+  },
+  {
+    "name": "SE_FX_M_Cell_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_Cell_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_Cell_Hard_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Cell_Hard_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Cell_Hard_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_Cell_Hard_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Cell_Hard_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Cell_Spawn_01_1"
+  },
+  {
+    "name": "SE_FX_M_Cell_Spawn_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Cell_Spawn_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Cell_Spawn_02_1"
+  },
+  {
+    "name": "SE_FX_M_Cell_Spawn_02_2"
+  },
+  {
+    "name": "SE_FX_M_Cell_Spawn_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Cell_Spawn_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Cocoon_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_Cocoon_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_Cocoon_DMG_3"
+  },
+  {
+    "name": "SE_FX_M_Cocoon_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_Cocoon_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_Cocoon_Skill_01_1"
+  },
+  {
+    "name": "SE_FX_M_Cocoon_Skill_01_2"
+  },
+  {
+    "name": "SE_FX_M_Crawler_Body_Down_1"
+  },
+  {
+    "name": "SE_FX_M_Crawler_Body_Down_2"
+  },
+  {
+    "name": "SE_FX_M_Crawler_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_Crawler_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_Crawler_DMG_3"
+  },
+  {
+    "name": "SE_FX_M_Crawler_Death_Down_1"
+  },
+  {
+    "name": "SE_FX_M_Crawler_Death_Down_2"
+  },
+  {
+    "name": "SE_FX_M_Crawler_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_Crawler_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_Crawler_Footstep_01"
+  },
+  {
+    "name": "SE_FX_M_Crawler_Footstep_02"
+  },
+  {
+    "name": "SE_FX_M_Crawler_Footstep_03"
+  },
+  {
+    "name": "SE_FX_M_Crawler_Footstep_04"
+  },
+  {
+    "name": "SE_FX_M_Crawler_KBKD_1"
+  },
+  {
+    "name": "SE_FX_M_Crawler_KBKD_2"
+  },
+  {
+    "name": "SE_FX_M_Crawler_N_B_Mode"
+  },
+  {
+    "name": "SE_FX_M_Crawler_N_B_Mode_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Crawler_N_B_Mode_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Crawler_Raise"
+  },
+  {
+    "name": "SE_FX_M_Crawler_Raise_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Crawler_Raise_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Crawler_SG_Skill_02_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_Crawler_SG_Skill_02_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_Crawler_SG_Skill_02_Projectile_3"
+  },
+  {
+    "name": "SE_FX_M_Crawler_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_Crawler_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Crawler_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Crawler_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_Crawler_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Crawler_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Crawler_Spawn_01_1"
+  },
+  {
+    "name": "SE_FX_M_Crawler_Spawn_01_2"
+  },
+  {
+    "name": "SE_FX_M_Crawler_Spawn_02_1"
+  },
+  {
+    "name": "SE_FX_M_Crawler_Spawn_02_2"
+  },
+  {
+    "name": "SE_FX_M_Crawler_Spawn_03_1"
+  },
+  {
+    "name": "SE_FX_M_Crawler_Spawn_03_2"
+  },
+  {
+    "name": "SE_FX_M_Crawler_Spawn_03_3"
+  },
+  {
+    "name": "SE_FX_M_CrudeCell_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_CrudeCell_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_CrudeCell_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_CrudeCell_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_CrudeCell_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_CrudeCell_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_CrudeCell_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_CrudeCell_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_CrudeCell_Skill_03_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_CrudeCell_Skill_04"
+  },
+  {
+    "name": "SE_FX_M_CrudeCell_Skill_04_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_CrudeCell_Skill_04_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_CrudeCell_Skill_04_Projectile_3"
+  },
+  {
+    "name": "SE_FX_M_CrudeCell_Skill_04_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_CrudeCell_Skill_04_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_D6_AsphaltGolem_B_Skill_05"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_B_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_B_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_B_Idle_01_1"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_B_Idle_01_2"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_B_N_Mode"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_DMG_3"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_Footstep_01"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_Footstep_02"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_Footstep_03"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_Footstep_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_Footstep_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_Footstep_Vox_3"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_Hard_Skill_05"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_Hard_Skill_05_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_Hard_Skill_05_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_KB_1"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_KB_2"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_KD_Ham_1"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_KD_Ham_2"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_KD_Str_1"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_KD_Str_2"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_KD_Upp_1"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_KD_Upp_2"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_LC_Skill_06"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_LC_Skill_06_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_LC_Skill_06_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_N_B_Mode"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_Paralysis_01_1"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_Paralysis_01_2"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_Skill_03_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_Skill_04"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_Skill_04_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_Skill_04_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_Skill_05"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_Skill_05_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_Skill_05_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_Stun_01_1"
+  },
+  {
+    "name": "SE_FX_M_DarkAlligator_Stun_01_2"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_B_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_B_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_B_Idle_01_1"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_B_Idle_01_2"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_B_KB_Start_End_1"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_B_KB_Start_End_2"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_B_KD_Ham_B_Start_End_1"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_B_KD_Ham_B_Start_End_2"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_B_KD_Str_Start_End_1"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_B_KD_Str_Start_End_2"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_B_KD_Upp_Start_End_1"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_B_KD_Upp_Start_End_2"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_B_N_Mode"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_B_Paralysis_1"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_B_Paralysis_2"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_B_Stun_1"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_B_Stun_2"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_DMG_3"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_Footstep_01"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_Footstep_02"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_Footstep_03"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_Hard_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_Hard_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_Hard_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_N_B_Mode"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_Skill_03_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_Spawn_01_1"
+  },
+  {
+    "name": "SE_FX_M_DarkLizard_Spawn_01_2"
+  },
+  {
+    "name": "SE_FX_M_DarkMucus_LC_Skill_04"
+  },
+  {
+    "name": "SE_FX_M_DarkMucus_LC_Skill_04_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_DarkMucus_LC_Skill_04_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_DarkMucus_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_DarkMucus_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_DarkMucus_Skill_03_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_DarkMucus_Spawn_01_1"
+  },
+  {
+    "name": "SE_FX_M_DarkMucus_Spawn_01_2"
+  },
+  {
+    "name": "SE_FX_M_DarkMucus_Spawn_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_DarkMucus_Spawn_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_DarkWorm_B_Death_Stand"
+  },
+  {
+    "name": "SE_FX_M_DarkWorm_B_Death_Stand_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_DarkWorm_B_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_DarkWorm_B_Skill_01_Vox1"
+  },
+  {
+    "name": "SE_FX_M_DarkWorm_B_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_DarkWorm_B_Skill_02_Vox1"
+  },
+  {
+    "name": "SE_FX_M_DarkWorm_B_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_DarkWorm_B_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_DarkWorm_B_Skill_04"
+  },
+  {
+    "name": "SE_FX_M_DarkWorm_B_Skill_04_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_DarkWorm_B_Skill_04_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_DarkWorm_B_Skill_04_Projectile_3"
+  },
+  {
+    "name": "SE_FX_M_DarkWorm_B_Skill_04_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_DarkWorm_B_Skill_05"
+  },
+  {
+    "name": "SE_FX_M_DarkWorm_B_Skill_05_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_DarkWorm_B_Skill_05_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_DarkWorm_B_Skill_05_Projectile_3"
+  },
+  {
+    "name": "SE_FX_M_DarkWorm_B_Skill_05_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_DarkWorm_B_Skill_05_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_DarkWorm_B_Skill_06_End"
+  },
+  {
+    "name": "SE_FX_M_DarkWorm_B_Skill_06_End_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_DarkWorm_B_Skill_06_End_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_DarkWorm_B_Skill_06_Loop_1"
+  },
+  {
+    "name": "SE_FX_M_DarkWorm_B_Skill_06_Loop_2"
+  },
+  {
+    "name": "SE_FX_M_DarkWorm_B_Skill_06_Loop_3"
+  },
+  {
+    "name": "SE_FX_M_DarkWorm_B_Skill_06_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_DarkWorm_B_Skill_06_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_DarkWorm_B_Skill_06_Projectile_3"
+  },
+  {
+    "name": "SE_FX_M_DarkWorm_B_Skill_06_Start"
+  },
+  {
+    "name": "SE_FX_M_DarkWorm_B_Skill_06_Start_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_DarkWorm_B_Skill_06_Start_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_DMG_3"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_Footstep_01"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_Footstep_02"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_Footstep_03"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_Footstep_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_Footstep_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_KB_1"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_KB_2"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_KD_1"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_KD_2"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_Skill_02_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_Skill_02_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_Skill_02_Projectile_3"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_Skill_03_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_Skill_03_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_Skill_03_Projectile_3"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_Skill_03_Projectile_4"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_Skill_03_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_Skill_04"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_Skill_04_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_Skill_04_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_Skill_04_Projectile_3"
+  },
+  {
+    "name": "SE_FX_M_DignitySnacher_Skill_05"
+  },
+  {
+    "name": "SE_FX_M_EMPMine_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_EMPMine_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_EMPMine_Skill_End_1"
+  },
+  {
+    "name": "SE_FX_M_EMPMine_Skill_End_2"
+  },
+  {
+    "name": "SE_FX_M_EMPMine_Skill_Loop_1"
+  },
+  {
+    "name": "SE_FX_M_EMPMine_Skill_Loop_2"
+  },
+  {
+    "name": "SE_FX_M_EMPMine_Skill_Loop_3"
+  },
+  {
+    "name": "SE_FX_M_EMPMine_Skill_Start_1"
+  },
+  {
+    "name": "SE_FX_M_EMPMine_Skill_Start_2"
+  },
+  {
+    "name": "SE_FX_M_EmbryoPuppet_B_Idle_01_1"
+  },
+  {
+    "name": "SE_FX_M_EmbryoPuppet_B_Idle_01_2"
+  },
+  {
+    "name": "SE_FX_M_EmbryoPuppet_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_EmbryoPuppet_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_EmbryoPuppet_LC_Skill_05"
+  },
+  {
+    "name": "SE_FX_M_EmbryoPuppet_LC_Skill_05_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_EmbryoPuppet_LC_Skill_05_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_EmbryoPuppet_Skill_04"
+  },
+  {
+    "name": "SE_FX_M_EmbryoPuppet_Skill_04_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_EmbryoPuppet_Skill_04_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_FidgetPuppet_B_Idle_01"
+  },
+  {
+    "name": "SE_FX_M_FidgetPuppet_B_N_Mode"
+  },
+  {
+    "name": "SE_FX_M_FidgetPuppet_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_FidgetPuppet_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_FidgetPuppet_DMG_3"
+  },
+  {
+    "name": "SE_FX_M_FidgetPuppet_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_FidgetPuppet_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_FidgetPuppet_N_B_Mode"
+  },
+  {
+    "name": "SE_FX_M_FidgetPuppet_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_FidgetPuppet_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_FidgetPuppet_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_FidgetPuppet_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_FidgetPuppet_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_FidgetPuppet_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_FidgetPuppet_Stun_1"
+  },
+  {
+    "name": "SE_FX_M_FidgetPuppet_Stun_2"
+  },
+  {
+    "name": "SE_FX_M_Gallasness_SG_B_Idle_01_1"
+  },
+  {
+    "name": "SE_FX_M_Gallasness_SG_B_Idle_01_2"
+  },
+  {
+    "name": "SE_FX_M_Gallasness_SG_Skill_02_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_Gallasness_SG_Skill_02_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_Gallasness_SG_Skill_02_Projectile_3"
+  },
+  {
+    "name": "SE_FX_M_Gallasness_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_Gallasness_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Gallasness_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Gallasness_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_Gallasness_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Gallasness_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Gallasness_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_Gallasness_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Gallasness_Skill_03_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Gallasness_Skill_04"
+  },
+  {
+    "name": "SE_FX_M_Gallasness_Skill_04_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Gallasness_Skill_04_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Gallasness_Spawn_01_1"
+  },
+  {
+    "name": "SE_FX_M_Gallasness_Spawn_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Gallasness_Spawn_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Gallus_B_Idle_01_1"
+  },
+  {
+    "name": "SE_FX_M_Gallus_B_Idle_01_2"
+  },
+  {
+    "name": "SE_FX_M_Gallus_B_N_Mode"
+  },
+  {
+    "name": "SE_FX_M_Gallus_B_N_Mode_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Gallus_B_N_Mode_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Gallus_Body_Down_1"
+  },
+  {
+    "name": "SE_FX_M_Gallus_Body_Down_2"
+  },
+  {
+    "name": "SE_FX_M_Gallus_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_Gallus_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_Gallus_DMG_3"
+  },
+  {
+    "name": "SE_FX_M_Gallus_Death_Down_1"
+  },
+  {
+    "name": "SE_FX_M_Gallus_Death_Down_2"
+  },
+  {
+    "name": "SE_FX_M_Gallus_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_Gallus_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_Gallus_Footstep_01"
+  },
+  {
+    "name": "SE_FX_M_Gallus_Footstep_02"
+  },
+  {
+    "name": "SE_FX_M_Gallus_Footstep_03"
+  },
+  {
+    "name": "SE_FX_M_Gallus_Footstep_04"
+  },
+  {
+    "name": "SE_FX_M_Gallus_Footstep_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Gallus_Footstep_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Gallus_Hard_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_Gallus_Hard_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_Gallus_Hard_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_Gallus_KB_1"
+  },
+  {
+    "name": "SE_FX_M_Gallus_KB_2"
+  },
+  {
+    "name": "SE_FX_M_Gallus_KD_1"
+  },
+  {
+    "name": "SE_FX_M_Gallus_KD_2"
+  },
+  {
+    "name": "SE_FX_M_Gallus_N_B_Mode"
+  },
+  {
+    "name": "SE_FX_M_Gallus_N_B_Mode_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Gallus_N_B_Mode_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Gallus_Raise"
+  },
+  {
+    "name": "SE_FX_M_Gallus_Raise_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Gallus_Raise_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Gallus_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_Gallus_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Gallus_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Gallus_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_Gallus_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Gallus_Skill_03_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Gallus_Spawn_01_1"
+  },
+  {
+    "name": "SE_FX_M_Gallus_Spawn_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Gallus_Spawn_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Habitant_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_Habitant_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Habitant_Skill_03_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Hokma_B_Idle_01_1"
+  },
+  {
+    "name": "SE_FX_M_Hokma_B_Idle_01_2"
+  },
+  {
+    "name": "SE_FX_M_Hokma_B_N_Mode_01_1"
+  },
+  {
+    "name": "SE_FX_M_Hokma_B_N_Mode_01_2"
+  },
+  {
+    "name": "SE_FX_M_Hokma_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_Hokma_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_Hokma_DMG_3"
+  },
+  {
+    "name": "SE_FX_M_Hokma_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_Hokma_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_Hokma_Footstep_01"
+  },
+  {
+    "name": "SE_FX_M_Hokma_Footstep_02"
+  },
+  {
+    "name": "SE_FX_M_Hokma_Footstep_03"
+  },
+  {
+    "name": "SE_FX_M_Hokma_Footstep_04"
+  },
+  {
+    "name": "SE_FX_M_Hokma_KB_1"
+  },
+  {
+    "name": "SE_FX_M_Hokma_KB_2"
+  },
+  {
+    "name": "SE_FX_M_Hokma_KD_1"
+  },
+  {
+    "name": "SE_FX_M_Hokma_KD_2"
+  },
+  {
+    "name": "SE_FX_M_Hokma_LC_Skill_02_1"
+  },
+  {
+    "name": "SE_FX_M_Hokma_LC_Skill_02_2"
+  },
+  {
+    "name": "SE_FX_M_Hokma_N_B_Mode_01_1"
+  },
+  {
+    "name": "SE_FX_M_Hokma_N_B_Mode_01_2"
+  },
+  {
+    "name": "SE_FX_M_Hokma_Skill_01_1"
+  },
+  {
+    "name": "SE_FX_M_Hokma_Skill_01_2"
+  },
+  {
+    "name": "SE_FX_M_Hokma_Spawn_01_1"
+  },
+  {
+    "name": "SE_FX_M_Hokma_Spawn_01_2"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_B_Idle_01"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_B_Idle_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_B_Idle_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_B_N_Mode_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_B_N_Mode_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_Body_Down_1"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_Body_Down_2"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_DMG_3"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_Death_Down_1"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_Death_Down_2"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_Footstep_01"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_Footstep_02"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_Footstep_03"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_Footstep_04"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_Footstep_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_Footstep_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_Hard_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_Hard_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_Hard_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_Hard_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_Hard_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_KB_1"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_KB_2"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_KD_1"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_KD_2"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_N_B_Mode_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_N_B_Mode_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_Paralysis_01_1"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_Paralysis_01_2"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_Raise"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_Raise_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_Raise_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_Spawn_01_1"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_Stun_01_1"
+  },
+  {
+    "name": "SE_FX_M_ImfectedGirl_Stun_01_2"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_B_Idle_01"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_B_Idle_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_B_Idle_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_B_N_Mode"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_B_N_Mode_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_B_N_Mode_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_Body_Down_1"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_Body_Down_2"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_DMG_3"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_Death_Down_1"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_Death_Down_2"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_Footstep_01"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_Footstep_02"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_Footstep_03"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_Footstep_04"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_Footstep_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_Footstep_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_Hard_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_Hard_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_Hard_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_KB_1"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_KB_2"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_N_B_Mode"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_N_B_Mode_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_N_B_Mode_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_Paralysis_01_1"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_Paralysis_01_2"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_Raise"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_Raise_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_Raise_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_Spawn_01_1"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_Stun_01_1"
+  },
+  {
+    "name": "SE_FX_M_ImpectedGuarrd_Stun_01_2"
+  },
+  {
+    "name": "SE_FX_M_IronBreaker_JH_Skill_07"
+  },
+  {
+    "name": "SE_FX_M_IronBreaker_SG_Skill_05_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_IronBreaker_SG_Skill_05_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_IronBreaker_SG_Skill_05_Projectile_3"
+  },
+  {
+    "name": "SE_FX_M_IronBreaker_Skill_01_Vox"
+  },
+  {
+    "name": "SE_FX_M_IronBreaker_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_IronBreaker_Skill_02_Vox"
+  },
+  {
+    "name": "SE_FX_M_IronBreaker_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_IronBreaker_Skill_03_Vox"
+  },
+  {
+    "name": "SE_FX_M_IronBreaker_Skill_04"
+  },
+  {
+    "name": "SE_FX_M_IronBreaker_Skill_04_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_IronBreaker_Skill_04_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_IronBreaker_Skill_04_Projectile_3"
+  },
+  {
+    "name": "SE_FX_M_IronBreaker_Skill_04_Vox"
+  },
+  {
+    "name": "SE_FX_M_IronBreaker_Skill_05"
+  },
+  {
+    "name": "SE_FX_M_IronBreaker_Skill_05_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_IronBreaker_Skill_05_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_IronBreaker_Skill_06"
+  },
+  {
+    "name": "SE_FX_M_IronBreaker_Skill_06_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_IronBreaker_Skill_06_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_JacktheKing_SG_Skill_02_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_JacktheKing_SG_Skill_02_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_JacktheKing_SG_Skill_02_Projectile_3"
+  },
+  {
+    "name": "SE_FX_M_JacktheKing_SG_Skill_03_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_JacktheKing_SG_Skill_03_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_JacktheKing_SG_Skill_03_Projectile_3"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_B_Idle_01_1"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_B_Idle_01_2"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_DMG_3"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_Footstep_01"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_Footstep_02"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_Footstep_03"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_Footstep_04"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_Footstep_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_Footstep_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_KB_1"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_KB_2"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_KD_Ham_B_1"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_KD_Ham_B_2"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_KD_Str_1"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_KD_Str_2"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_KD_Upp_1"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_KD_Upp_2"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_SABreak_End_1"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_SABreak_End_2"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_Skill_01_Vox_3"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_Skill_02_Vox_3"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_Skill_03_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_Skill_03_Vox_3"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_Skill_04"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_Skill_04_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_Skill_04_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_Skill_04_Vox_3"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_Skill_05_1"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_Skill_05_2"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_Skill_05_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_Skill_05_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_Skill_05_Vox_3"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_Stun_1"
+  },
+  {
+    "name": "SE_FX_M_Jacktheking_Stun_2"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Action"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Action_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Action_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_B_Idle_01"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_B_Idle_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_B_Idle_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_B_Skill_06_Projectile_ami_1"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_B_Skill_06_Projectile_ami_2"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_B_Skill_06_Projectile_ami_3"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_DMG_3"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Death_Stand_Slow_1"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Death_Stand_Slow_2"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Footstep_01"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Footstep_02"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Footstep_03"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Footstep_04"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Footstep_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Footstep_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_KB_1"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_KB_2"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_KD_Ham_B_1"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_KD_Ham_B_2"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_KD_Str_1"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_KD_Str_2"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_KD_Upp_1"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_KD_Upp_2"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_SABreak_End_1"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_SABreak_End_2"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_02_End"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_02_End_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_02_End_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_02_Start_1"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_02_Start_2"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_02_Start_3"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_02_Start_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_02_Start_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_03_End"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_03_End_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_03_End_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_04"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_04_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_04_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_05"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_05_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_05_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_05_Projectile_3"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_05_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_05_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_06"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_06_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_06_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_06_Projectile_3"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_06_Projectile_4"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_06_Projectile_5"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_06_Projectile_6"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_06_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_06_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_07_End"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_07_End_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_07_End_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_07_Loop"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_07_Start"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_07_Start_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_07_Start_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_08"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_08_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_08_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_09_End"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_09_End_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_09_End_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_09_Loop"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_09_Start"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_09_Start_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_09_Start_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_B_Idle_01_1"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_B_Idle_01_2"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_B_N_Mode"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_B_N_Mode_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_B_N_Mode_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_DMG_3"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_Footstep_01"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_Footstep_02"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_Footstep_03"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_Footstep_04"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_Footstep_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_Footstep_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_KB_1"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_KB_2"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_KD_Ham_B_1"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_KD_Ham_B_2"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_KD_Str_1"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_KD_Str_2"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_KD_Upp_1"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_KD_Upp_2"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_LC_Skill_05"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_LC_Skill_05_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_LC_Skill_05_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_N_B_Mode"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_N_B_Mode_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_N_B_Mode_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_SG_Skill_04"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_Skill_03_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_Skill_04"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_Skill_04_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_KiesslingPuppet_Skill_04_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_KiesslingTotem_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_KiesslingTotem_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_KiesslingTotem_Death_Stand_3"
+  },
+  {
+    "name": "SE_FX_M_KiesslingTotem_Skill_01_1"
+  },
+  {
+    "name": "SE_FX_M_KiesslingTotem_Skill_01_2"
+  },
+  {
+    "name": "SE_FX_M_KiesslingTotem_Skill_01_3"
+  },
+  {
+    "name": "SE_FX_M_LandCrasher_B_Idle_01"
+  },
+  {
+    "name": "SE_FX_M_LandCrasher_Death_Stand"
+  },
+  {
+    "name": "SE_FX_M_LandCrasher_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_LandCrasher_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_LandCrasher_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_LandCrasher_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_LandCrasher_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_LandCrasher_Skill_04"
+  },
+  {
+    "name": "SE_FX_M_LandCrasher_Skill_04_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_LandCrasher_Skill_04_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_LandCrasher_Skill_04_Projectile_3"
+  },
+  {
+    "name": "SE_FX_M_LandCrasher_Skill_04_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_LandCrasher_Skill_04_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_LandStone_B_Idle_01"
+  },
+  {
+    "name": "SE_FX_M_LandStone_B_Idle_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_LandStone_B_Idle_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_LandStone_B_KD_Str"
+  },
+  {
+    "name": "SE_FX_M_LandStone_B_N_Mode"
+  },
+  {
+    "name": "SE_FX_M_LandStone_B_N_Mode_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_LandStone_B_N_Mode_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_LandStone_Body_Down_1"
+  },
+  {
+    "name": "SE_FX_M_LandStone_Body_Down_2"
+  },
+  {
+    "name": "SE_FX_M_LandStone_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_LandStone_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_LandStone_DMG_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_LandStone_DMG_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_LandStone_DMG_Vox_3"
+  },
+  {
+    "name": "SE_FX_M_LandStone_DMG_Vox_4"
+  },
+  {
+    "name": "SE_FX_M_LandStone_Death_Boom_01_1"
+  },
+  {
+    "name": "SE_FX_M_LandStone_Death_Boom_01_2"
+  },
+  {
+    "name": "SE_FX_M_LandStone_Death_Boom_02_1"
+  },
+  {
+    "name": "SE_FX_M_LandStone_Death_Boom_02_2"
+  },
+  {
+    "name": "SE_FX_M_LandStone_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_LandStone_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_LandStone_Death_Stand_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_LandStone_Death_Stand_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_LandStone_Footstep_01"
+  },
+  {
+    "name": "SE_FX_M_LandStone_Footstep_02"
+  },
+  {
+    "name": "SE_FX_M_LandStone_Footstep_03"
+  },
+  {
+    "name": "SE_FX_M_LandStone_Footstep_04"
+  },
+  {
+    "name": "SE_FX_M_LandStone_KB"
+  },
+  {
+    "name": "SE_FX_M_LandStone_N_B_Mode"
+  },
+  {
+    "name": "SE_FX_M_LandStone_N_B_Mode_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_LandStone_N_B_Mode_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_LandStone_N_Idle_01"
+  },
+  {
+    "name": "SE_FX_M_LandStone_N_Spawn"
+  },
+  {
+    "name": "SE_FX_M_LandStone_N_Spawn_02"
+  },
+  {
+    "name": "SE_FX_M_LandStone_N_Spawn_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_LandStone_N_Spawn_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_LandStone_N_Spawn_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_LandStone_N_Spawn_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_LandStone_N_Walk_01"
+  },
+  {
+    "name": "SE_FX_M_LandStone_N_Walk_02"
+  },
+  {
+    "name": "SE_FX_M_LandStone_N_Walk_03"
+  },
+  {
+    "name": "SE_FX_M_LandStone_N_Walk_04"
+  },
+  {
+    "name": "SE_FX_M_LandStone_Paralysis_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_LandStone_Paralysis_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_LandStone_Raise"
+  },
+  {
+    "name": "SE_FX_M_LandStone_Raise_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_LandStone_Raise_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_LandStone_Run_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_LandStone_Run_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_LandStone_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_LandStone_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_LandStone_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_LandStone_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_LandStone_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_LandStone_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_LandStone_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_LandStone_Skill_03_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_LandStone_Stun"
+  },
+  {
+    "name": "SE_FX_M_LandStone_Stun_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_LandStone_Stun_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_LaserTrap_B_Stand"
+  },
+  {
+    "name": "SE_FX_M_LaserTrap_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_LaserTrap_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_LaserTrap_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_LaserTrap_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_LaserTrap_N_Stand"
+  },
+  {
+    "name": "SE_FX_M_LoadScorn_DMG_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_LoadScorn_DMG_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_LoadScorn_Death_Stand"
+  },
+  {
+    "name": "SE_FX_M_LoadScorn_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_LoadScorn_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_LoadScorn_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_LoadScorn_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_LoadScorn_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_LoadScorn_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_LoadScorn_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_LoadScorn_Skill_04_End"
+  },
+  {
+    "name": "SE_FX_M_LoadScorn_Skill_04_Grip"
+  },
+  {
+    "name": "SE_FX_M_LoadScorn_Skill_04_Start"
+  },
+  {
+    "name": "SE_FX_M_LoadScorn_Skill_04_Start_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_LoadScorn_Skill_04_Start_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_LoadScorn_Skill_05"
+  },
+  {
+    "name": "SE_FX_M_LoadScorn_Skill_05_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_LoadScorn_Skill_05_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_LoadScorn_Spawn_01_1"
+  },
+  {
+    "name": "SE_FX_M_Luga_B_Idle_01_1"
+  },
+  {
+    "name": "SE_FX_M_Luga_B_Idle_01_2"
+  },
+  {
+    "name": "SE_FX_M_Luga_B_N_Mode_1"
+  },
+  {
+    "name": "SE_FX_M_Luga_B_N_Mode_2"
+  },
+  {
+    "name": "SE_FX_M_Luga_Body_Down_1"
+  },
+  {
+    "name": "SE_FX_M_Luga_Body_Down_2"
+  },
+  {
+    "name": "SE_FX_M_Luga_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_Luga_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_Luga_DMG_3"
+  },
+  {
+    "name": "SE_FX_M_Luga_Death_Down_1"
+  },
+  {
+    "name": "SE_FX_M_Luga_Death_Down_2"
+  },
+  {
+    "name": "SE_FX_M_Luga_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_Luga_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_Luga_Footstep_01"
+  },
+  {
+    "name": "SE_FX_M_Luga_Footstep_02"
+  },
+  {
+    "name": "SE_FX_M_Luga_Footstep_03"
+  },
+  {
+    "name": "SE_FX_M_Luga_Footstep_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Luga_Footstep_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Luga_Hard_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_Luga_Hard_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Luga_Hard_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Luga_KB_1"
+  },
+  {
+    "name": "SE_FX_M_Luga_KB_2"
+  },
+  {
+    "name": "SE_FX_M_Luga_N_B_Mode_1"
+  },
+  {
+    "name": "SE_FX_M_Luga_N_B_Mode_2"
+  },
+  {
+    "name": "SE_FX_M_Luga_Raise"
+  },
+  {
+    "name": "SE_FX_M_Luga_Raise_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Luga_Raise_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Luga_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_Luga_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Luga_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Luga_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_Luga_Skill_02_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_Luga_Skill_02_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_Luga_Skill_02_Projectile_3"
+  },
+  {
+    "name": "SE_FX_M_Luga_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Luga_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Luga_Spawn_01_1"
+  },
+  {
+    "name": "SE_FX_M_MadBeholder_B_A_B_Mode_Change"
+  },
+  {
+    "name": "SE_FX_M_MadBeholder_B_A_B_Mode_Change_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_MadBeholder_B_A_B_Mode_Change_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_MadBeholder_B_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_MadBeholder_B_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_MadBeholder_B_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_MadBeholder_B_Skill_02_End"
+  },
+  {
+    "name": "SE_FX_M_MadBeholder_B_Skill_02_End_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_MadBeholder_B_Skill_02_End_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_MadBeholder_B_Skill_02_Start"
+  },
+  {
+    "name": "SE_FX_M_MadBeholder_B_Skill_02_Start_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_MadBeholder_B_Skill_02_Start_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_MadBeholder_B_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_MadBeholder_B_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_MadBeholder_B_Skill_03_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_MadBeholder_B_Skill_04"
+  },
+  {
+    "name": "SE_FX_M_MadBeholder_B_Skill_04_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_MadBeholder_B_Skill_04_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_MadBeholder_B_Skill_05"
+  },
+  {
+    "name": "SE_FX_M_MadBeholder_B_Skill_05_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_MadBeholder_B_Skill_05_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_MadBeholder_B_Skill_05_Projectile_3"
+  },
+  {
+    "name": "SE_FX_M_MadBeholder_B_Skill_05_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_MadBeholder_B_Skill_05_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_MadBeholder_Death_Stand_Last_1"
+  },
+  {
+    "name": "SE_FX_M_MadBeholder_Death_Stand_Last_2"
+  },
+  {
+    "name": "SE_FX_M_MadBeholder_SABreak_End_1"
+  },
+  {
+    "name": "SE_FX_M_MadBeholder_SABreak_End_2"
+  },
+  {
+    "name": "SE_FX_M_MangroveCel_Spawn_01_1"
+  },
+  {
+    "name": "SE_FX_M_MangroveCell_B_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_MangroveCell_B_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_MangroveCell_B_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_MangroveCell_B_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_MangroveCell_B_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_MangroveCell_B_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_MangroveCell_Death_Boom_01_1"
+  },
+  {
+    "name": "SE_FX_M_MangroveCell_Death_Boom_01_2"
+  },
+  {
+    "name": "SE_FX_M_MangroveCell_Death_Boom_02_1"
+  },
+  {
+    "name": "SE_FX_M_MangroveCell_Death_Boom_02_2"
+  },
+  {
+    "name": "SE_FX_M_MangroveCell_SG_B_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_MeltinessCell_Death_Down_1"
+  },
+  {
+    "name": "SE_FX_M_MeltinessCell_Death_Down_2"
+  },
+  {
+    "name": "SE_FX_M_MeltinessCell_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_MeltinessCell_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_MumblePuppet_SG_Skill_02_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_MumblePuppet_SG_Skill_02_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_MumblePuppet_SG_Skill_02_Projectile_3"
+  },
+  {
+    "name": "SE_FX_M_MumblePuppet_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_MumblePuppet_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_MumblePuppet_Skill_03_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_N65_B_Idle_01_1"
+  },
+  {
+    "name": "SE_FX_M_N65_B_Idle_01_2"
+  },
+  {
+    "name": "SE_FX_M_N65_B_N_Mode_01_1"
+  },
+  {
+    "name": "SE_FX_M_N65_B_N_Mode_01_2"
+  },
+  {
+    "name": "SE_FX_M_N65_Body_Down_1"
+  },
+  {
+    "name": "SE_FX_M_N65_Body_Down_2"
+  },
+  {
+    "name": "SE_FX_M_N65_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_N65_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_N65_DMG_3"
+  },
+  {
+    "name": "SE_FX_M_N65_Death_Down_1"
+  },
+  {
+    "name": "SE_FX_M_N65_Death_Down_2"
+  },
+  {
+    "name": "SE_FX_M_N65_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_N65_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_N65_Footstep_01"
+  },
+  {
+    "name": "SE_FX_M_N65_Footstep_02"
+  },
+  {
+    "name": "SE_FX_M_N65_Footstep_03"
+  },
+  {
+    "name": "SE_FX_M_N65_Footstep_04"
+  },
+  {
+    "name": "SE_FX_M_N65_Footstep_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_N65_KB_1"
+  },
+  {
+    "name": "SE_FX_M_N65_KB_2"
+  },
+  {
+    "name": "SE_FX_M_N65_KD_1"
+  },
+  {
+    "name": "SE_FX_M_N65_KD_2"
+  },
+  {
+    "name": "SE_FX_M_N65_N_B_Mode_01_1"
+  },
+  {
+    "name": "SE_FX_M_N65_N_B_Mode_01_2"
+  },
+  {
+    "name": "SE_FX_M_N65_Paralysis_01_1"
+  },
+  {
+    "name": "SE_FX_M_N65_Paralysis_01_2"
+  },
+  {
+    "name": "SE_FX_M_N65_Raise"
+  },
+  {
+    "name": "SE_FX_M_N65_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_N65_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_N65_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_N65_Spawn_01_1"
+  },
+  {
+    "name": "SE_FX_M_N65_Stun_01_1"
+  },
+  {
+    "name": "SE_FX_M_N65_Stun_01_2"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_B_Idle_01_1"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_B_Idle_01_2"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_B_N_Mode"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_B_N_Mode_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_B_N_Mode_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_DMG_3"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_Footstep_01"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_Footstep_02"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_Footstep_03"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_Footstep_04"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_Footstep_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_Footstep_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_KB_KD_Str_1"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_KB_KD_Str_2"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_KD_Ham_1"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_KD_Ham_2"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_KD_Upp_1"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_KD_Upp_2"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_N_B_Mode"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_N_B_Mode_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_N_B_Mode_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_Skill_03_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_Skill_03_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_Skill_03_Projectile_3"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_Skill_03_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_Skill_04"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_Skill_04_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_Skill_04_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_Skill_05"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_Skill_05_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_Skill_05_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_Spawn_01_1"
+  },
+  {
+    "name": "SE_FX_M_PawnSpider_Spawn_01_2"
+  },
+  {
+    "name": "SE_FX_M_PierrotEdgar_Largebox_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_PierrotEdgar_Largebox_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_PierrotEdgar_Largebox_DMG_3"
+  },
+  {
+    "name": "SE_FX_M_PierrotEdgar_Largebox_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_PierrotEdgar_Largebox_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_PierrotEdgar_Largebox_Skill_01_1"
+  },
+  {
+    "name": "SE_FX_M_PierrotEdgar_Largebox_Skill_01_2"
+  },
+  {
+    "name": "SE_FX_M_PierrotEdgar_Largebox_anim_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_PierrotEdgar_Largebox_anim_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_PierrotEdgar_Largebox_anim_Skill_01_1"
+  },
+  {
+    "name": "SE_FX_M_PierrotEdgar_Largebox_anim_Skill_01_2"
+  },
+  {
+    "name": "SE_FX_M_PierrotEdgar_Smallbox_Skill_01_1"
+  },
+  {
+    "name": "SE_FX_M_PierrotEdgar_Smallbox_Skill_01_2"
+  },
+  {
+    "name": "SE_FX_M_Poison_Cocoon_Small_B_Stand"
+  },
+  {
+    "name": "SE_FX_M_Poison_Cocoon_Small_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_Poison_Cocoon_Small_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_Poison_Cocoon_Small_Death_Stand"
+  },
+  {
+    "name": "SE_FX_M_Poison_Cocoon_Small_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_Rampage_B_Idle_01_1"
+  },
+  {
+    "name": "SE_FX_M_Rampage_B_Idle_01_2"
+  },
+  {
+    "name": "SE_FX_M_Rampage_B_N_Mode"
+  },
+  {
+    "name": "SE_FX_M_Rampage_B_N_Mode_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Rampage_B_N_Mode_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Rampage_Body_Down_1"
+  },
+  {
+    "name": "SE_FX_M_Rampage_Body_Down_2"
+  },
+  {
+    "name": "SE_FX_M_Rampage_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_Rampage_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_Rampage_DMG_3"
+  },
+  {
+    "name": "SE_FX_M_Rampage_Death_Down_1"
+  },
+  {
+    "name": "SE_FX_M_Rampage_Death_Down_2"
+  },
+  {
+    "name": "SE_FX_M_Rampage_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_Rampage_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_Rampage_Footstep_01"
+  },
+  {
+    "name": "SE_FX_M_Rampage_Footstep_02"
+  },
+  {
+    "name": "SE_FX_M_Rampage_Footstep_03"
+  },
+  {
+    "name": "SE_FX_M_Rampage_Footstep_04"
+  },
+  {
+    "name": "SE_FX_M_Rampage_Footstep_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Rampage_Footstep_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Rampage_KB_1"
+  },
+  {
+    "name": "SE_FX_M_Rampage_KB_2"
+  },
+  {
+    "name": "SE_FX_M_Rampage_KD_1"
+  },
+  {
+    "name": "SE_FX_M_Rampage_KD_2"
+  },
+  {
+    "name": "SE_FX_M_Rampage_N_B_Mode"
+  },
+  {
+    "name": "SE_FX_M_Rampage_N_B_Mode_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Rampage_N_B_Mode_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Rampage_Raise"
+  },
+  {
+    "name": "SE_FX_M_Rampage_Raise_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Rampage_Raise_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Rampage_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_Rampage_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Rampage_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Rampage_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_Rampage_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Rampage_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Rampage_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_Rampage_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Rampage_Skill_03_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Rampage_Skill_04"
+  },
+  {
+    "name": "SE_FX_M_Rampage_Skill_04_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Rampage_Skill_04_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Rampage_Spawn_01_1"
+  },
+  {
+    "name": "SE_FX_M_Rampage_Spawn_01_2"
+  },
+  {
+    "name": "SE_FX_M_S00_B_Idle_01_1"
+  },
+  {
+    "name": "SE_FX_M_S00_B_Idle_01_2"
+  },
+  {
+    "name": "SE_FX_M_S00_B_N_Mode"
+  },
+  {
+    "name": "SE_FX_M_S00_B_N_Mode_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_S00_B_N_Mode_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_S00_Body_Down_1"
+  },
+  {
+    "name": "SE_FX_M_S00_Body_Down_2"
+  },
+  {
+    "name": "SE_FX_M_S00_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_S00_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_S00_DMG_3"
+  },
+  {
+    "name": "SE_FX_M_S00_Death_Down_1"
+  },
+  {
+    "name": "SE_FX_M_S00_Death_Down_2"
+  },
+  {
+    "name": "SE_FX_M_S00_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_S00_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_S00_Footstep_01"
+  },
+  {
+    "name": "SE_FX_M_S00_Footstep_02"
+  },
+  {
+    "name": "SE_FX_M_S00_Footstep_03"
+  },
+  {
+    "name": "SE_FX_M_S00_Footstep_04"
+  },
+  {
+    "name": "SE_FX_M_S00_Footstep_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_S00_Footstep_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_S00_KB_1"
+  },
+  {
+    "name": "SE_FX_M_S00_KB_2"
+  },
+  {
+    "name": "SE_FX_M_S00_KD_1"
+  },
+  {
+    "name": "SE_FX_M_S00_KD_2"
+  },
+  {
+    "name": "SE_FX_M_S00_N_B_Mode"
+  },
+  {
+    "name": "SE_FX_M_S00_N_B_Mode_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_S00_N_B_Mode_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_S00_Paralysis_01_1"
+  },
+  {
+    "name": "SE_FX_M_S00_Paralysis_01_2"
+  },
+  {
+    "name": "SE_FX_M_S00_Raise"
+  },
+  {
+    "name": "SE_FX_M_S00_Raise_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_S00_Raise_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_S00_SG_B_Idle_01_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_S00_SG_B_Idle_01_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_S00_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_S00_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_S00_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_S00_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_S00_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_S00_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_S00_Spawn_01_1"
+  },
+  {
+    "name": "SE_FX_M_S00_Spawn_01_2"
+  },
+  {
+    "name": "SE_FX_M_S00_Spawn_02_1"
+  },
+  {
+    "name": "SE_FX_M_S00_Spawn_02_2"
+  },
+  {
+    "name": "SE_FX_M_S00_Stun_01_1"
+  },
+  {
+    "name": "SE_FX_M_S00_Stun_01_2"
+  },
+  {
+    "name": "SE_FX_M_S01_B_Idle_01_1"
+  },
+  {
+    "name": "SE_FX_M_S01_B_Idle_01_2"
+  },
+  {
+    "name": "SE_FX_M_S01_B_N_Mode_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_S01_B_N_Mode_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_S01_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_S01_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_S01_DMG_3"
+  },
+  {
+    "name": "SE_FX_M_S01_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_S01_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_S01_Footstep_01"
+  },
+  {
+    "name": "SE_FX_M_S01_Footstep_02"
+  },
+  {
+    "name": "SE_FX_M_S01_Footstep_03"
+  },
+  {
+    "name": "SE_FX_M_S01_Footstep_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_S01_Footstep_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_S01_JH_Skill_04"
+  },
+  {
+    "name": "SE_FX_M_S01_KB_1"
+  },
+  {
+    "name": "SE_FX_M_S01_KB_2"
+  },
+  {
+    "name": "SE_FX_M_S01_KD_1"
+  },
+  {
+    "name": "SE_FX_M_S01_KD_2"
+  },
+  {
+    "name": "SE_FX_M_S01_N_B_Mode"
+  },
+  {
+    "name": "SE_FX_M_S01_N_B_Mode_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_S01_N_B_Mode_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_S01_Paralysis_01_1"
+  },
+  {
+    "name": "SE_FX_M_S01_Paralysis_01_2"
+  },
+  {
+    "name": "SE_FX_M_S01_SG_Skill_03_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_S01_SG_Skill_03_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_S01_SG_Skill_03_Projectile_3"
+  },
+  {
+    "name": "SE_FX_M_S01_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_S01_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_S01_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_S01_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_S01_Skill_02_Vox_1 "
+  },
+  {
+    "name": "SE_FX_M_S01_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_S01_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_S01_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_S01_Skill_03_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_S01_Spawn_01_1"
+  },
+  {
+    "name": "SE_FX_M_S01_Spawn_01_2"
+  },
+  {
+    "name": "SE_FX_M_S01_Stun_01_1"
+  },
+  {
+    "name": "SE_FX_M_S01_Stun_01_2"
+  },
+  {
+    "name": "SE_FX_M_S02_B_Idle_01_1"
+  },
+  {
+    "name": "SE_FX_M_S02_B_Idle_01_2"
+  },
+  {
+    "name": "SE_FX_M_S02_B_N_Mode"
+  },
+  {
+    "name": "SE_FX_M_S02_B_N_Mode_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_S02_B_N_Mode_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_S02_Body_Down_1"
+  },
+  {
+    "name": "SE_FX_M_S02_Body_Down_2"
+  },
+  {
+    "name": "SE_FX_M_S02_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_S02_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_S02_DMG_3"
+  },
+  {
+    "name": "SE_FX_M_S02_Death_Down_1"
+  },
+  {
+    "name": "SE_FX_M_S02_Death_Down_2"
+  },
+  {
+    "name": "SE_FX_M_S02_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_S02_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_S02_Footstep_01"
+  },
+  {
+    "name": "SE_FX_M_S02_Footstep_02"
+  },
+  {
+    "name": "SE_FX_M_S02_Footstep_03"
+  },
+  {
+    "name": "SE_FX_M_S02_Footstep_04"
+  },
+  {
+    "name": "SE_FX_M_S02_Footstep_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_S02_Footstep_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_S02_KB_1"
+  },
+  {
+    "name": "SE_FX_M_S02_KB_2"
+  },
+  {
+    "name": "SE_FX_M_S02_KD_Str_1"
+  },
+  {
+    "name": "SE_FX_M_S02_KD_Str_2"
+  },
+  {
+    "name": "SE_FX_M_S02_KD_Upp_1"
+  },
+  {
+    "name": "SE_FX_M_S02_KD_Upp_2"
+  },
+  {
+    "name": "SE_FX_M_S02_N_B_Mode"
+  },
+  {
+    "name": "SE_FX_M_S02_N_B_Mode_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_S02_N_B_Mode_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_S02_Paralysis_1"
+  },
+  {
+    "name": "SE_FX_M_S02_Paralysis_2"
+  },
+  {
+    "name": "SE_FX_M_S02_Raise"
+  },
+  {
+    "name": "SE_FX_M_S02_Raise_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_S02_Raise_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_S02_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_S02_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_S02_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_S02_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_S02_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_S02_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_S02_Spawn_01_1"
+  },
+  {
+    "name": "SE_FX_M_S02_Spawn_01_2"
+  },
+  {
+    "name": "SE_FX_M_S02_Stun_01_1"
+  },
+  {
+    "name": "SE_FX_M_S02_Stun_01_2"
+  },
+  {
+    "name": "SE_FX_M_Scar_SABreak_End_1"
+  },
+  {
+    "name": "SE_FX_M_Scar_SABreak_End_2"
+  },
+  {
+    "name": "SE_FX_M_Scar_SABreak_Start"
+  },
+  {
+    "name": "SE_FX_M_Scorn_B_Idle_01"
+  },
+  {
+    "name": "SE_FX_M_Scorn_B_N_Mode"
+  },
+  {
+    "name": "SE_FX_M_Scorn_Body_Down_1"
+  },
+  {
+    "name": "SE_FX_M_Scorn_Body_Down_2"
+  },
+  {
+    "name": "SE_FX_M_Scorn_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_Scorn_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_Scorn_DMG_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Scorn_DMG_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Scorn_DMG_Vox_3"
+  },
+  {
+    "name": "SE_FX_M_Scorn_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_Scorn_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_Scorn_Footstep_01"
+  },
+  {
+    "name": "SE_FX_M_Scorn_Footstep_02"
+  },
+  {
+    "name": "SE_FX_M_Scorn_Footstep_03"
+  },
+  {
+    "name": "SE_FX_M_Scorn_Footstep_04"
+  },
+  {
+    "name": "SE_FX_M_Scorn_Hard_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_Scorn_KBKD_1"
+  },
+  {
+    "name": "SE_FX_M_Scorn_KBKD_2"
+  },
+  {
+    "name": "SE_FX_M_Scorn_KB_1"
+  },
+  {
+    "name": "SE_FX_M_Scorn_N_B_Mode"
+  },
+  {
+    "name": "SE_FX_M_Scorn_Paralysis_1"
+  },
+  {
+    "name": "SE_FX_M_Scorn_Paralysis_2"
+  },
+  {
+    "name": "SE_FX_M_Scorn_Raise_1"
+  },
+  {
+    "name": "SE_FX_M_Scorn_Raise_2"
+  },
+  {
+    "name": "SE_FX_M_Scorn_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_Scorn_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Scorn_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Scorn_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_Scorn_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Scorn_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Scorn_Spawn_01_1"
+  },
+  {
+    "name": "SE_FX_M_Scorn_Stun"
+  },
+  {
+    "name": "SE_FX_M_SewerRat_Spawn_01_1"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_BodyDown_01"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_Death_Down"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_Death_Stand"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_SG_Skill_02_T02"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_SG_Skill_02_T03"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_SG_Skill_03_T03_Projectile_End_1"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_SG_Skill_03_T03_Projectile_End_2"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_SG_Skill_03_T03_Projectile_End_3"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_SG_Skill_04"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_Skill_01_Projectile_End_1"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_Skill_01_Projectile_End_2"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_Skill_01_Projectile_End_3"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_Skill_01_Projectile_Start_1"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_Skill_01_Projectile_Start_2"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_Skill_01_Projectile_Start_3"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_Skill_02_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_Skill_02_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_Skill_02_Projectile_3"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_Skill_03_Projectile_End_1"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_Skill_03_Projectile_End_2"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_Skill_03_Projectile_End_3"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_Skill_03_Projectile_Loop_1"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_Skill_03_Projectile_Loop_2"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_Skill_03_Projectile_Loop_3"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_Skill_03_Projectile_Start_1"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_Skill_03_Projectile_Start_2"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_Skill_03_Projectile_Start_3"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_Skill_03_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_SmallishPuppet_Skill_04"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_B_Idle_01"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_B_Idle_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_B_Idle_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_B_N_Mode"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_BodyDown_01"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_DMG_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_DMG_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_Death_Boom_01_1"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_Death_Boom_01_2"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_Death_Boom_02_1"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_Death_Boom_02_2"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_Death_Down"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_Death_Down_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_Death_Down_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_Death_Stand"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_Death_Stand_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_Death_Stand_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_Footstep_01"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_Footstep_02"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_N_B_Mode"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_N_Walk_01"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_N_Walk_02"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_N_Walk_03"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_N_Walk_04"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_N_idle_01"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_Raise"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_Skill_01_Projectile_End"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_Skill_01_Projectile_Start_1"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_Skill_01_Projectile_Start_2"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_Skill_01_Projectile_Start_3"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_Skill_01_Projectile_Start_4"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppet_Stun"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppett_LC_Skill_03_1"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppett_LC_Skill_03_2"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppett_LC_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_TinyPuppett_LC_Skill_03_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_B_Idle_01"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_B_Idle_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_B_Idle_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_B_N_Mode"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_BodyDown_01"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_DMG_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_DMG_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_Death_Stand"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_Death_Stand_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_Death_Stand_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_Footstep_01"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_Footstep_02"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_Hard_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_Hard_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_Hard_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_KB"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_KB_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_KB_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_N_B_Mode"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_N_Walk_01"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_N_Walk_02"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_N_Walk_03"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_N_Walk_04"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_Raise"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_Raise_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_Raise_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_Spawn_01_1"
+  },
+  {
+    "name": "SE_FX_M_VacuumParasite_Spawn_01_2"
+  },
+  {
+    "name": "SE_FX_M_Vacuumvane_B_Idle_01"
+  },
+  {
+    "name": "SE_FX_M_Vacuumvane_B_Idle_01_Vox"
+  },
+  {
+    "name": "SE_FX_M_Vacuumvane_B_N_Mode"
+  },
+  {
+    "name": "SE_FX_M_Vacuumvane_Body_Down_1"
+  },
+  {
+    "name": "SE_FX_M_Vacuumvane_Body_Down_2"
+  },
+  {
+    "name": "SE_FX_M_Vacuumvane_Body_Down_3"
+  },
+  {
+    "name": "SE_FX_M_Vacuumvane_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_Vacuumvane_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_Vacuumvane_Death_Boom_01_1"
+  },
+  {
+    "name": "SE_FX_M_Vacuumvane_Death_Boom_01_2"
+  },
+  {
+    "name": "SE_FX_M_Vacuumvane_Death_Boom_02_1"
+  },
+  {
+    "name": "SE_FX_M_Vacuumvane_Death_Boom_02_2"
+  },
+  {
+    "name": "SE_FX_M_Vacuumvane_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_Vacuumvane_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_Vacuumvane_Footstep_01"
+  },
+  {
+    "name": "SE_FX_M_Vacuumvane_KBKD_1"
+  },
+  {
+    "name": "SE_FX_M_Vacuumvane_KBKD_2"
+  },
+  {
+    "name": "SE_FX_M_Vacuumvane_KBKD_3"
+  },
+  {
+    "name": "SE_FX_M_Vacuumvane_N_B_Mode"
+  },
+  {
+    "name": "SE_FX_M_Vacuumvane_Paralysis_1"
+  },
+  {
+    "name": "SE_FX_M_Vacuumvane_Paralysis_2"
+  },
+  {
+    "name": "SE_FX_M_Vacuumvane_SG_B_Idle_01_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_Vacuumvane_SG_B_Idle_01_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_Vacuumvane_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_Vacuumvane_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Vacuumvane_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Vacuumvane_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_Vacuumvane_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Vacuumvane_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Vacuumvane_Spawn_01_1"
+  },
+  {
+    "name": "SE_FX_M_Vacuumvane_Stun_1"
+  },
+  {
+    "name": "SE_FX_M_Vacuumvane_Stun_2"
+  },
+  {
+    "name": "SE_FX_M_VenomMucus_LC_Skill_05_1"
+  },
+  {
+    "name": "SE_FX_M_VenomMucus_LC_Skill_05_2"
+  },
+  {
+    "name": "SE_FX_M_VenomMucus_LC_Skill_05_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_VenomMucus_LC_Skill_05_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_VenomMucus_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_VenomMucus_Skill_03_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_VenomMucus_Skill_03_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_VenomMucus_Skill_03_Projectile_3"
+  },
+  {
+    "name": "SE_FX_M_VenomMucus_Skill_03_Projectile_4"
+  },
+  {
+    "name": "SE_FX_M_VenomMucus_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_VenomMucus_Skill_03_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_VenomMucus_Skill_04"
+  },
+  {
+    "name": "SE_FX_M_VenomMucus_Skill_04_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_VenomMucus_Skill_04_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_VenomMucus_Skill_04_Projectile_3"
+  },
+  {
+    "name": "SE_FX_M_VenomMucus_Skill_04_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_VenomMucus_Skill_04_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_VenomMucus_Spawn_01_1"
+  },
+  {
+    "name": "SE_FX_M_VenomMucus_Spawn_01_2"
+  },
+  {
+    "name": "SE_FX_M_VioletMurderess_JH_Skill_04"
+  },
+  {
+    "name": "SE_FX_M_VioletMurderess_JH_Skill_04_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_VioletMurderess_JH_Skill_04_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_VioletMurderess_JH_Skill_04_Projectile_3"
+  },
+  {
+    "name": "SE_FX_M_VioletMurderess_JH_Skill_04_Projectile_4"
+  },
+  {
+    "name": "SE_FX_M_VioletMurderess_JH_Skill_06"
+  },
+  {
+    "name": "SE_FX_M_VioletMurderess_JH_Skill_06_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_VioletMurderess_JH_Skill_06_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_VioletMurderess_JH_Skill_07_End"
+  },
+  {
+    "name": "SE_FX_M_VioletMurderess_JH_Skill_07_Loop_1"
+  },
+  {
+    "name": "SE_FX_M_VioletMurderess_JH_Skill_07_Loop_2"
+  },
+  {
+    "name": "SE_FX_M_VioletMurderess_JH_Skill_07_Loop_3"
+  },
+  {
+    "name": "SE_FX_M_VioletMurderess_JH_Skill_07_Start"
+  },
+  {
+    "name": "SE_FX_M_VioletMurderess_JH_Skill_07_Start_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_VioletMurderess_JH_Skill_07_Start_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_VioletMurderess_JH_Skill_08_Loop_1"
+  },
+  {
+    "name": "SE_FX_M_VioletMurderess_JH_Skill_08_Loop_2"
+  },
+  {
+    "name": "SE_FX_M_VioletMurderess_JH_Skill_08_Loop_3"
+  },
+  {
+    "name": "SE_FX_M_VioletMurderess_JH_Skill_09_End"
+  },
+  {
+    "name": "SE_FX_M_VioletMurderess_JH_Skill_09_End_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_VioletMurderess_JH_Skill_09_End_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_VioletMurderess_JH_Skill_09_Loop_1"
+  },
+  {
+    "name": "SE_FX_M_VioletMurderess_JH_Skill_09_Loop_2"
+  },
+  {
+    "name": "SE_FX_M_VioletMurderess_JH_Skill_09_Loop_3"
+  },
+  {
+    "name": "SE_FX_M_VioletMurderess_JH_Skill_09_Start"
+  },
+  {
+    "name": "SE_FX_M_VioletMurderess_JH_Skill_09_Start_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_VioletMurderess_JH_Skill_09_Start_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Warlike_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_Warlike_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Warlike_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Warlike_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_Warlike_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Warlike_Skill_03_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_WebCoccon_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_WebCoccon_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_WebCoccon_Death_Stand"
+  },
+  {
+    "name": "SE_FX_M_WildStone_B_N_Mode"
+  },
+  {
+    "name": "SE_FX_M_WildStone_B_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_WildStone_B_Skill_01_Vox"
+  },
+  {
+    "name": "SE_FX_M_WildStone_Body_Down_1"
+  },
+  {
+    "name": "SE_FX_M_WildStone_Body_Down_2"
+  },
+  {
+    "name": "SE_FX_M_WildStone_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_WildStone_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_WildStone_DMG_3"
+  },
+  {
+    "name": "SE_FX_M_WildStone_Death_Boom_01_1"
+  },
+  {
+    "name": "SE_FX_M_WildStone_Death_Boom_01_2"
+  },
+  {
+    "name": "SE_FX_M_WildStone_Death_Boom_02_1"
+  },
+  {
+    "name": "SE_FX_M_WildStone_Death_Boom_02_2"
+  },
+  {
+    "name": "SE_FX_M_WildStone_Death_Down_1"
+  },
+  {
+    "name": "SE_FX_M_WildStone_Death_Down_2"
+  },
+  {
+    "name": "SE_FX_M_WildStone_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_WildStone_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_WildStone_Footstep_01"
+  },
+  {
+    "name": "SE_FX_M_WildStone_Footstep_02"
+  },
+  {
+    "name": "SE_FX_M_WildStone_Footstep_03"
+  },
+  {
+    "name": "SE_FX_M_WildStone_Footstep_04"
+  },
+  {
+    "name": "SE_FX_M_WildStone_Hard_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_WildStone_Hard_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_WildStone_Hard_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_WildStone_KBKD_1"
+  },
+  {
+    "name": "SE_FX_M_WildStone_KBKD_2"
+  },
+  {
+    "name": "SE_FX_M_WildStone_KBKD_3"
+  },
+  {
+    "name": "SE_FX_M_WildStone_N_B_Mode"
+  },
+  {
+    "name": "SE_FX_M_WildStone_Paralysis_1"
+  },
+  {
+    "name": "SE_FX_M_WildStone_Paralysis_2"
+  },
+  {
+    "name": "SE_FX_M_WildStone_Raise"
+  },
+  {
+    "name": "SE_FX_M_WildStone_Spawn_01_1"
+  },
+  {
+    "name": "SE_FX_M_WildStone_Spawn_01_2"
+  },
+  {
+    "name": "SE_FX_M_WildStone_Spawn_02_1"
+  },
+  {
+    "name": "SE_FX_M_WildStone_Spawn_02_2"
+  },
+  {
+    "name": "SE_FX_M_WildStone_Stun_1"
+  },
+  {
+    "name": "SE_FX_M_WildStone_Stun_2"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_B_Idle_01_1"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_B_Idle_01_2"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_B_N_Mode"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_B_N_Mode_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_B_N_Mode_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Body_Down_1"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Body_Down_2"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_DMG_1"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_DMG_2"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_DMG_3"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Death_Down_1"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Death_Down_2"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Death_Stand_1"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Death_Stand_2"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Footstep_01"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Footstep_02"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Footstep_03"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Footstep_04"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Footstep_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Footstep_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Hard_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_KB_1"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_KB_2"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_KD_1"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_KD_2"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_N_B_Mode"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_N_B_Mode_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_N_B_Mode_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Paralysis_01_1"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Paralysis_01_2"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Raise"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Raise_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Raise_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Skill_03_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Spawn_01_1"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Spawn_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Spawn_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Spawn_02_1"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Stun_01_1"
+  },
+  {
+    "name": "SE_FX_M_Wreckage_Stun_01_2"
+  },
+  {
+    "name": "SE_FX_M_X020_B_Idle_01_1"
+  },
+  {
+    "name": "SE_FX_M_X020_B_Idle_01_2"
+  },
+  {
+    "name": "SE_FX_M_X020_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_X020_Skill_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_X020_Skill_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_X020_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_X020_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_X020_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_X020_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_X020_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_X020_Skill_03_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_X020_Skill_04"
+  },
+  {
+    "name": "SE_FX_M_X020_Skill_04_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_X020_Skill_04_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_X020_Skill_05_End"
+  },
+  {
+    "name": "SE_FX_M_X020_Skill_05_End_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_X020_Skill_05_End_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_X020_Skill_05_Grip"
+  },
+  {
+    "name": "SE_FX_M_X020_Skill_05_Grip_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_X020_Skill_05_Grip_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_X020_Skill_05_Start"
+  },
+  {
+    "name": "SE_FX_M_X020_Skill_05_Start_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_X020_Skill_05_Start_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_X111_SG_Skill_01_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_X111_SG_Skill_01_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_X111_SG_Skill_01_Projectile_3"
+  },
+  {
+    "name": "SE_FX_M_X111_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_X111_Skill_02"
+  },
+  {
+    "name": "SE_FX_M_X111_Skill_02_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_X111_Skill_02_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_X111_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_X111_Skill_03_Projectile_1"
+  },
+  {
+    "name": "SE_FX_M_X111_Skill_03_Projectile_2"
+  },
+  {
+    "name": "SE_FX_M_X111_Skill_03_Projectile_3"
+  },
+  {
+    "name": "SE_FX_M_X111_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_X111_Skill_03_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_X111_Skill_04"
+  },
+  {
+    "name": "SE_FX_M_X111_Skill_04_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_X111_Skill_04_Vox_2"
+  },
+  {
+    "name": "SF_FX_M_D6_Turret_B_N_Mode"
+  },
+  {
+    "name": "SF_FX_M_D6_Turret_DMG_1"
+  },
+  {
+    "name": "SF_FX_M_D6_Turret_DMG_2"
+  },
+  {
+    "name": "SF_FX_M_D6_Turret_Death_Stand"
+  },
+  {
+    "name": "SF_FX_M_D6_Turret_N_B_Mode"
+  },
+  {
+    "name": "SF_FX_M_D6_Turret_Skill_01_Projectile_1"
+  },
+  {
+    "name": "SF_FX_M_D6_Turret_Skill_01_Projectile_2"
+  },
+  {
+    "name": "SF_FX_M_D6_Turret_Skill_01_Projectile_3"
+  },
+  {
+    "name": "Shelterturret_Death_Stand01"
+  },
+  {
+    "name": "Shelterturret_N_Run"
+  },
+  {
+    "name": "Shelterturret_Skill_01"
+  },
+  {
+    "name": "Shelterturret_Skill_02"
+  },
+  {
+    "name": "Shelterturret_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_B_Idle_01_Vox_1_JP"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_DMG_1_JP"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_DMG_2_JP"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_DMG_3_JP"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Death_Stand_1_JP"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Death_Stand_2_JP"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Footstep_Vox_1_JP"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_KBKD_1_JP"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_KBKD_2_JP"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_KBKD_3_JP"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_01_Vox_1_JP"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_01_Vox_2_JP"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_02_End_Vox_1_JP"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_02_End_Vox_2_JP"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_02_Start_Vox_1_JP"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_02_Start_Vox_2_JP"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_03_End_Vox_1_JP"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_03_End_Vox_2_JP"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_03_Start_Vox_1_JP"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_03_Start_Vox_2_JP"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_04_Vox_1_JP"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_04_Vox_2_JP"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_05_Vox_1_JP"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_05_Vox_2_JP"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_06_Vox_1_JP"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_06_Vox_2_JP"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_07_Start_Vox_1_JP"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_08_Vox_1_JP"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_08_Vox_2_JP"
+  },
+  {
+    "name": "SE_FX_M_JunkKnight_Skill_09_Start_Vox_1_JP"
+  },
+  {
+    "name": "Skill_05_Vox"
+  },
+  {
+    "name": "Skill_05_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_DukeSpider_Skill_06"
+  },
+  {
+    "name": "SE_FX_M_DukeSpider_Skill_06_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_DukeSpider_Skill_06_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_MeltinessCell_Action_01"
+  },
+  {
+    "name": "SE_FX_M_MeltinessCell_Action_01_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_MeltinessCell_Action_01_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_MeltinessCell_Skill_01"
+  },
+  {
+    "name": "SE_FX_M_MeltinessCell_Skill_03"
+  },
+  {
+    "name": "SE_FX_M_MeltinessCell_Skill_03_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_MeltinessCell_Skill_03_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_MumblePuppet_Skill_04_End"
+  },
+  {
+    "name": "SE_FX_M_MumblePuppet_Skill_04_End_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_MumblePuppet_Skill_04_End_Vox_2"
+  },
+  {
+    "name": "SE_FX_M_MumblePuppet_Skill_04_Loop_1"
+  },
+  {
+    "name": "SE_FX_M_MumblePuppet_Skill_04_Loop_2"
+  },
+  {
+    "name": "SE_FX_M_MumblePuppet_Skill_04_Loop_3"
+  },
+  {
+    "name": "SE_FX_M_MumblePuppet_Skill_04_Start"
+  },
+  {
+    "name": "SE_FX_M_MumblePuppet_Skill_04_Start_Vox_1"
+  },
+  {
+    "name": "SE_FX_M_MumblePuppet_Skill_04_Start_Vox_2"
+  }
+]

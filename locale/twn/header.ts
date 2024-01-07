@@ -3,7 +3,8 @@ import type { Header } from "../types/header";
 export const header = {
   menu: {
     settings: "Settings",
-    home: "Home",
+    sounds: "Sounds",
+    items: "Items",
   },
   locale: {
     name: "汉语",

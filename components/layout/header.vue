@@ -3,7 +3,11 @@
     <div class="grid grid-cols-[1fr_2fr_1fr] gap-4 bg-black/40">
       <nav class="flex justify-center gap-8 self-center py-4">
         <LayoutHeaderLink to="/">
-          {{ $t("header.menu.home") }}
+          {{ $t("header.menu.items") }}
+        </LayoutHeaderLink>
+
+        <LayoutHeaderLink to="sounds">
+          {{ $t("header.menu.sounds") }}
         </LayoutHeaderLink>
 
         <LayoutHeaderLink to="settings">

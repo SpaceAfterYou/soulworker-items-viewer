@@ -1,7 +1,8 @@
 export type Header = {
   menu: {
     settings: string;
-    home: string;
+    sounds: string;
+    items: string;
   };
   locale: {
     name: string;
