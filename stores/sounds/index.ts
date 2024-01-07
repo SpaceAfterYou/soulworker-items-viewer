@@ -13,7 +13,7 @@ export const useSoundsPackage = defineStore("sounds-packagecontainers-store", ()
 type ContainerData = ReadonlyArray<{ name: string }>;
 
 export const useSoundsContainers = defineStore("sounds-package-store", () => {
-  const cache = ref(new Map<string, ContainerData>());
+  const cache = ref(new Map<string, ContainerData | null>());
 
   const selected = ref<string>("");
 
@@ -25,7 +25,7 @@ export const useSoundsContainers = defineStore("sounds-package-store", () => {
     const end = selected.value.lastIndexOf("/");
     const name = selected.value.substring(end);
 
-    cache.value.set(name, []);
+    cache.value.set(name, null);
 
     useFetch<ContainerData>(urlToUrl(`sounds/${name}.json`)).then(({ data }) => {
       if (data.value) {
