@@ -55,7 +55,7 @@ export const slotType = {
     [SlotType.Skill]: "技能",
     [SlotType.Social]: "社会",
     [SlotType.OwnAkashicRecode]: "阿卡什（自己的）",
-    [SlotType.SkillAkashicRecode]: "Akashic (技能)",
+    [SlotType.SkillAkashicRecode]: "Akashic（技能）",
     [SlotType.ConsumeItem1]: "消耗品",
     [SlotType.HelperItem1]: "助手项目 1",
     [SlotType.HelperItem2]: "助手项目 2",
